@@ -2291,9 +2291,9 @@ There are three main categories of bias:
 
     These cognitive biases are based on the dual process model of cognition (Kahneman, 2012)[^4]
 
-    1. __System 1__ works unconsciously and quickly, but is prone to error. ![](47533941cf7f77e451e0d7c737cb9517368a3736.jpg) 
+    1. __System 1__ works unconsciously and quickly, but is prone to error. ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system1-fast.jpg)
 
-    2. __System 2__ thinks consciously and analytically, but requires more time and energy. ![](ba098658656558e38703a1a390dd018363d87c01.jpg)
+    2. __System 2__ thinks consciously and analytically, but requires more time and energy. ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system2-slow.jpg)
 
     > Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.
 
