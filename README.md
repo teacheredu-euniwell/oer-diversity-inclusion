@@ -338,7 +338,7 @@ One of the key foci during EUniWell´s pilot phase (2019-2023) was the definitio
 Based on literature and on the survey comparison of professional standard frameworks per country, the Teacher Education Arena identified four competence areas.
 
 1. Guidance
-2. __Inclusion__
+2. Inclusion
 3. Sustainability
 4. Health care
 
@@ -355,7 +355,7 @@ When referring to the design of education, inclusion implies a classroom where t
 * The teacher is able to plan and adapt differentiated education, respecting the different needs of students.
 * The teacher promotes supportive education, aiming at fostering independent, self-confident, and critical learners.
 
-Examples of professional standards and related expected professional behaviours (inclusion)
+Examples of professional standards and related expected professional behaviours (inclusion)[^4]
 ---
 
 <!-- data-type="none" -->
@@ -366,16 +366,13 @@ Examples of professional standards and related expected professional behaviours 
 
 
 
-Source : D3.27 Definition of common professional standards for European teachers.pdf
-
-_--> SR fragt ob die Grafik veröffentlicht wurde?_
-_Falls nicht, dann in Einleitung paraphrasieren_
-
 [^1]: Florian, L. (2017). Teacher education for the changing demographics of schooling: Inclusive education for each and every learner. In Teacher education for the changing demographics of schooling (pp. 9-20). Springer, Cham.
 
 [^2]: Popkewitz, T. S. (2004). Educational standards: Mapping who we are and are to become. The Journal of the Learning Sciences, 13(2), 243-256.
 
 [^3]: Asp-Onsjö, L. (2006). Åtgärdsprogram-dokument eller verktyg? En fallstudie i en kommun
+
+[^4]: D3.27 Definition of common professional standards for European teachers.pdf (Sarah ask if the EUniWEll document was made public)
 
 ## UNESCO Global Education Report on Inclusion and Education
 
