@@ -1,7 +1,7 @@
 <!--
-version:  2024.10.25
+version:  2024.10.25.01
 
-author:   Dr. Manuela Ulrich, Sarah Roos, Michael Kowalczyk, Samantha Jacobs
+author:   Manuela Ulrich, Sebastian Tillmann, Sarah Roos, Michael Kowalczyk, Samantha Jacobs
 
 email:    teacheredu.euniwell@uni-konstanz.de
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     24/10/2024
+date:     25/10/2024
 
 attribute: The OER Self-study Module "Diversity & Inclusion in Education" of the European University for Well-Beeing is licenced under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
@@ -1862,7 +1862,7 @@ Overall, as educators, it is important to know or recognise special behaviours a
 Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse 
 classroom settings; it is not a test for choosing right or wrong answers!
 
-> Under contruction. An image will be added here.
+> Under construction. An image will be added here.
 
 > __"Obesity" case description__
 >
@@ -2066,7 +2066,7 @@ Sie sind Lehrer*in einer 9. Klasse an einem ländlichen Gymnasium. Es ist Schulj
 
 Now, we describe a further, also the last on, case-vignette. Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse classroom settings; it is not a test for choosing right or wrong answers!
 
-> Under contruction. An image will be added here.
+> Under construction. An image will be added here.
 
 > __"Transgender" case description:__
 >
