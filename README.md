@@ -1,5 +1,5 @@
 <!--
-version:  2024.10.24
+version:  2024.10.25
 
 author:   Dr. Manuela Ulrich, Sarah Roos, Michael Kowalczyk, Samantha Jacobs
 
@@ -1862,9 +1862,7 @@ Overall, as educators, it is important to know or recognise special behaviours a
 Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse 
 classroom settings; it is not a test for choosing right or wrong answers!
 
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/2-andy.jpg "AI Image Gen generated image based on own prompt [^1]")
-</center>
+> Under contruction. An image will be added here.
 
 > __"Obesity" case description__
 >
@@ -2068,9 +2066,7 @@ Sie sind Lehrer*in einer 9. Klasse an einem ländlichen Gymnasium. Es ist Schulj
 
 Now, we describe a further, also the last on, case-vignette. Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse classroom settings; it is not a test for choosing right or wrong answers!
 
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/3-markus-martina.jpg "AI Image Gen generated image based on own prompt[^1]")
-</center>
+> Under contruction. An image will be added here.
 
 > __"Transgender" case description:__
 >
