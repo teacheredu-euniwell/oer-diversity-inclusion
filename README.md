@@ -741,7 +741,7 @@ These articles provide a value-free definition of diversity on the one hand and 
 
 In the next chapter
 --------
-We want to invite you to reflect about inclusive education.
+We want to invite you to reflect about discrimination.
 
 ### 2.3 Discrimination - What does it mean?
 
