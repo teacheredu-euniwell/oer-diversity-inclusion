@@ -1603,11 +1603,8 @@ and we keep all of our kids inside the classroom. And we get the opportunity to 
 
 <br>
 
---> H5P Drag and Drop hier mit der Tabelle zum Zuordnen.
+> Under construction: Here we will add a H5P drag & drop interaction.
 
-| for students                                                           | for teachers |
-| ---------------------------------------------------------------------- |:------------:|
-| children are not feeling labeld and excluded, excluded, peer teaching, different strategies, flexible groups |     better understanding of the materials, flexible groups, different strategies,      |
 
 ###	4.6 Summary Quiz
 
@@ -2627,4 +2624,9 @@ E-mail: [teacheredu.euniwell@uni-konstanz.de](mailto:teacheredu.euniwell@uni-kon
 
 
 <iframe style="width: 100%; aspect-ratio: 16 / 9; margin-top: 10px " src="https://euniwell.de.cool/wp-content/uploads/liascript/h5p/1.html" title="H5P" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+| for students                                                           | for teachers |
+| ---------------------------------------------------------------------- |:------------:|
+| children are not feeling labeld and excluded, excluded, peer teaching, different strategies, flexible groups |     better understanding of the materials, flexible groups, different strategies,      |
 
