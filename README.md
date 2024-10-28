@@ -1608,9 +1608,7 @@ and we keep all of our kids inside the classroom. And we get the opportunity to 
 
 ###	4.6 Summary Quiz
 
-* Multiple choice quiz will be added
-
-
+<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=34" width="958" height="1107" frameborder="0" allowfullscreen="allowfullscreen" title="Co-Teaching Forms and Applications (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 5. Students Diversity in Inclusive Classrooms
 
