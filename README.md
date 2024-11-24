@@ -785,16 +785,12 @@ Model of Quality Levels of Disability Policy and Disability Education
 | Level and Description  | Illustration [^4] | 
 | :------- | :------: | 
 | Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](0extinction.png)   | 
-
 |  |  | 
 | Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](1exclusion.png)   | 
-
 |  |  | 
 | Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](2segregation.png)   | 
-
 |  |  | 
 | Level 3 - __Integration__ <br><br> "Integration is a process of placing persons with disabilities in existingmainstream educational institutions, as long as the former can adjust to the standardized requirements of such institutions." (UN-CRPD, 2016)[^3]     |   ![Integration](3integration.png)   | 
-
 |  |  | 
 | Level 4 - __Inclusion__ <br><br> "IInclusion involves a process of systemic reform embodying changes and modifications in content, teaching methods, approaches, structures and strategies in education to overcome barriers with a vision serving to provide all students of the relevant age range with an equitable and participatory learning experience and environment that best corresponds to their requirements and preferences." (UN-CRPD, 2016)[^3]     |   ![Inclusion](4inclusion.png)   | 
 
@@ -1063,89 +1059,69 @@ Types of Cooperation
 
 Based on Lütje-Klose et al.(2024)[^1] a distinction can be made between:
 
-*	_Multiprofessional cooperation_ (i.e. between different professional groups, e.g. involving teachers, special needs teachers and school social workers in multi-perspective and case-related counselling, diagnostics and support planning),
+* __Multi-professional cooperation__ (i.e. between different professional groups like teachers, special needs teachers, and school social workers in multi-perspective and case-related counselling, diagnostics, and support planning),
 
-*	_Intraprofessional cooperation_ (i.e. within a professional group, e.g. between subject teachers) and
+* __Intra-professional cooperation__ (i.e. within a professional group like subject teachers), and
 
-*	_Interprofessional cooperation_ (i.e. between two professional groups, e.g. classroom teachers and special needs teachers, who work together in a class in relation to teaching).
+* __Inter-professional cooperation__ (i.e. between two professional groups like classroom teachers and special needs teachers who may work together with a class).
 
-All types of cooperation require a partnership relationship in which __goals, knowledge, resources, tasks and responsibilities__ are consciously shared. Such a relationship requires the development of trust and respect. Furthermore, team development requires time and commitment (Friend & Cook, 2010)[^2].
+All of these types of cooperation require relationships characterised by partnership and conscious __sharing of goals, knowledge, resources, tasks, and responsibilities__. Such relationships depend on trust and respect, which need to be cultivated. Team development also requires time and commitment (Friend & Cook, 2010)[^2].
 
 
 
-Multi-professional teams
+Multi-Professional Teams
 -----
 
-Looking on international research, it is undisputed that _multiprofessional teams_ and successful cooperation between the different educational actors are particularly crucial for inclusive education and the individual support of a diverse student body (Köpfer et al., 2021)[^3]. 
+International research has clarified beyond doubt that multi-professional teams and successful cooperation between the different educational actors are particularly crucial for inclusive education and giving individual support to the members of a diverse student body (Köpfer et al., 2021)[^3]. 
 
-The following illustration includes main features and conditions of successful multiprofessional teams.:
+The following illustration highlights the main features and conditions of successful multi-professional teams:
 
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/multiprof-teams-crop.png "Own illustration based on Widmer-Wolf (2018)[^4]")</center>
-
-When establishing different kinds of cooperation, general schools can adopt changes in overall structure so that inclusion becomes a part of the school’s culture. The role of school leaders is crucial; they are a kind of managers in the schools but also responsible for social networking. 
-
-Intraprofessional cooperation could be seen as a lower challenge because the actors have the same professional background, they have an idea of each other’s expertise and could change perspectives easier. Interprofessional cooperation is a main structure for inclusive lessons in general schools.
-
-
-A model teachers` perspectives on co-teaching
-----
-
-Let’s have a look at what teachers need to be successful in inclusive classrooms. The following illustration is a model of teachers’ perspectives on the conditions for successful co-teaching by Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]. 
-
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/jurkowski.jpg "3 Levels of co-teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5] ")</center>
-
-The categories describe the conditions for successful co-teaching in inclusive classes on the levels of the educational system, the single school, and the teaching dyad.
-
-<details>
-
-<summary> __Level 1 - Educational System__ (click to view)</summary>
-
+<center>![Multiprofessional-Teams](multiprofessional-teams.png) Multiprofessional Teams, own illustration based on Widmer-Wolf (2018)[^4]</center>
 <br>
 
-We identified two categories at the level of the educational system: __“teacher education”__ and __“inclusive school system”__.
+General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
 
-The category __"teacher education"__ included aspects of professionalisation in the ﬁeld of inclusive education (i.e. study curricula, pre-service and in-service teacher training). The special education teachers interviewed stated their lack of didactical knowledge that they would need for teaching large groups. In contrast, the general teachers reported the need for knowledge about their students’ special needs to provide suﬃcient assistance to those students when the special education teacher is not in the class.
+The role of school leaders is crucial; they manage schools but also social networking.
+Intra-professional cooperation could be seen as an easier challenge because the actors have the same professional background, understand each other's expertise, and can switch to understanding situations each other's perspectives more readily.
 
-The category __"inclusive school system"__ reﬂected the teachers’ ideas about the implementation of inclusion and the educational opportunities for children with special needs. It became clear that the teachers have the wish for the development of a full-inclusive school system. However, some  were not convinced that the high-achiever would benefit.
+Inter-professional cooperation is a vital structure for inclusive lessons in general schools.
 
-</details>
-
-<br>
-
-<details>
-
-<summary> __Level 2 - Single School__ (click to view)</summary>
-
-<br>
-
-The three main categories on this level concern structural and organisational conditions as well as attitudes towards co-teaching and co-teachers’ collaboration in inclusive classes: "organisation of inclusive teaching" (time for teaching dyads, equipment, and teaching concepts), "multi-professional cooperation" (cooperation within a school, with external professionals, and with parents and families), and "principals’ administration" (principals’ responsibility to provide co-teachers with guidelines as well as their attitudes towards inclusive schooling).
-
-</details>
-
-<br>
-
-<details>
-
-<summary> __Level 3 - Teaching dyad/co-teachers__ (click to view)</summary>
-
-<br>
-
-The level of the co-teacher contains six categories regarding to a social-emotional as well as role-related aspects: "relationship" (e.g., sympathy), "task assignment" (e.g., professional role-taking), "forms of collaboration" (e.g., shared reflecion on a lesson and constructive planning), individual "beneﬁts from co-teaching" (Entlastung, berufliches Lernen); "self-organisation" (Zeitfenster für Absprachen), and "inclusive learning arrangements" (je nach Klasse anpassen).
-
-</details>
-
-<br>
-
-
-
-Overall, this chapter has shown which adjustments the school system - whether at the political-educational system level, the school management level or the teaching level - must be capable of acting on in order to organise inclusive education. 
-
-In view of the legal situation, it should not be a question of whether inclusion is possible in the school context; instead, all educational stakeholders must act cooperatively in their various roles, set out on a journey and pursue common goals. Ultimately, development takes time and positive experiences!
-
-In the next section
+A Model of Teachers' Perspectives on Co-Teaching
 ---
+Let us have a look at what teachers need to be successful in inclusive classrooms.
+The illustration below is a model of teachers' perspectives on the conditions for successful co-teaching by Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5].
 
-In the following chapter, we will move away from the professional level of action and look at the _diversity characteristics_ of the pupils that teachers may be confronted with in their classes.
+<center>![](co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
+<br>
+
+The categories describe the conditions for successful co-teaching in inclusive classes at the levels of the __education system, the single school, and the teaching dyad__.
+
+> __Level 1 - Educational System__ 
+> 
+> We identified two categories at the level of the education system: __“teacher education”__ and __“inclusive school system”__.
+>
+> The __"teacher education"__ category includes aspects of professionalisation in the ?eld of inclusive education (i.e. study curricula, pre-service and in-service teacher training). The special education teachers interviewed reported that they lacked the methodological knowledge that they would need to teach large groups.In contrast, the general teachers reported a need for knowledge about their students' special needs so they can provide su?cient assistance to those students when the special education teacher is not present.
+>
+> The __"inclusive school system"__ category re?ected the teachers' ideas about the implementation of inclusion and educational opportunities for children with special needs. It became clear that the teachers desire the development of a fully inclusive school system. However, some teachers were not convinced that high-achievers would benefit.
+
+> __Level 2 - The Single School__ 
+> 
+> The three main categories at this level relate to structural and organisational conditions as well as to attitudes towards co-teaching and collaboration between co-teachers in inclusive classes: __"organisation of inclusive teaching"__ (time for coordinating teaching dyads, equipment, and the planning of teaching), __"multi-professional cooperation"__ (cooperation within a school, with external professionals, and with parents and families), and __"principals' administration"__ (principals' responsibility to provide co-teachers with guidelines as well as their attitudes towards inclusive schooling).
+
+> __Level 3 - The Teaching Dyad__ 
+>
+> The level of the co-teacher contains six categories relating to social-emotional and role-related aspects: __"relationship"__ (e.g. personal compatibility), __"task assignment"__ (e.g. professional role-taking), __"forms of collaboration"__ (e.g. shared reflection on a lesson and constructive planning), __"individual "benefits from co-teaching"__ (reduced stress and pressure, continued professional learning); __"self-organisation"__ (time windows for coordination), and __"inclusive learning arrangements"__ (adapted on a class-by-class basis).
+
+
+Overall, this chapter has shown what adjustments the school system is and must be capable of making to organise inclusive education at the levels of teaching, school management, and the education system as a whole (including its political shaping).
+
+Given the prevailing legal situation, the question of whether inclusion is possible in the school context should not arise; instead, all educational stakeholders must act cooperatively in their various roles and advance towards shared goals together.
+Ultimately, development needs time and positive experiences!
+
+
+What You Will Find in the Next Section
+---
+The next section will shift from the professional level of action to an examination of the diversity characteristics of the students that teachers may encounter in their classes.
 
 
 ---
