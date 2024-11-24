@@ -1112,7 +1112,6 @@ The categories describe the conditions for successful co-teaching in inclusive c
 >
 > The level of the co-teacher contains six categories relating to social-emotional and role-related aspects: __"relationship"__ (e.g. personal compatibility), __"task assignment"__ (e.g. professional role-taking), __"forms of collaboration"__ (e.g. shared reflection on a lesson and constructive planning), __"individual "benefits from co-teaching"__ (reduced stress and pressure, continued professional learning); __"self-organisation"__ (time windows for coordination), and __"inclusive learning arrangements"__ (adapted on a class-by-class basis).
 
-
 Overall, this chapter has shown what adjustments the school system is and must be capable of making to organise inclusive education at the levels of teaching, school management, and the education system as a whole (including its political shaping).
 
 Given the prevailing legal situation, the question of whether inclusion is possible in the school context should not arise; instead, all educational stakeholders must act cooperatively in their various roles and advance towards shared goals together.
