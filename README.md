@@ -191,15 +191,15 @@ The content of this OER has been provided by the University of Konstanz as part 
 
 OER Project Team: 
 
-* Sarah Roos (Project Coordination)
-* Dr. des. Manuela Ulrich (Diversity & Inclusion) 
-* Dr. Sebastian Tillmann (Chapter 7. Unconscious Bias)
-* Michael Kowalczyk (Educational Media)
+* [Sarah Roos](mailto:sarah.roos@uni-konstanz.de) (Project Coordination)
+* [Dr. des. Manuela Ulrich](https://www.bildungsforschung.uni-konstanz.de/dr-manuela-ulrich/) (Diversity & Inclusion)
+* [Dr. Sebastian Tillmann](https://www.exc.uni-konstanz.de/en/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tillmann-sebastian/) (Chapter 7. Unconscious Bias)
+* [Michael Kowalczyk](mailto:michael.kowalczyk@uni-konstanz.de) (Educational Media)
 
 Acknowledgements:
 
-* The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
 * Samantha Jacobs (Student Assistant)
+* The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
 
 The Chapter Header Illustrations are by [Manfred Steger](https://pixabay.com/de/users/1848497/) published under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
 
@@ -231,11 +231,11 @@ Download
 
 > [__About this OER__](#2)
 
-> [__About the EUniWell Project__](#6)
+> [__About the EUniWell Project__](#5)
 
-> [__UNESCO Global education report on inclusion and education__](#9)
+> [__UNESCO Global education report on inclusion and education__](#8)
 
-> [__Chapter 1 - System-Theoretical Perspectives__](#11)
+> [__Chapter 1 - System-Theoretical Perspectives__](#9)
 >
 > Social structures and global influences determine inclusion and inclusive education in our constantly evolving societies; this framework influences institutions and interactions and shapes the perceptions and identities of groups and individuals. With regard to the aims of inclusion and quality education, we should see the individual in the middle of society. Furthermore, we should look at the everyday interactions in our nearest socio-ecological environments and remind ourselves that thinking and acting in inclusive ways is everyone's responsibility.
 > 
@@ -245,7 +245,7 @@ Download
 > * You are able to explain the application of systems theory to the school system (including multi-level and ecosystemic models).
 > * You are able to describe how symbolic interactionism explains social behaviors related to inclusion. 
 
-> [__Chapter 2 - Discrimination, Diversity and Inclusion__](#16)
+> [__Chapter 2 - Discrimination, Diversity and Inclusion__](#14)
 > 
 > People have different characteristics in various social, biological, and psychological dimensions and act differently in their interactions with others. This can lead to discriminatory situations. Looking at the historical development of diversity as well as inclusion and their definitions (and at the problems involved in finding value-free descriptions of the phenomena) reveals that concepts and terms such as diversity, integration, and inclusion have shifted over time. Some researchers refer to a paradigm shift that has taken place in modern society.
 >
@@ -254,7 +254,7 @@ Download
 > * You are able to provide basic definitions of diversity and inclusion and to delineate related concepts such as exclusion, separation, and integration.
 > * You are able to describe forms of discrimination.
 
-> [__Chapter 3 - Inclusion in Global Legal Foundations__](#20)
+> [__Chapter 3 - Inclusion in Global Legal Foundations__](#18)
 >
 > With the help of global cooperation, international legal frameworks (e.g. the Universal Declaration of Human Rightshuman rights convention) and national ratificationrights (e.g. of the ratification of the UN Convention on the Rights of Persons with Disabilities (CRPD), in Germany in 2009) have been agreed over time to ensure that people can live together in societies without discrimination. Looking to the future, the UN Sustainable Development Goals (SDGs) highlight shared visions and common goals for fostering inclusion as a socio-political process and the well-being of all generations.
 >
@@ -262,7 +262,7 @@ Download
 > 
 > * You are able to describe the significance of international treaties and their implications for inclusion in education.
 
-> [__Chapter 4 - Inclusive School Structures and Practices__](#24)
+> [__Chapter 4 - Inclusive School Structures and Practices__](#22)
 >
 > Educational institutions should ensure that individuals (children, students, teachers, and other involved adults) are aware of global values and inclusive objectives so that they can put them into practice. To achieve this, social institutions need quality frameworks (e.g. multi-professional teams, team teaching, and integrative approaches in the school system)
 > 
@@ -271,7 +271,7 @@ Download
 > * You are able to specify what inclusive education means.
 > * You are able to explain how inclusive education could be implemented in schools at different levels (i.e. education system, single school, lesson).
 
-> [__Chapter 5 - Examples of Students´ Diversity in Inclusive Classrooms__](#31)
+> [__Chapter 5 - Examples of Students´ Diversity in Inclusive Classrooms__](#29)
 >
 > Teachers must be able to respond to the different needs and requirements of each individual student. To achieve this, they must be sensitised to the various dimensions of diversity (social-cultural, biological-physical, and psycho-emotional). Furthermore, they must learn how to react in inclusive lessons, experiment with what makes quality inclusion possible, and engage in reflection with colleagues in the school context and other professionals.
 > 
@@ -280,9 +280,9 @@ Download
 > * You are able to describe the characteristics of student diversity in different dimensions.
 > * You are able to appraise situations possibly involving discrimination in schools/lessons, analyse them from the students' point of view, and indicate and justify a course of action appropriate to the situation.
 
-> [__Chapter 6 - Final Quiz__](#41)
+> [__Chapter 6 - Final Quiz__](#39)
 
-> [__Chapter 7 - Unconscious Bias (Add-on)__](#42)
+> [__Chapter 7 - Unconscious Bias (Add-on)__](#40)
 > 
 > The human species benefits from a foundation of specific cognitive abilities. However, this also means that all individuals are influenced by unconscious biases that guide their thoughts and actions throughout their lives - including teachers expected to approach special educational needs or migration fairly.
 > 
@@ -293,13 +293,13 @@ Download
 > * You will learn through practical examples how biases can be avoided.
 
 
-> [__Your Feedback__](#49)
+> [__Your Feedback__](#47)
 
-> [__Bibliography__](#50)
+> [__Bibliography__](#48)
 
-> [__Author Credits and Contact Information__](#51)
+> [__Author Credits and Contact Information__](#49)
 
-> [__Downloads__](#52)
+> [__Downloads__](#50)
 
 ### Tune in: Keywords and Crossword
 
