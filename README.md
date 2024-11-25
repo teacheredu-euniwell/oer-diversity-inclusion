@@ -1244,7 +1244,7 @@ It is crucial that co-teachers take enough time to discuss and answer these ques
 
 [^2]: Studienseminar Hannover für das Lehramt für Sonderpädagogik. (n.d.). Handreichungen zur Ausbildung im gemeinsamen Unterricht. https://lehrerfortbildung-bw.de/s_sueb/alle/fb1/6_mat/3_zusammen/11_lit/Handreichungen-zur-Ausbildung-im-gemeinsamen-Unterrich.pdf 
 
-### 4.5 Tipps for Planning Co-Teaching in the Classroom
+### 4.5 Tips for Planning Co-Teaching in the Classroom
 
 > __Your task:__
 > 
