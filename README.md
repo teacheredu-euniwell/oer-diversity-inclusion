@@ -686,13 +686,11 @@ You can test your acquired knowledge below.
 
 [^3]: Helle, Horst J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher. 
 
-
 ###	1.4 Summary Quiz
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=29" width="958" height="688" frameborder="0" allowfullscreen="allowfullscreen" title="Bronfenbrenners Ecological Model (Drag&amp;Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=30" width="958" height="687" frameborder="0" allowfullscreen="allowfullscreen" title="Fends Social Systems Interaction (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
 
 ## 2. Discrimination, Diversity and Inclusion
 
@@ -808,7 +806,7 @@ Inclusive education is differentiated from "integration", which was identified w
 
 It is also differentiated from "mainstreaming", in which students with disabilities belong to special education classes but "visit" general education classes to engage in educational and social activities with their same-age general education peers (Halvorsen & Neary, 2001[^2]; Sailor, 1991[^3]).
 
-Unlike integrated or mainstreamed students, students who receive inclusive educational services are members of the general education classroom community. According to Halvorsen and Neary (2001)[^2], “the single most identifiable characteristic of inclusive education is membership. Students who happen to have disabilities are seen first as kids who are a natural part of the school and the age appropriate general education classroom they attend” (Hunt & McDonnall, 2007, S. 270)[^4]
+Unlike integrated or mainstreamed students, students who receive inclusive educational services are members of the general education classroom community. According to Halvorsen and Neary (2001)[^2], “the single most identifiable characteristic of inclusive education is membership. Students who happen to have disabilities are seen first as kids who are a natural part of the school and the age appropriate general education classroom they attend” (Hunt & McDonnall, 2007, p.270)[^4]
 
 Interactive Reflection on Inclusive Settings in the Classroom
 ---
@@ -853,7 +851,8 @@ Drag and Drop Your Observations Into the Appropriate Fields.
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=32" width="958" height="688" frameborder="0" allowfullscreen="allowfullscreen" title="Integration, percieved inclusion &amp; inclusion (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-[^1]: Hunt, P., & McDonnall, J. (2007). Inclusive education. In van der Gaag, R.J. S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.) (2007). Handbook of developmental disabilities. New York/Londen: Guilford Press. https://doi.org/10.1007/BF03089708
+
+[^1]: Hunt, P., & McDonnall, J. (2007). Inclusive education. In van der Gaag, R.J. S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.) (2007). Handbook of developmental disabilities. (pp. 269-291) New York/Londen: Guilford Press. https://doi.org/10.1007/BF03089708
 
 ## 3. Inclusion in Global Legal Foundations
 
@@ -1122,14 +1121,17 @@ The most important aspects of establishing a co-teaching relationship are outlin
 <br>
 
 Three Steps for Developing Co-Teaching
+===
+
+__1. Getting to Know Each Other (Similarities and Differences)__
 ---
 
-1. __Getting to Know Each Other (Similarities and Differences)__
 An important first step in developing co-teaching is for the co-teaching partners to get to know each other and to discuss their goals, interests, teaching styles, working styles, and preferences for giving and receiving feedback.
 
 Spending hours together every day and sharing almost every aspect of teaching can be fun, but it can also lead to frustration and conflict.
 
-2. __Sharing Roles and Responsibilities__
+__2. Sharing Roles and Responsibilities__
+----
 The aim should be to plan, implement, and evaluate the lesson together and to share responsibilities. Different strengths of the co-teachers can come into play in the planning and design of lessons, but both should play an equal part in all aspects of the lesson. In well-functioning co-teaching classes, it is often impossible to tell at first glance who is a special needs teacher and who is a mainstream teacher because both are equally committed and have an equal say.
 
 __Six Forms of co-teaching__
@@ -1140,92 +1142,103 @@ In practice, dividing up roles and responsibilities between two teachers can be 
 |:-------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | __Teacher and observer__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-observer.png) -   | OOne teacher leads the instruction of a large group while the other gathers academic, behavioural, or social data on specific students or on the entire class group.                                                                         | For detailed recording of the learning process, i.e. learning behaviour/progress of individual students.                                                           |
 | __Teacher and assistant__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-assistant.png)  | One teacher leads instruction while the other circulates among the students offering individual assistance.                                                                                                                  | Useful when a teacher has special expertise for the teaching unit and for teaching units that require particular progress and intensive monitoring of the learning process. |
-| __Team teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/team-teaching.png)        | Both teachers lead large-group instruction by both lecturing, representing opposing views in a debate, illustrating two ways to solve a problem, and so on.                                                                 | With team teaching, students experience open and differentiated lessons in which teachers and students work together.                                            |
+| __Team teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/team-teaching.png)        | Both teachers lead large-group instruction by both presenting content, representing opposing views in a debate, illustrating two ways to solve a problem, and so on.                                                                 | With team teaching, students experience open and differentiated lessons in which teachers and students work together.                                            |
 
 | Form of co-teaching                                                                       | Description                                                                                                                                                                                                                  | Use case                                                                                                                                                        |
 |:-------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| __Parallel teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/parallel-teaching.png)    | Two teachers, each with half the classgroup, present the same material for the primary purpose of fostering instructional differentiation and increasing student participation.                                             | To be able to better support pupils in the learning process by reducing the pupil-teacher ratio and to promote the participation of pupils.                        |
-| __Station teaching__  ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/station-teaching.png)    | Instruction is divided into three nonsequential parts and students, likewise divided into three groups, rotate from station to station, being taught by the teachers at two stations and working independently at the third. | When learning content is complex but not hierarchical and to provide an overview of topics.                                                                        |
-| __Alternative teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/alternative-teaching.png) | One teacher works with most students while the other works with a small group for remediation, enrichment, assessment, pre teaching, or another purpose.                                                                     | If the level of achievement in the subject is very different and if some pupils have a parallel curriculum.                                                                                                    |
+| __Parallel teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/parallel-teaching.png)    | Two teachers, each with half the class group, present the same material for the primary purpose of differentiating instruction and increasing student participation.                                             | To be able to better support students in the learning process by reducing the pupil-teacher ratio and promoting participation.                        |
+| __Station teaching__  ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/station-teaching.png)    | Instruction is divided into three non-sequential parts and students, likewise divided into three groups, rotate from station to station, being taught by teachers at two stations and working independently at the third. | When learning content is complex but not hierarchical and to provide an overview of topics.                                                                        |
+| __Alternative teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/alternative-teaching.png) | One teacher works with most students while the other works with a small group for remediation, enrichment, assessment, pre-teaching, or another purpose.                                                                     | If the level of achievement in the subject is very different and if some students have a parallel curriculum.                                                                                                    |
           |
 
-^Table 1. is based on Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010)[^1] and Studienseminar Hannover für das Lehramt für Sonderpädagogik: Handreichungen zur Ausbildung im gemeinsamen Unterricht. Own translation.[^2]^
+^Table 1. is based on Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010)[^1] and Studienseminar Hannover für das Lehramt für Sonderpädagogik: Handreichungen zur Ausbildung im gemeinsamen Unterricht. Ttranslation by project team.[^2]^
 
-__Video Playlist: Six forms of Co-teaching__
+__Video playlist: Six forms of Co-Teaching__
+
+To play a specific co-teaching form video, click on the playlist icon (1/8) in the top right corner of the youtube video.
 
 <iframe style="width: 100%; aspect-ratio: 16 / 9; margin-top: 10px " src="https://www.youtube.com/embed/videoseries?si=_pLFHznqfxMOQz3O&amp;list=PLCDsTyftAA2D_buI_Rti5phLZ1DdFsAMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Regardless of which model of collaboration co-teachers implement, they are required to engage in an intensive examination of how both experts want to share their responsibility for planning, implementing and evaluating lessons. If both experts give each other appropriate freedom of action in these aspects, their competencies are not only used, but also expanded over time and can therefore be used more flexibly.
+<details>
 
-3. __Develop a shared classroom in detail__
+<summary>~~**Click here to show the video transcript**~~</summary>
 
-Once co-teachers have laid the foundations for good collaboration and agreed on how to share their roles, it is important to think about the detailed issues of their collaboration. 
+Co-Teaching Overview
+
+Co teaching is an approach used in California State University Chico’s Rural Teacher Residency Program to strengthen the clinical experience for candidates, partner teachers, and K to 12 students. Chico State’s Teacher Residency Program was developed with the support the teacher quality partnership grant from the  U.S. Department of Education’s Office of Innovation and Improvement to encourage new approaches to teacher preparation. Co-teaching allows mentor and resident teachers to collaborate at high levels to positively impact student achievement. Through this classroom collaboration, both teachers are involved in planning, organization, delivery, and assessment of lessons taught in the classroom. There are six strategies used in co-teaching  The six strategies are: One Teach, One Assist; One Teach, One Observe; Station Teaching; Parallel Teaching; Alternative or Differentiated Teaching; and Team Teaching. These strategies are non-hierarchical and can be used in any order or combined to best meet the needs of the students. In this video, we will provide an overview of the co-teaching strategies, discuss when to use them and explore the benefits that can be derived from each strategy. Let’s get started!
+
+One Teach, One Assist:
+
+In this strategy, One Teach, One Assist, one teacher acts as the primary teacher while the other assists and supports the learners. In this demonstration, the primary teacher is a mentor and the assists position of the lesson is carried out by a resident teacher. These two roles can be switched depending on the strengths of each teacher and the content being taught. The co-teacher assists by monitoring student work, addressing behavior issues,  answering student questions, distributing materials, or asking the lead teacher to clarify
+any developing student misconceptions. If you have a class where you know that it’s more of a behavior issue  it’s really getting the students be on task. And if you have a class where, the kids are more engaged and into it, then it’s really asking them those higher-level questions to make them think more, if they are  pair-sharing and encouraging pair-share. This strategy is helpful when distributing materials during hands-on lessons or when closely monitoring student learning during lessons and is meant to be used occasionally.
+In this lesson, what I noticed what I was using a lot of was proximity with the student in monitoring their behaviors also making sure that the students were at the same part in the worksheet on task and doing the same work as everybody else as well as checking for some understanding making sure that some of the students understood. The benefits of having her in that role is that I’m able to kind of just relax and teach and just really kind of get into the moment creating that experience for the students and not have to worry about all the little things that have to be supported. I just know that there’s somebody else in the classroom that’s there for me why I’m teaching and then when that person is teaching I can be there for them too. So it’s just nice having two people teach one lesson. When we plan our lessons I guess we take a look at what the lesson is and decide really who teaches that specific lesson and then automatically the other person  would go into the One Assist role if that’s what we decided to do. She may take more of a lead in history, then I know I would be a assisting her, whereas science is more my thing sometimes so she really would assist me in science. We are co-teachers, and when you set up your room you want to make sure that all of that is equal so that the students really understand that it is.
+
+One Teach, One Observe
+
+Decision making in classrooms should be based on data. In this strategy: One Teach, One Observe, one teacher acts as the primary teacher, while the other gathers specific observational information on student learning. In this presentation, the resident is the primary teacher and the mentor is the observer, but these roles can be switched depending on the topic or interests the teachers. The purpose of the One Teach, One Observe strategy is basically to gather information or data on a student or particular students while teaching to find
+the best practices that the teacher needs to use to make sure the student is engaged and understanding or learning.  We collected data through their behaviors how often they’re on topic, how often they’re not on topic. This strategy allows teachers to better understand differences in student learning through careful observation of student behaviors or the learning environment. This strategy can also be used when one of the co-teachers is needing to gain specific information about their own teaching style or methods. He’ll do it one day, and I’ll do it one day here and there just to see if he’s struggling with a student more so than I’m struggling with the student. Or if I’m struggling with a student more so than he’s struggling with a student. By different strategies or different ways that we can have a student engage in our teaching strategies. Some examples of possible data to collect would be a student’s academic performance during a given lesson or their behavioral and social skills while in the classroom. We use ABC data which is basically Antecedent, Behavior, and Consequences within the student and how he is behaving towards another student. Also the collecting data guides us into a better way to actually set the students in pairs or in groups and it keeps them more on task and more off task depending on what student we pair them with. So, the data collecting is quite amazing, it works really well for us. What I did was I was observing my focus student and also another student who’s an average student just to get a comparison, and was mostly on task behavior that I was looking at. This specific student has a tendency to find distractions and so I wanted to record how much on task behavior there was so that i could report that to the team when we evaluate what we need to do to make that child successful. The observer role can be switched between the two teachers in the co-taught classroom depending on the purpose for the observation. This strategy is only meant to be used occasionally. We want students to feel that it is an equal role that we are both the teachers and not one are more dominant than the other. It’s kind of nice to get a different perspective when you switch the observer role.
+
+Station Teaching
+
+In this strategy, Station Teaching, the co-teachers divide their class into small groups to provide instruction  at separate stations. Station Teaching is a chance for two teachers to work together and provide some individualized attention to smaller groups of students while covering several different pieces of the curriculum. Sharon and Jan have divided their class into four small groups,  and those groups  rotate between specific stations, each station presenting different but often related content. Jan will teach station 1 and Sharon will teach station 3. At stations 2 and 4, students will work independently with both teachers monitoring their progress. When you can get them in these groups you can employ a lot of different strategies, for one thing it’s more sort of one-on-seven which makes it more manageable but the other thing is we can strategize who we put in the groups. We can also group by ability, so I can take extra time with a group who maybe has fewer skills and I can let more independent learners work on their own. So it allows us to split up our groups into variety of different configurations. After a designated amount of time at each station the groups will rotate. And the nice thing about working with stations is we can really modify the curriculum to match what our students need because it’s much smaller pieces, it’s not an hour of one topic its several small topics in shorter amounts of time. Station Teaching reduces the student-teacher ratio increasing student participation and effective monitoring of the students. I think you can also identify and feed into the curiosity of students better when you’re in exploration stations, because you can actually see right in front of you, something kind of, you know, “Oh this is grabbing my interest!”  and you can kind of run with that and make an educational moment out of it and also a memorable moment and an engagement moment. Since this is a highly engaging instructional format teachers may need to manage the noise level in the classroom. To be effectively implemented, the activities at each station should function independently of each other and should require roughly the same amount of time to be completed. It is recommended that this strategy be used frequently to enhance learning outcomes. Something that’s really important to me as a teacher, I feel like the kids are are being heard in a small group a little bit more and everybody gets a chance to speak. There’s a lot of different models we can follow, but it’s always together and it’s always with each other in mind and our students first.
+
+Parallell Teaching
+
+In the Parallel Teaching strategy, the co-teachers divide the class in half and instruct them on the same material. Parallel Teaching is teaching the same lesson with half as many students. We divide that up so that children have more air time and more teacher attention. It really draws them closer to the subject area that they need to be engaged in. So, we go from 22 students down to 11 students in each group. The primary benefit of this approach is that the student to teacher ratio is reduced, thereby allowing the co-teachers to maximize participation and minimize behavior problems during teaching. It allows for better thought out answers, the children have more time to think about it. One of the things I like about it too is some kids, they kind of want to hide. When we have them in a smaller group like this there’s less chance for them to hide. It’s just nicer always having a smaller group to be able to have more rich discussion and vocabulary from the students. In this class, Co-teachers John and Michael are using table groupings to divide up their classroom. This will reduce the student-teacher ratio and it will also increase instructional intensity. The table groupings aren’t random. They are grouped according to a heterogeneous grouping so we have a good mix of EL students and higher and lower performing students. With this approach teachers will have to maintain control over the noise level so that the groups do not get distracted. In addition, timing is a critical part of this strategy because both teachers need to take roughly the same amount of time to complete the instructional segment. Teachers should try to use this strategy more frequently to allow for maximum student participation in the learning. Usually when we are doing Parallel Teaching that time can vary. But the attention span of a kindergartner is relatively short and so from start to finish, you are looking at about 15 minutes. Parallel Teaching is a great methodology when you want to focus on the deeper instruction or deeper learning just because of the small groups. We’re able to pay closer attention to the details and catch kids before they fall out the bottom.
+For today’s purposes, we’ve found it most convenient to divide up in those familiar groups that they normally work in and it works very quickly, and they’re right at home.
+
+Alternative (Differentiated) Teaching
+
+In this co-teaching approach, Alternative or Differentiated Teaching. One teacher manages a large group of students while the other takes a small group for a specific instructional purpose. In this particular teaching sample a resident is managing the large group and a mentor is managing the small group but their roles can be switched. Alternative Differentiated instruction is taking a small group of students separate from the whole class and you’re either teaching them the same content material, or use that small group away from the whole class to provide intervention for students who might not have learned a concept previously. It could also be used for enrichment for students who already have the concept and we just want to take them a little bit farther than the other students are ready for. This approach provides instructional flexibility and can be used for enrichment, remediation, assessment, or pre teaching, as well as for alternative methods of providing lesson input. We can reteach, we can enrich the student’s needs we can also do behavior modification, and give students the specific support they need to personalize their instruction. When we plan an alternative lesson, if a student is struggling with math and she was the one to initially teach the concept and she wanted to notice a student that is struggling in that area we might have her teach the concept in a small group,
+or we might think, you know what, the student needs a completely different person, different method of learning about this so then I might be teaching the small group in order to provide a different way of looking at things. If I have a stronger connection with the student it might actually be a good plan for her to have the small group to make those connections with the students too so in the long run we’re both connected with all of our students. Teachers using this strategy will want to pull students for a variety of purposes so that this approach does not create a situation in which those instructed using this format feel labeled or stigmatized in any way. They do wonder why they’re chosen sometimes so we explain to them that all students have different needs and they understand that they realized that as the school year goes along we have a very
+safe classroom environment and we’re all here to learn and so and everyone seems fine with when they’re pulled in back and when they’re not pulled back. This co-teaching approach should be used occasionally when it is  needed to increase the performance of particular students or groups of students. With differentiated instruction I feel like I can really reach my students specific needs I really get to know the students and i can zero in on exactly what they need me to help them with. With a small group they can feel like they’re being heard and they can feel safe to ask questions to allow for their best understanding of the content. To a teacher that is looking to use alternative instruction for their students I think it’s wonderful especially with the co-teaching model having someone else in the classroom who can support you and noticing the gaps in students learning or the students who need to have that enrichment.
+
+Team Teaching
+
+In this approach, Team Teaching,  both teachers are often in front of the classroom sharing the responsibilities of lead instruction. An example of collaboration is we expect our kids to collaborate so often together and they don’t have a model of that a lot of times in a classroom that only has one teacher, and when we can work together to team teach we can show how to collaborate. So that when we asked them to go work with partners or with groups, they have an example of how to do that. Another variation of team teaching is then both co-teachers have different but equally active roles in a lesson. One teacher might lead the discussion and the other teacher might record notes on the overhead projector. And then if she is up there teaching and I know that they’re not understanding it, it’s easy for me to say; “you, you, you come with me,” and we go to the side and I would redo the same thing. It’s re-teaching right there exactly the stuff that they’re being confused on so they can have that deeper understanding and grow from that understanding right then. Both teachers are fully engaged in lesson delivery. The teachers must also work well together in terms of gauging their contributions so that lesson pacing is maintained. When I’m up there I forget my details, my examples. When we team plan, she remembers there’s something, and she’ll bring it up. And we can kind of check each other in a way that’s positive without going, “oh no!” This approach can be energizing there is often an entertainment factor present as the teachers interact with one another and this often increases student 
+attentiveness and engagement. When this strategy is used, the instructional conversations and the sharing of question asking and answering can benefit students as they hear different styles of thinking. If there is something that they don’t understand there’s one of us roaming around so scaffolding is happening all the time. It’s easier, and the opportunity for the students to ask us questions is a lot easier for them. And I think being able to say things in different ways if I think about something in a different way and I’m able to express that to the students and then Malee can say the way she has done it so we’re reaching a larger number of our class. In addition, teachers are able to emphasize their strengths in a lesson segment, and teacher creativity is often enhanced using this approach. Most the time we actually just plan the lesson first and then decide who wants to do what part depending on our strengths If it’s something that I feel that she’s better at she can do more of the direct instruction. But, most of the time it’s team teaching task then it’s usually half-and-half. This strategy should be used occasionally as some other more subtle student needs can be missed when grouping is not be used. Its supporting student learning just be able to model collaboration and model working together and showing that it’s okay that if you forget, it’s okay to have somebody support you and have your back.
+
+</details>
+
+<br>
+
+Regardless of which model of collaboration co-teachers implement, they are required to engage in an intensive examination of how they both want to share responsibility for planning, implementing, and evaluating lessons.
+
+__3. Developing a Shared Classroom in Detail__
+---
+
+Once co-teachers have laid the foundations for good collaboration and agreed on how to share their roles, it is important to think about the issues arising in their collaboration in detail.
 
 This includes understanding how to design and use the shared classroom and how to deal with class rules and consequences. 
 
-__Questions that should be discussed in this context are:__
+__Questions That Should be Discussed in This Context:__
 
-<details>
+> __How do we introduce co-teachers to pupils and parents?__
+>
+> * The "first day of school" letter, information evening, etc.
+> * Names of both teachers on the classroom door and on documents 
 
-<summary> __How do we introduce co-teachers to pupils and parents?__</summary>
+>__Do we have equal access to resources?__
+>
+> * Discussions about room/material design and allocation may seem minor at first, but they are crucial to ensure that both teachers have equal access. Some teachers are very reluctant to share their materials - open communication is therefore important.
+>
+> * It is helpful to work with the school management to ensure that there are enough materials and furniture in the classroom for both teachers.
 
-<br>
+>__How will we share responsibilities?__
+>
+> * It is important to share communication with families. This includes deliberately not dividing students into "my" and "your" students, but seeing all students and their families as "ours". Co-teachers must therefore agree on how and with what frequency they wish to contact parents, who will inform parents about various events/appointments, and how they will share messages from parents with each other.
+>
+> * Co-teachers need to agree on what type of assessment of student performance they will use and on assessment times and intervals. It is essential that both teachers have an equal say in the assessment of student work, project contributions, and tests.
+> 
+> * Co-teachers need to agree on class rules and rituals in advance, for example their tolerance limits when dealing with noise or rule violations, deadlines for the communication and submission of homework, rituals at the beginning and end of the day, and procedures when students change classrooms or want to use the bathroom.
 
-* From the first day of school letter, information evening, etc.
+>__How do we share information?__
+>
+> * It is important that co-teachers choose an effective communication system to share information, discuss upcoming deadlines, and plan lessons. 
+> 
+> * While some co-teachers meet immediately after class, other co-teachers prefer to email or call each other later. It is also helpful if co-teachers agree on a place where they both have access to messages from parents and collected materials.
 
-* Names of both teachers on the classroom door and on documents 
-
-</details>
-
-<br>
-
-<details>
-
-<summary>__Do we have equal access to resources?__</summary>
-
-<br>
-
-* Discussions about room/material design and allocation may seem minor at first, but they are crucial to ensure that both teachers have equal access. There are teachers who are very reluctant to share their materials - open communication is therefore important.
-
-* It is helpful to work with the school management to ensure that there are enough materials and furniture in the classroom for both teachers.
-
-</details>
-
-<br>
-
-<details>
-
-<summary> __How will we share responsibilities?__</summary>
-
-<br>
-
-* It is important to share communication with families. This includes deliberately not dividing students into "my" and "your" students, but seeing all students and their families as "ours". Co-teachers must therefore agree how and with what frequency they frequency they wish to contact parents, who will inform parents about various events/appointments and how they will share messages from parents.
-
-* Co-teachers need to agree what type of assessment of student performance they will use and at what time frame and interval. It is essential that both teachers have an equal say in the assessment of student work, project contributions and tests. 
-
-* Co-teachers need to agree on class rules and rituals in advance, for example, rituals at the beginning and end of the day, when students want to use the bathroom or change classrooms; their tolerance limits when dealing with noise or rule violations; and agreements on deadlines regarding the communication and submission of homework.
-
-</details>
-
-<br>
-
-<details>
-
-<summary> __How do we share information?__</summary>
-
-<br>
-
-* It is important that co-teachers choose an effective communication system to share information, discuss upcoming deadlines, and plan lessons. 
-
-* While some co-teachers meet immediately after class, other co-teachers prefer to email or call each other later. It is also helpful if co-teachers agree on a place where they both have access to messages from parents and collected materials.
-
-</details>
-
-<br>
-
-On the one hand, it is crucial that co-teachers take enough time to discuss and answer these questions and, on the other hand, that any disagreements that do arise are not resolved in front of the students, but in private.
-
-Only when co-teachers have taken the time to lay the foundations for co-teaching does it make sense for them to face up to the actual planning and implementation of joint lessons.
+It is crucial that co-teachers take enough time to discuss and answer these questions and it is also imperative that any disagreements that do arise are not resolved in front of the students but in private. Only after co-teachers have taken the time to lay down foundations for co-teaching does it make sense for them to embark on actually planning and delivering lessons together.
 
 [^1]: Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010). Co-teaching: An illustration of the complexity of collaboration in special education. Journal of Educational and Psychological Consultation: The Official Journal of the Association for Educational and Psychological Consultants, 20(1), 9–27. https://doi.org/10.1080/10474410903535380
 
