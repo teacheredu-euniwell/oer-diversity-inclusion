@@ -151,7 +151,7 @@ It was developed as part of Work Package 6 of the [European University for Well-
 Target Group
 ----------
 
-The OER is aimed at teachers and student teachers , but it is also open to wider audiences in the area of education.
+The OER is aimed at student teachers, but also to in-service teachers and a wider audiences in the area of education.
 
 No prior knowledge is required
 -------------------------------------------
@@ -161,17 +161,12 @@ No prior knowledge is required
 
 Duration
 ----------------
-  __The entire module takes about X hour(s)__ <-gelb
+The entire module takes between 7-9 hours.
 
 Certificate of Participation
 -------------------
   
 A certificate of participation is available to participants who pass the final examination at the end of the module (with 80% or more correct answers).
-
-ECTS 
----------------
-
-The recommended ECTS allocation is: xxx <-gelb
 
 Accessibility Commitment Statement
 ---------------------------
@@ -197,12 +192,14 @@ The content of this OER has been provided by the University of Konstanz as part 
 OER Project Team: 
 
 * Sarah Roos (Project Coordination)
-* Dr. Manuela Ulrich (Diversity & Inclusion) 
-* Dr. Sebastian Tillmann (Unconscious Bias)
+* Dr. des. Manuela Ulrich (Diversity & Inclusion) 
+* Dr. Sebastian Tillmann (Chapter 7. Unconscious Bias)
 * Michael Kowalczyk (Educational Media)
-* Samantha Jacobs (Student Assistant)
 
-The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
+Acknowledgements:
+
+* The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
+* Samantha Jacobs (Student Assistant)
 
 The Chapter Header Illustrations are by [Manfred Steger](https://pixabay.com/de/users/1848497/) published under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
 
@@ -658,7 +655,9 @@ Given the interactions and influence of individual thought structures and inclus
 
 ### 1.3 Symbolic Interactionism Theory
 
-George Herbert Mead (1934)[^1] distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
+Similar to institutions, social roles emerge from a particular social dynamic. Role adoption does not only occur as trained behaviour, but rather roles are continuously and meaningfully imparted in socialisation processes. According to Mead's Symbolic Interactionism Theory (Mead, 1934)[^1]), individual identities develop from self-reflection, reflection on others and interaction with others.
+
+Mead distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
 <center>![Individuum: I, Me & Self., own illustration](mead-i-me-self.png)Individuum: I, ME & SELF. Illustration by project team.</center>
 <br>
@@ -690,9 +689,9 @@ You can test your acquired knowledge below.
 
 ###	1.4 Summary Quiz
 
-<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=30" width="958" height="687" frameborder="0" allowfullscreen="allowfullscreen" title="Fends Social Systems Interaction (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=29" width="958" height="688" frameborder="0" allowfullscreen="allowfullscreen" title="Bronfenbrenners Ecological Model (Drag&amp;Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=30" width="958" height="687" frameborder="0" allowfullscreen="allowfullscreen" title="Fends Social Systems Interaction (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## 2. Discrimination, Diversity and Inclusion
@@ -710,44 +709,36 @@ We take a close look at conceptual changes and differences between exclusion, se
 
 ### 2.1 Definitions
 
-
 Discrimination
 ---
-
-The ethymological origin of discriminate is in Latin "discriminatus, past participle of discriminare 'to divide, separate, from discrimen'" (Harper, n.d.)[^1] 
+The ethymological origin of the term ‘discrimination’ is the Latin word discriminatus, past participle of discriminare 'to divide, separate, from discrimen" (Harper, n.d.).[^1] 
 
 > __Definition of Discrimination__
 >
 > "treating a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their race, gender, sexuality, etc." (Cambridge University Press, n.d.)[^2]
 
-Further examples are religion, political beliefs, age, health and gender identity. Catalogs of characteristics are open-ended. (Gomolla, 2008)[^3]
+Discrimination takes place in many areas of everyday life including educational setting. For example, ethnic minority students disengage from school because they experience discrimination based on their ethnicity (Civitillo et al., 2024).[^3]
 
-Following the definition, we would like to add that "people with disabilities" should expressly be added to definitions since the UN Convention on the Rights of Persons with Disabilities. Age could also be registered as a characteristic that merits protection; its relevance is reflected, for example, in the educational science discussion of children's rights and in the debate about the age at which young people receive the right to vote.
-
-__Discrimination takes place in many areas of everyday life:__ Housing, education, the employment system, health and social services, policing, the administration of justice, representation in the media and political participation. In social science and political discussion, discrimination refers to disadvantages identified on the basis of group-specific differences in accordance with the principles of equality and equal treatment.
-
-__Take a moment to think about your own biography and your current life memories:__ Where did I experience discrimination myself in my childhood or as a student? Is there any current situation in my social or physical environment where I am confronted with discrimination in a narrow or wider sense? Feel free to record your own definition of discrimination with reference to this current situation - even if the person affected is not you but another person in your environment.
-
-----
-
-Diversity and Inclusion
+Diversity 
 ---
 
-The concepts as currently used are affected by the problem that their definitions have not yet been standardised. We have chosen to work with the definitions from the following book chapters and articles for the purposes of this course:
-
-* We refer to Walgenbach (2021)[^4] and Bührmann (2018)[^5] to define diversity.
-
-* We refer to Cramer and Harant (2014)[^6] and Stichweh (2007)[^7] to define inclusion.
-
-These sources provide a value-free definition of diversity and a sociological definition of inclusion.
+The ethymological origin of the term ‘diversity’ is the Latin word diversitatem
+(nominative diversitas) "contrariety, contradiction, disagreement;" also, as a secondary sense, "difference, diversity," from diversus "turned different ways"(Harper, n.d.).[^4] 
 
 > __Definition of Diversity__
 >
-> We define diversity as a social fact that reflects the variety and the differences between individuals in a society. This variety and these differences are reflected on three levels. 1. social, 2. biological, 3 psychological-emotional.
+> Diversity is as condition that reflects the variety and the differences between individuals in a society (Walgenbach, 2021).[^5]
+> 
+> The variety of differences can be reflected on three levels: 1. social, 2. biological, 3. psychological-emotional (Bührmann, 2018).[^6]
+
+Inclusion
+---
+
+The ethymological origin of the term inclusion’ is the Latin word includere "to shut in, enclose, imprison, insert"(Harper, n.d.).[^7] 
 
 > __Definition of Inclusion__
 >
-> Stichweh (2007, p. 113)[^7] distinguishes between three contexts in which definitions of inclusion originated:
+> Stichweh (2007)[^6] distinguishes between three contexts in which definitions of inclusion originated:
 >
 > __1. Sociological systems theory__ - this approach identifies __inclusion and exclusion__ by analysing the forms in which people participate in and are considered by social systems. 
 >
@@ -755,22 +746,26 @@ These sources provide a value-free definition of diversity and a sociological de
 >
 > __3. British welfare state theory__, with its use of the paradigm of citizenship to conceptualise the communicative consideration of people in social systems as membership.
 
----
+What You Will Find in the Next Section
+----
 
+We will present the field of terms between exclusion and inclusion.
 
 [^1]: Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/discriminate
 
 [^2]: Cambridge University Press. (n.d.). Meaning of discrimination in English. Cambridge Dictionary. Retrieved November 24, 2024, from https://dictionary.cambridge.org/dictionary/english/discrimination
 
-[^3]: Gomolla, M. (2008, February 18). Institutionelle Diskriminierung im Bildungs- und Erziehungssystem: Theorie, Forschungsergebnisse und Handlungsperspektiven. Heinrich Böll Stiftung. https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
+[^3]: Civitillo, S., Jugert, P., Yip, T., Lui, P. P., & Titzmann, P. F. (2024). A daily diary study on associations between school-based ethnic discrimination and school engagement. Social Psychology of Education: An International Journal. https://doi.org/10.1007/s11218-024-09919-x
 
-[^4]: Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, Heterogenität, Diversity / Diversität, Intersektionalität. Verlag Julius Klinkhardt. https://doi.org/10.25656/01:22247
+[^4]: Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/diversity 
 
-[^5]: Bührmann, A. D. (2018). Diversität. socialnet Lexikon [last access: 26.09.2024]. https://www.socialnet.de/lexikon/6324
+[^5]: Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, Heterogenität, Diversity / Diversität, Intersektionalität. Verlag Julius Klinkhardt. https://doi.org/10.25656/01:22247
 
-[^6]: Cramer, C., & Harant, M. (2014). Inklusion – Interdisziplinäre Kritik und Perspektiven von Begriff und Gegenstand. Zeitschrift fur Erziehungswissenschaft: ZfE, 17(4), 639–659. https://doi.org/10.1007/s11618-014-0584-4
+[^6]: Bührmann, A. D. (2018). Diversität. socialnet Lexikon [last access: 26.09.2024]. https://www.socialnet.de/lexikon/6324
 
-[^7]: Stichweh, R. (2007). Inklusion und Exklusion in der Weltgesellschaft – Am Beispiel der Schule und des Erziehungssystems. In J. Aderhold & O. Kranz (Eds.), Intention und Funktion (pp. 113-120). VS. https://doi.org/10.1007/978-3-531-90627-0_5
+[^7]: Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/inclusion
+
+[^8]: Stichweh, R. (2007). Inklusion und Exklusion in der Weltgesellschaft – Am Beispiel der Schule und des Erziehungssystems. In J. Aderhold & O. Kranz (Eds.), Intention und Funktion (pp. 113-120). VS. https://doi.org/10.1007/978-3-531-90627-0_5
 
 
 ### 2.2 Exclusion, Segregation, Integration and Inclusion in Education
@@ -806,9 +801,6 @@ We will invite you to reflect on discrimination.
 
 [^4]: Original illustration by Robert Ähnelt (CC-BY-SA 3.0 DE) modified by Michael Kowalczyk (CC-BY-SA 4.0 DE)
 
-
-
-
 ### 2.3 Exercise: Thinking About Inclusion from a Student Perspective
 -------------------
 
@@ -836,14 +828,13 @@ Interactive Reflection on Inclusive Settings in the Classroom
 
 !?[What Is Inclusion?](https://www.youtube.com/watch?v=3VMz06iVzqs&t=32s)
 
-
 <details>
 
 <summary>~~**Click here to show the video transcript**~~</summary>
 
 Integration
 
-I don't understand why I'm at the back of the class. I wish I was like everyone else. I want to do what they are doing. But here I am doing this a same old number activity watching as my classmates learn something else. Don't they know that they're setting me up to fail? Don't they know they hold my future in their hands? I want to work in my class, learn what they are learning and do the activities they do. But here I am stuck at the back, limited by low expectations. Having a one-on-one teacher aide just teaches me to rely on them and means I get less attention from the teacher. I'm not included in the classroom, I am in the same room but segregated from my peers, sat to the side or back working on different things and missing out. I want to be free to learn with my peers reach my full potential and be seen to be like everyone else. I need something to change. 
+I don't understand why I'm at the back of the class. I wish I was like everyone else. I want to do what they are doing. But here I am doing this a same old number activity watching as my classmates learn something else. Don't they know that they're setting me up to fail? Don't they know they hold my future in their hands? I want to work in my class, learn what they are learning and do the activities they do. But here I am stuck at the back, limited by low expectations. Having a one-on-one teacher aide just teaches me to rely on them and means I get less attention from the teacher. I'm not included in the classroom, I am in the same room but segregated from my peers, sat to the side or back working on different things and missing out. I want to be free to learn with my peers reach my full potential and be seen to be like everyone else. I need something to change.
 
 Perceived inclusion
 
@@ -862,7 +853,6 @@ Drag and Drop Your Observations Into the Appropriate Fields.
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=32" width="958" height="688" frameborder="0" allowfullscreen="allowfullscreen" title="Integration, percieved inclusion &amp; inclusion (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
 [^1]: Hunt, P., & McDonnall, J. (2007). Inclusive education. In van der Gaag, R.J. S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.) (2007). Handbook of developmental disabilities. New York/Londen: Guilford Press. https://doi.org/10.1007/BF03089708
 
 ## 3. Inclusion in Global Legal Foundations
@@ -874,7 +864,6 @@ Inclusion is a concept that has evolved over time and is fundamentally anchored 
 > __Learning Goal__
 >
 > * You are able to describe the significance of international treaties and their implications for inclusion in education.
-
 
 ###	3.1 Treaties as Historical Milestones.
 
@@ -931,7 +920,7 @@ It becomes clear that inclusion is a sense of belonging, feeling respected and v
 > community and communality, only when seen as both reflective of, and creative of
 > inclusion in society”
 >
-> --Thomas (2013)[^2]. 
+> --Thomas (2013)[^2].
 
 With this quote in mind, underpinning this OER is a broad understanding of inclusive education including changes and modifications in structures, approaches, strategies, teaching methods and content. The intention is that social systems involved near (such as schools and families) or far (such as school principals, university teachers, politicians) in school education, overcome barriers and discrimination with a vision serving to provide all students with equitable and participatory education (cf. also Köpfer et al., 2021)[^2].
 
@@ -940,17 +929,13 @@ With this quote in mind, underpinning this OER is a broad understanding of inclu
 > * You are able to specify what inclusive education means.
 > * You are able to explain how inclusive education could be implemented in schools at different levels (i.e. education system, single school, lesson).
 
-
 [^1]: Frederick, A., & Katz, J. H. (2002). The Inclusion Breakthrough: Unleashing the Real Power of Diversity Miller. Berrett-Koehler Punlishers, Inc.
 
 [^2]: Thomas, G. (2013). A review of thinking and research about inclusive education policy, with suggestions for a new kind of inclusive thinking. British Educational Research Journal, 39(3), 473–490, p.485. https://doi.org/10.1080/01411926.2011.652070
 
 [^3]: Köpfer, A., Powell, J. J. W., & Zahnd, R. (2021). Handbuch Inklusion international / International handbook of inclusive education (A. Köpfer, J. J. W. Powell, & R. Zahnd, Eds.). Verlag Barbara Budrich. https://library.oapen.org/handle/20.500.12657/46311
 
-
-
 ### 4.1 Inclusive Education – a Broad Term with a Common Sense
-
 
 "An important element of inclusive education involves ensuring that all teachers are prepared to teach all students. Inclusion cannot be realized unless teachers are empowered agents of change, with vlues, knowledge and attitudes that permit every student to succeed. Despite their differences in teacher standards and qualifications, education systems are increasingly moving away from identifying problems with learners and towards identifying barriers to learning. To complete this shift, education systems must design teacher education and professional learning opportunities that dispel entrenched views that some students are deficient, unable to learn or incapable." (UNESCO, 2020)[^1] 
 
@@ -1044,13 +1029,11 @@ What You Will Find in the Next Section
 -----
 In the next section, we will look at different types of cooperation.
 
-
 [^1]: Waack, S. (n.d.). Hattie effect size list - 256 Influences Related To Achievement. VISIBLE LEARNING. Retrieved October 7, 2024, from https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
 
 [^2]: Riccomini, P., & Witzel, B. (2010). Response to Intervention in Math. Corwin Press. https://doi.org/10.4135/9781452219356
 
 [^3]: Universität Rostock. (n.d.). The Response-to-Intervention Approach. Universität Rostock. Retrieved October 7, 2024, from https://www.rim.uni-rostock.de/en/response-to-intervention-approach/the-response-to-intervention-approach/
-
 
 ### 4.3 Cooperation und Multiprofessionalty
 
@@ -1066,8 +1049,6 @@ Based on Lütje-Klose et al.(2024)[^1] a distinction can be made between:
 * __Inter-professional cooperation__ (i.e. between two professional groups like classroom teachers and special needs teachers who may work together with a class).
 
 All of these types of cooperation require relationships characterised by partnership and conscious __sharing of goals, knowledge, resources, tasks, and responsibilities__. Such relationships depend on trust and respect, which need to be cultivated. Team development also requires time and commitment (Friend & Cook, 2010)[^2].
-
-
 
 Multi-Professional Teams
 -----
@@ -1122,7 +1103,6 @@ What You Will Find in the Next Section
 ---
 The next section will shift from the professional level of action to an examination of the diversity characteristics of the students that teachers may encounter in their classes.
 
-
 ---
 [^1]: Lütje-Klose, Birgit, Wild, E., Grüter, S., Gorges, J., Neumann, P., Papenberg, A., & Goldan, J. (2024). Kooperation in inklusiven Schulen. Pädagogik (Weinheim). https://doi.org/10.14361/9783839460689
 
@@ -1134,37 +1114,35 @@ The next section will shift from the professional level of action to an examinat
 
 [^5]: Jurkowski, S., Ulrich, M., & Müller, B. (2023). Co-teaching as a resource for inclusive classes: teachers’ perspectives on conditions for successful collaboration. International Journal of Inclusive Education, 27(1), 54–71. https://doi.org/10.1080/13603116.2020.1821449
 
-### 4.4 Co-teaching
+### 4.4 Co-Teaching
 
-The most important aspects of establishing a _co-teaching_ relationship are outlined below. The differentiation of six established forms takes place under the point of the distribution of roles and responsibilities. Finally, we look at a video in which teachers share their experiences.
+The most important aspects of establishing a co-teaching relationship are outlined below. Six distinctive forms of co-teaching can be differentiated to clarify the distribution of roles and responsibilities. This section finishes with a video in which teachers share their experiences.
 
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/co-teaching-factors.png "Crucial factors for Co-teaching, own illustration")</center>
+<center>![co-teaching-factors](co-teaching-factors.png)Crucial factors for co-teaching, own illustration.</center>
+<br>
 
-
-Three Steps for Developing Co-teaching
+Three Steps for Developing Co-Teaching
 ---
 
-1. __Getting to know each other (similarities and differences)__
+1. __Getting to Know Each Other (Similarities and Differences)__
+An important first step in developing co-teaching is for the co-teaching partners to get to know each other and to discuss their goals, interests, teaching styles, working styles, and preferences for giving and receiving feedback.
 
-An important first step in the development of co-teaching is for the co-teaching partners to get to know each other, to discuss goals, interests, teaching and working styles and preferences for giving and receiving feedback. 
+Spending hours together every day and sharing almost every aspect of teaching can be fun, but it can also lead to frustration and conflict.
 
-Spending hours together every day and sharing all aspects of teaching can be fun, but it can also lead to frustration and conflict. 
+2. __Sharing Roles and Responsibilities__
+The aim should be to plan, implement, and evaluate the lesson together and to share responsibilities. Different strengths of the co-teachers can come into play in the planning and design of lessons, but both should play an equal part in all aspects of the lesson. In well-functioning co-teaching classes, it is often impossible to tell at first glance who is a special needs teacher and who is a mainstream teacher because both are equally committed and have an equal say.
 
-2. __Sharing roles and responsibilities__
+__Six Forms of co-teaching__
 
-The aim is to plan, implement and evaluate the lesson together and to share responsibilities. Different strengths of the co-teachers can come into play in the planning and design of lessons, but both should play an equal part in all aspects of the lesson. In well-functioning co-teaching classes, it is often impossible to tell at first glance who is a special needs teacher and who is a mainstream teacher because both are equally committed and have an equal say.
+In practice, dividing up roles and responsibilities between two teachers can be achieved by adopting one of the following six models or combining elements from the different models.
 
-__Six Forms of Co-teaching__
-
-In practice dividing up roles and responsibilities between two teachers can be achieved in either one of the following six forms or a mixture of them.
-
-| Co-teaching Form                                                                       | Description                                                                                                                                                                                                                  | Use Case                                                                                                                                                        |
+| Form of co-teaching                                                                       | Description                                                                                                                                                                                                                  | Use case                                                                                                                                                        |
 |:-------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| __Teacher & observer__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-observer.png) -   | One teacher leads a large-group instruction while the other gathers academic, behavioral, or social data on specific students or the class group.                                                                         | For detailed recording of the learning process, i.e. learning behavior/progress of individual pupils.                                                           |
-| __Teacher & assistant__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-assistant.png)  | One teacher leads instruction while the other circulates among the students offering individual assistance.                                                                                                                  | If a teacher has special expertise for the teaching unit and for teaching units that require particular progress and intensive monitoring of the learning process. |
-| __Team-teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/team-teaching.png)        | Both teachers lead large-group instruction by both lecturing, representing opposing views in a debate, illustrating two ways to solve a problem, and so on.                                                                 | With team teaching, students experience open and differentiated lessons in which teachers and students work together.                                            |
+| __Teacher and observer__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-observer.png) -   | OOne teacher leads the instruction of a large group while the other gathers academic, behavioural, or social data on specific students or on the entire class group.                                                                         | For detailed recording of the learning process, i.e. learning behaviour/progress of individual students.                                                           |
+| __Teacher and assistant__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-assistant.png)  | One teacher leads instruction while the other circulates among the students offering individual assistance.                                                                                                                  | Useful when a teacher has special expertise for the teaching unit and for teaching units that require particular progress and intensive monitoring of the learning process. |
+| __Team teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/team-teaching.png)        | Both teachers lead large-group instruction by both lecturing, representing opposing views in a debate, illustrating two ways to solve a problem, and so on.                                                                 | With team teaching, students experience open and differentiated lessons in which teachers and students work together.                                            |
 
-| Co-teaching Form                                                                       | Description                                                                                                                                                                                                                  | Use Case                                                                                                                                                        |
+| Form of co-teaching                                                                       | Description                                                                                                                                                                                                                  | Use case                                                                                                                                                        |
 |:-------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | __Parallel teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/parallel-teaching.png)    | Two teachers, each with half the classgroup, present the same material for the primary purpose of fostering instructional differentiation and increasing student participation.                                             | To be able to better support pupils in the learning process by reducing the pupil-teacher ratio and to promote the participation of pupils.                        |
 | __Station teaching__  ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/station-teaching.png)    | Instruction is divided into three nonsequential parts and students, likewise divided into three groups, rotate from station to station, being taught by the teachers at two stations and working independently at the third. | When learning content is complex but not hierarchical and to provide an overview of topics.                                                                        |
@@ -1249,27 +1227,22 @@ On the one hand, it is crucial that co-teachers take enough time to discuss and 
 
 Only when co-teachers have taken the time to lay the foundations for co-teaching does it make sense for them to face up to the actual planning and implementation of joint lessons.
 
-
-
 [^1]: Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010). Co-teaching: An illustration of the complexity of collaboration in special education. Journal of Educational and Psychological Consultation: The Official Journal of the Association for Educational and Psychological Consultants, 20(1), 9–27. https://doi.org/10.1080/10474410903535380
 
 [^2]: Studienseminar Hannover für das Lehramt für Sonderpädagogik. (n.d.). Handreichungen zur Ausbildung im gemeinsamen Unterricht. https://lehrerfortbildung-bw.de/s_sueb/alle/fb1/6_mat/3_zusammen/11_lit/Handreichungen-zur-Ausbildung-im-gemeinsamen-Unterrich.pdf 
 
-
-
-### 4.5 Tipps for Planning Co-Teaching in the Classroom.
+### 4.5 Tipps for Planning Co-Teaching in the Classroom
 
 > __Your task:__
 > 
 > 1. Starting at 4 Min. watch the "Special Education and Regular Eduaction: Working Together" video interview with Christie Eleeson and LeeAnna Rabine. 
-> 2. From their point of view, what are the outcomes and benefits for students and teachers?
+> 2. From their point of view, what are the outcomes and benefits of co-teaching in the classroom for students and teachers?
 > 3. Answer the question by using the "drag and drop" interaction below. 
 
 Video: Special Education and Regular Education: Working Together
 ---
 
 !?[](https://www.youtube.com/watch?v=jlc1ZU-P8jc "Source: https://www.youtube.com/watch?v=jlc1ZU-P8jc&")
-
 
 <details>
 
@@ -1302,14 +1275,9 @@ and we keep all of our kids inside the classroom. And we get the opportunity to 
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=39" width="958" height="687" frameborder="0" allowfullscreen="allowfullscreen" title="Benefits of Co-Teaching in the Classroom - Drag Drop"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
 ###	4.6 Summary Quiz
 
-
-
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=34" width="958" height="1107" frameborder="0" allowfullscreen="allowfullscreen" title="Co-Teaching Forms and Applications (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
 
 ## 5. Examples of Students´ Diversity in Inclusive Classrooms
 
@@ -1445,7 +1413,10 @@ Now, we now describe another case-vignette on the topic of migration and identit
 
 In Addition: If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
 
-> __Case-vignette "Language" description__
+<center>![](9f7964dae4b318e06f9e411689994ea6e7fca47b.png)AI Image Gen generated image based on own prompt[^1]</center>
+<br>
+
+> __“Language” case description__
 > 
 > You are a class teacher at a secondary school that has a high proportion of pupils with a migrant background, while the socio-cultural diversity of your colleagues is rather rare. On the whole, you have the impression that the new students’ transition to school is successful and that they are well integrated after the first year. However, the case of Hadil and Sol, 16-year-old twins, is different. They have been in their class for 10 months, but they still remain alone and do not participate in school activities. They do not speak in the school language, even though they attend the additional language course. They are also silent in English lessons, even though they had English lessons in their home country. They always use a translator for exercises in the classroom and at home and their performance is generally good. However, there is no verbal communication in class, neither with their peers nor with you or other teachers. This is a major problem for social inclusion and educational success. 
 
@@ -1496,9 +1467,9 @@ __Your relation to the parents:__
 
 * I seek dialogue with the parents and a professional interpreter.
 
-* other re-action (Please use the feedback board at the end of our 
-OER)
+* other re-action (Please use the feedback board at the end of our OER)
 
+[^1]: Photorealistic image of a classroom, in the foreground twin teenage sisters sitting next to each other looking at tablets. In the background, students are sitting.
 
 
 ###	5.5 Function, Disability, and Health
@@ -1782,7 +1753,9 @@ Try to be aware of your bias and reflect your attitude, because research showed 
 
 ## 6. Final Quiz
 
-## 7. Unconsious Bias (Add-on)
+## 7. Unconscious Bias (Add-on)
+
+This Chapter was authored by Dr. Sebastian Tillmann, Konstanz University.
 
 ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias.png)
 
@@ -1808,7 +1781,7 @@ In four chapters, you will learn what bias is, where it occurs and how you can m
 
 
 
-### 7.1 What ist Bias?
+### 7.1 What is bias?
 
 The term _bias_ refers to distortions in information processing that influence our perception and decisions. 
 
@@ -2087,8 +2060,6 @@ Costa, P. T., Jr, McCrae, R. R., & Löckenhoff, C. E. (2019). Personality across
 
 Costa, P. T., & McCrae, R. R. (1988). Personality in adulthood: A six-year longitudinal study of self-reports and spouse ratings on the NEO Personality Inventory. Journal of Personality and Social Psychology, 54(5), 853–863. https://doi.org/10.1037/0022-3514.54.5.853
 
-Cramer, C., & Harant, M. (2014). Inklusion – Interdisziplinäre Kritik und Perspektiven von Begriff und Gegenstand. Zeitschrift fur Erziehungswissenschaft: ZfE, 17(4), 639–659. https://doi.org/10.1007/s11618-014-0584-4
-
 Criado Perez, C. (2019). Invisible women: Exposing data bias in a world designed for men. Vintage Digital.
 
 Del Gobbo, Daniela Frison, André Bresges, Donna J. Dawkins, Jan Springob, Juan Antonio Solis Becerra, Ibolya Túri, Magali Hersant, Giovanna. (2023). Sustainability, health care, well-being, and inclusion: toward new professional standards for the teachers of the future. Nuova Secondaria , 5, 146–154.
@@ -2118,8 +2089,6 @@ Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010). Co-teachi
 Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021). Neuromechanical Biomarkers for Robotic Neurorehabilitation. Frontiers in Neurorobotics, 15. https://doi.org/10.3389/fnbot.2021.742163
 
 Gigerenzer, G., & Brighton, H. (2009). Homo heuristicus: Why biased minds make better inferences. Topics in Cognitive Science, 1(1), 107–143. https://doi.org/10.1111/j.1756-8765.2008.01006.x
-
-Gomolla, M. (2008, February 18). Institutionelle Diskriminierung im Bildungs- und Erziehungssystem: Theorie, Forschungsergebnisse und Handlungsperspektiven. Heinrich Böll Stiftung. https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
 
 Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
 
