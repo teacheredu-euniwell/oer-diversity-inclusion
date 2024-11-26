@@ -1704,9 +1704,9 @@ Two models discribe the universal personality structures, the Big-5 and the HEXA
 
 Big-5 Model
 ---
-The _Big-5 Model_ is examined through an amount of international research. In the 1930s, the development of the model has started with lexical approach studies based on the view that personality traits are reflected in language and that all essential differences between people are already represented in the dictionary by corresponding terms. 
+The Big 5 Model has been scrutinised intensely by international research. Development of the model started in the 1930s with lexical approach studies based on the view that personality traits are reflected in language and that all essential differences between people are already represented in the dictionary by corresponding terms. 
 
-According to the five factors the model is also called the OCEAN-model: __(see Costa & McCrae, 1988; Costa et al., 2019)[^1][^2]
+This five-factors model is also called the __OCEAN-model__: (see Costa & McCrae, 1988; Costa et al., 2019)[^1][^2]
 
 * __Openness:__ practical, prefers routine, comforting (low score); imaginative, prefers variety, independent (high score)
 
@@ -1721,36 +1721,29 @@ According to the five factors the model is also called the OCEAN-model: __(see C
 
 HEXACO Model
 ---
+The HEXACO model is based on Costa and McCrae’s Big Five. Adding the dimension Honesty-Modesty represented a significant extension to the HEXACO model (Ashton & Lee, 2007; Lee & Ashton, 2008).[^3][^4] This was also based on international research using the lexical 
+approach and including several studies in Europe and Asia.
 
-The _HEXACO model_ is based on the work of Costa and McCrae's Big Five. However, a significant extension of the HEXACO model is the addition of the dimension Honesty-Modesty (Ashton & Lee, 2007; Lee & Ashton, 2008).[^3][^4]
-It also based on international research with the lexical approach including several studies in European and Asia areas. 
+The HEXACO model includes six factors of human personality structures:
 
-The HEXACO-model includes six factors of human personality structures: 
+* __Honesty-Modesty__
+* __Emotionality__
+* __Extraversion__
+* __Compatibility__
+* __Conscientiousness__
+* __Openness (to experience)__
 
-* Honesty-Modesty
-* Emotionality 
-* Extraversion 
-* Compatibility 
-* Conscientiousness 
-* Openness (to Experience)
-
-The HEXACO questionnaire is availble in many different languages.[^5]
+The HEXACO questionnaire for assessing the personality is availble in many different languages.[^5]
 
 Model Comparison
 ---
 
 The following illustration based on empirical findings shows a comparison (Iller et al., 2021).[^6]
 
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/hexaco-model-en.png "HEXACO & Big-5 Model comparison llustration by Iller et al. (2021), Own translation.[^6].")
-</center>
+<center>![hexaco-big5-models](graphic-hexaco-big5-models.png)HEXACO & Big-5 Model comparison llustration by Iller et al. (2021), Own translation.[^6]</center>
+<br>
 
-
-
-Try to be aware of your bias and reflect your attitude, because research showed that teacher personality treats effect student learning outcomes (e.g., Hattie, 2012)[^7].
-
-
-
+Try to be aware of your bias and reflect on your attitude, because research has shown that teacher personality affects student learning outcomes (e.g., Hattie, 2012)[^7].
 
 [^1]:Costa, P. T., & McCrae, R. R. (1988). Personality in adulthood: A six-year longitudinal study of self-reports and spouse ratings on the NEO Personality Inventory. Journal of Personality and Social Psychology, 54(5), 853–863. https://doi.org/10.1037/0022-3514.54.5.853
 
