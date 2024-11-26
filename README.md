@@ -312,9 +312,11 @@ Fill in the crossword using terms from the word cloud.
 
 ## About EUniWell
 
+<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
+
 The European University for Well-Being (EUniWell) is a joint project funded by the European Union. EUniWell unites [eleven European universities](https://www.euniwell.eu/about/universities) with the aim of improving the well-being and quality of life of European citizens.
 
-<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
+<center>![EUniWell Members](euniwell-member-logos.png)</center>
 
 Why Well-Being?
 ---
@@ -715,7 +717,7 @@ The ethymological origin of the term ‘discrimination’ is the Latin word disc
 >
 > "treating a person or particular group of people differently, especially in a worse way from the way in which you treat other people, because of their race, gender, sexuality, etc." (Cambridge University Press, n.d.)[^2]
 
-Discrimination takes place in many areas of everyday life including educational setting. For example, ethnic minority students disengage from school because they experience discrimination based on their ethnicity (Civitillo et al., 2024).[^3]
+Discrimination occurs in many areas of everyday life, including educational setting. For example, ethnic minority students disengage from school because they experience discrimination based on their ethnicity (Civitillo et al., 2024).[^3]
 
 Diversity 
 ---
@@ -736,7 +738,7 @@ The ethymological origin of the term inclusion’ is the Latin word includere "t
 
 > __Definition of Inclusion__
 >
-> Stichweh (2007)[^6] distinguishes between three contexts in which definitions of inclusion originated:
+> Stichweh (2007)[^8] distinguishes between three contexts in which definitions of inclusion originated:
 >
 > __1. Sociological systems theory__ - this approach identifies __inclusion and exclusion__ by analysing the forms in which people participate in and are considered by social systems. 
 >
@@ -1140,7 +1142,7 @@ In practice, dividing up roles and responsibilities between two teachers can be 
 
 | Form of co-teaching                                                                       | Description                                                                                                                                                                                                                  | Use case                                                                                                                                                        |
 |:-------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| __Teacher and observer__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-observer.png) -   | OOne teacher leads the instruction of a large group while the other gathers academic, behavioural, or social data on specific students or on the entire class group.                                                                         | For detailed recording of the learning process, i.e. learning behaviour/progress of individual students.                                                           |
+| __Teacher and observer__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-observer.png)    | One teacher leads the instruction of a large group while the other gathers academic, behavioural, or social data on specific students or on the entire class group.                                                                         | For detailed recording of the learning process, i.e. learning behaviour/progress of individual students.                                                           |
 | __Teacher and assistant__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/teacher-assistant.png)  | One teacher leads instruction while the other circulates among the students offering individual assistance.                                                                                                                  | Useful when a teacher has special expertise for the teaching unit and for teaching units that require particular progress and intensive monitoring of the learning process. |
 | __Team teaching__ ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/team-teaching.png)        | Both teachers lead large-group instruction by both presenting content, representing opposing views in a debate, illustrating two ways to solve a problem, and so on.                                                                 | With team teaching, students experience open and differentiated lessons in which teachers and students work together.                                            |
 
@@ -1246,11 +1248,13 @@ It is crucial that co-teachers take enough time to discuss and answer these ques
 
 ### 4.5 Tips for Planning Co-Teaching in the Classroom
 
-> __Your task:__
+> @admonition(warning, Task: )
 > 
-> 1. Starting at 4 Min. watch the "Special Education and Regular Eduaction: Working Together" video interview with Christie Eleeson and LeeAnna Rabine. 
+> 1. Watch the "Special Education and Regular Education: Working Together" video interview with Christie Eleeson and LeeAnna Rabine. You can start at the 4th minute.
+> 
 > 2. From their point of view, what are the outcomes and benefits of co-teaching in the classroom for students and teachers?
-> 3. Answer the question by using the "drag and drop" interaction below. 
+>
+> 3. Answer the question using the "drag and drop" interaction below.
 
 Video: Special Education and Regular Education: Working Together
 ---
@@ -1261,26 +1265,43 @@ Video: Special Education and Regular Education: Working Together
 
 <summary>__Click here to show the video transcript__</summary>
 
-Co-teaching, at least at Hawthorne and I think elsewhere, is when we have all of our specialists come in
-and we keep all of our kids inside the classroom. And we get the opportunity to work as a team within the classroom so that all the kids are staying inside our classroom. So we have LIA teachers that come into our rooms. We also have ELL teachers, and then we also have our SPED teachers that all come into our classroom during their times and work with our students. I find it very beneficial, having all of the specialists come into my classroom. One of the biggest benefits I find, is that we are all on the same page. And so at any point, during our collaboration, they come to our collaborations. They also look at, we write up a sheet every week that we share on the Google Docs and they're able to read through it and look at what we're teaching if they're not able to come to collaboration. But they try to come and then when we come into the room, we're able to work together, to hopefully help these students find success. And what we do and what I love is its, for me decreased a lot of the behaviors. Because those transitions are sometimes the hardest part for students. And when you take away those transitions, you have the opportunity for learning to increase and for the behaviors and the management to decrease. And so it's been really helpful because then we have more eyes onthe whole group.
+Co-teaching, at least at Hawthorne and I think elsewhere, is when we have all of our specialists come in and we keep all of our kids inside the classroom. And we get the opportunity to work as a team within the classroom so that all the kids are staying inside our classroom. So we have LIA teachers that come into our rooms. We also have ELL teachers, and then we also have our SPED teachers that all come into our classroom during their times and work with our students. I find it very beneficial, having all of the specialists come into my classroom. One of the biggest benefits, I find, is that we are all on the same page. And so at any point, during our collaboration, they come to our collaborations. They also look at, we write up a sheet every week that we share on the Google Docs and they're able to read through it and look at what we're teaching if they're not able to come to collaboration. But they try to come and then when we come into the room, we're able to work together, to hopefully help these students find success. And what we do and what I love is, for me it decreased a lot of the behaviours. Because those transitions are sometimes the hardest part for students. And when you take away those transitions, you have the opportunity for learning to increase and for the behaviours and the management to decrease. And so it's been really helpful because then we have more eyes on the whole group.
 
-* __Tanya:__ With pushing,we have anywhere between five to seven students in the classroom and they're all served under a reading or writing disability on an IEP. And I work with the teacher to help make sure their accommodations are in place, to help them out in the classroom and to also kind of troubleshoot, any issues the teacher may run into. And I'm just right there for them to talk to or to email quickly. And then I also work with emailing all of the case managers of those students, to let them know what they did that day, what they maybe missed if they got it done If they didn't. To kind of help those students stay caught upin those regular English classes. In there I don't treat them any differently and I help out all the students that are in there. Because I wanna make sure, that our students are not singled out. Because they already know they have a disability and they don't necessarily like if people know it as well. So that's kinda my goal is to help everybody out when they're, working on something to help all students out. And the teachers see that as well. They tell all the other teachers as well. Mrs. Bjerke is in here to help everybody. You can ask her, you can ask me if you have questions.
+__Tanya:__ 
 
-* __Aj__: Two teachers working together to meet the needs of students that struggle in math. It takes two adults so they can reach more students. And then were sharing the load of the teaching and great level material. The core math teacher kinda holds the, kinda more of the knowledge of that subject. So she teaches more of it. But as the class goes, I pop in ask questions, kinda think in terms and then go around and helping my students. And we both work together to adapt it or come up with ways to reach our students easier. It helps more students be able to get great level material presented at their level. So then we only have to do as many pull-outs where kinda the research classes. I mean they widen the gap for the learning where this allows them to be in getting great level materials presented at their level. The alternative to this yeah there's is pull out, which I also teach to those classes. The only alternative if we didn't have co-teaching, would be that we would have to pull out and try to modify the the curriculum at their level where this is more presented at theirs. They want their peers they don't feel like they're excluded.
+With pushing, we have anywhere between five to seven students in the classroom and they're all served under a reading or writing disability on an IEP. And I work with the teacher to help make sure their accommodations are in place, to help them out in the classroom and to also kind of troubleshoot, any issues the teacher may run into. And I'm just right there for them to talk to or to email quickly. And then I also work with emailing all of the case managers of those students, to let them know what they did that day, what they maybe missed, if they got it done, if they didn't. To kind of help those students stay caught up in those regular English classes. In there I don't treat them any differently and I help out all the students that are in there. Because I wanna make sure that our students are not singled out. Because they already know they have a disability and they don't necessarily like if people know it as well. So that's kinda my goal is to help everybody out when they're working on something to help all students out. And the teachers see that as well. They tell all the other teachers as well. Mrs. Bjerke is in here to help everybody. You can ask her, you can ask me if you have questions.
 
-* __Christi__: I have a better understanding of the materials just 'cause I've been doing this for four years. I actually started at Whittier as a co-teacher in the special ed department, and fell in love with the curriculum so I moved to math. And so I think it's good that I have the special ed background and it helps me in the co-taught classroom. But together we plan, we talk about things that we wanna do. We have bright ideas that don't always come to fruition. As a classroom teacher, I have to have knowledge of the special ed students. What their accommodations are and what I need to do. But it's always nice to have that second person in the classroom to come up with different strategies or maybe they suggest trying it a different way. Or when he questions the students, asking them a question in a different way than what I would've thought about asking it. Bouncing ideas off of them using them together, which is something that I don't know if it'll work talking it through with him. Sometimes he thinks I'm crazy, sometimes it works, sometimes it doesn't work. So it's nice to have that second third person 'cause there's a lot of movement in the morning with different math teachers and talking about what we're doing that day and why we're doing it and how we're doing it. And so it's nice to have somebody who knows our students and to bounce ideas off of them.
+__Aj__: 
 
-* __LeeAnna__: Another benefit that I have found, that we've done is flexible grouping. So that flexible grouping allows us to take kids that yes, they might be on an IEP, they might not be on an IEP, but they might need that additional support and we can put them together. And so there's some days that, I might have one of my specialists come in and they might not be working with a specific child that they're supposed to be working with. Based on the fact that, we know how many hours each of our students need for the required amount. And we can work together to fulfill those hours. So it's been pretty cool because then we have that opportunity together to work with the kids. And so if I'm not able to get a kiddo to be able to, if they're struggling with their reading and I'm not able to do something to help motivate them, one of my coworkers might be able to do that.  And one of my specialists and vice versa sometimes we'll look at each other and then say you know, Oh, we're really struggling here. I'm not sure what we need to do next. I can just go right over there and say, let's try this and they can do the same for me. So it's been really helpful for us to be able to build that comradery. And then those kids, don't even know that there's any difference between one from the other. And so they just, it's another day. All the people come in, all the people go out and they know that more than likely they're gonna be working in one of those groups. Mostly for our kiddos who come in, who are on an IEP, they have that label. That label can be very scary to parents. The older they get, the kids realize they have a label. But when, we have the co-teaching occurring, I don't even know if, the majority of my kids who are, are qualifying for SPED even knowing that they are. And that's the powerful piece for me because it's rebuilt relationships, confidence. It's shown them that they are a part of us, they're not any different. And I've been here for 12 years. And so seeing that growth over time and how we've changed and it's been a positive switch for me. It had to require some growth mindset on my part as well knowing that there's gonna be people in here as I'm teaching, I better be organized, I better have myself ready to go. And they might be a little louder than I typically would expect at a certain time. But the loudness is not them being off task, rather It's more on task. So that's been helpful for me too because then I can say, yes I hear them, but at the same time they're on task. They're doing what they need to be doing. They're answering questions, they're recalling whatever we're doing whether it's reading or writing or math. And so that's been really fun for us to see as well.  We have seen an increase in students passing rates in these classes where they struggled before. Because regular education teachers have, almost 100 students probably in a day that they see. And our students are a very small percentage of that. And so by, being able to have a teacher in there, who's monitoring those students, we can catch them and keep them caught up before they fall so far behind, that it's just impossible to get them caught up. It also gives them some confidence and also helps give them some skills. Like for me as the Freshmen English teacher, to kind of get those freshmen on the right path for the rest of high school in order to make sure they start off on a good foot. Some students have to be pulled to be read to. And so, they kind of I will talk to them privately like, Hey, we have a test coming up. After your teacher gives you your test, come with me, just leave the room like to make no big deal of it. They also, kind of know I'm the one to go to if they're stuck with something and they're not really sure. So that piece is nice as well as having that additional person who knows what they're doing and that works in study hall too. Like all of our students have the same study hall times roughly between fourth and fifth period and so, if their teacher has no idea what they did they can send them to us or to me, and then I can help them out. Or the teacher will come ask me what they're doing but, students, they kind of they know that I know but then they don't have to say anything about it either. Like they're struggling so I can kind of help them advocate for their needs too.
+Two teachers working together to meet the needs of students that struggle in math. It takes two adults so they can reach more students. And then were sharing the load of the teaching and great level material. The core math teacher kinda holds the, kinda more of the knowledge of that subject. So she teaches more of it. But as the class goes, I pop in, ask questions, kinda think in terms and then go around and helping my students. And we both work together to adapt it or come up with ways to reach our students easier. It helps more students be able to get great level material presented at their level. So then we only have to do as many pull-outs where kinda the research classes. I mean they widen the gap for the learning where this allows them to be in getting great level materials presented at their level. The alternative to this, yeah there's pull out, which I also teach to those classes. The only alternative, if we didn't have co-teaching, would be that we would have to pull out and try to modify the curriculum at their level where this is more presented at theirs. They want their peers they don't feel like they're excluded.
 
-* __Aj__: They're with their peers, they're not being pulled out.They're not, again, back in the day where they're always excluded. And so getting the label of learning disability you're excluded from all your peers. While here they just feel like they're with everyone else. Most of the people in here, I would say half the students in here don't even know I'm a special ed teacher. They just think I'm another teacher in the room. That's the other perk is they're learning from the students that math is easier for them. So then the different mindset, the problem solving kinda hearing from them instead of just hearing from the same group of kids that are all just struggling in math. They do learn strategies from their peers. 'Cause the special ed kids bring a different mindset also. So they might not, math might not come easy, but they come up with a different way of thinking of stuff. So it also makes the ones who really get it easy to kinda slow down and rethink and then they can also teach. So, the best way that we know as teachers if a student can teach it, they really have a material down. So we do allow our students that excel to kinda step back sometimes and help the other students and kind of a win-win for both.
+__Christi__: 
 
-* __Christi__: With the collaboration it is nice for the lower level students to be able to speak to somebody middle ranger or higher, and bounce ideas off. But I also think that the higher level thinkers they benefit from the lower students just because, they bring in a different idea. So I think they feel more comfortable with each other and they're able to talk to each other. At the school I was at, I had to push in and it was my first year of teaching. I didn't know the math curriculum very well. And I was hoping that they would help out more and kind of lead me a little bit or share some of their knowledge. And I think from that experience it led me to, wanna co-teach and be part of it just because two brains are better than one.
+I have a better understanding of the materials just 'cause I've been doing this for four years. I actually started at Whittier as a co-teacher in the special ed department, and fell in love with the curriculum so I moved to math. And so I think it's good that I have the special ed background and it helps me in the co-taught classroom. But together we plan, we talk about things that we wanna do. We have bright ideas that don't always come to fruition. As a classroom teacher, I have to have knowledge of the special ed students. What their accommodations are and what I need to do. But it's always nice to have that second person in the classroom to come up with different strategies or maybe they suggest trying it a different way. Or when he questions the students, asking them a question in a different way than what I would've thought about asking it. Bouncing ideas off of them, using them together, which is something that I don't know if it'll work talking it through with him. Sometimes he thinks I'm crazy, sometimes it works, sometimes it doesn't work. So it's nice to have that second, third person 'cause there's a lot of movement in the morning with different math teachers and talking about what we're doing that day and why we're doing it and how we're doing it. And so it's nice to have somebody who knows our students and to bounce ideas off of them.
 
-* __Tanya__: For the regular ed students, some of them need that additional support. And sometimes I can pick out the regular students that they might wanna consider some additional supports for additional services as well. And they can ask for, they can ask me for my input too the regular teachers can as well. I like seeing how different teachers teach. Like that's what a benefit I've gotten out of Whittier. Oh that's really cool, I wanna try that because we don't get to go out and see other teachers, how they teach and just sit and watch them sometimes. And it's just, it's built some good relationships between the departments that we've worked with, with this. Because they, sometimes have a different perspective on special ed. And then once you're able to kinda see how we work and see what it looks like, it kind of helps them understand, how that department works and how we are there to help them as teachers and help their students settle in their classroom as well.
+__LeeAnna__: 
 
-* __Aj__: As a special ed teacher, you're coming in and not knowing the material as well as a co-teacher 'cause they've taught it for years or that's all they have. It's depending on how comfortable I am with the material, I jump in more, I teach or most of the time I kinda sit back and kinda think about questions that I can ask to kinda help in particular my students are not even if they're special or just kind of struggling students what kind of questions should they be asking, that they probably don't feel comfortable asking themselves. And I'll raise my hand and ask those questions. They're kind of my main role, and going around and kinda observing what they're doing with their work and kinda seeing if they need help and trying to be in their voice.
+Another benefit that I have found, that we've done is flexible grouping. So that flexible grouping allows us to take kids that yes, they might be on an IEP, they might not be on an IEP, but they might need that additional support and we can put them together. And so there's some days that, I might have one of my specialists come in and they might not be working with a specific child that they're supposed to be working with. Based on the fact that, we know how many hours each of our students need for the required amount. And we can work together to fulfil those hours. So it's been pretty cool because then we have that opportunity together to work with the kids. And so if I'm not able to get a kiddo to be able to, if they're struggling with their reading and I'm not able to do something to help motivate them, one of my coworkers might be able to do that. And one of my specialists and vice versa sometimes we'll look at each other and then say you know, oh, we're really struggling here. I'm not sure what we need to do next. I can just go right over there and say, let's try this and they can do the same for me. So it's been really helpful for us to be able to build that cameraderie. And then those kids, don't even know that there's any difference between one from the other. And so they just, it's another day. All the people come in, all the people go out and they know that more than likely they're gonna be working in one of those groups. Mostly for our kiddos who come in, who are on an IEP, they have that label. That label can be very scary to parents. The older they get, the kids realise they have a label. But when, we have the co-teaching occurring, I don't even know if, the majority of my kids who are, are qualifying for SPED even knowing that they are. And that's the powerful piece for me because it's rebuilt relationships, confidence. It's shown them that they are a part of us, they're not any different. And I've been here for 12 years. And so seeing that growth over time and how we've changed and it's been a positive switch for me. It had to require some growth mindset on my part as well knowing that there's gonna be people in here as I'm teaching, I better be organised, I better have myself ready to go. And they might be a little louder than I typically would expect at a certain time. But the loudness is not them being off task, rather it's more on task. So that's been helpful for me too because then I can say, yes I hear them, but at the same time they're on task. They're doing what they need to be doing. They're answering questions, they're recalling whatever we're doing whether it's reading or writing or math. And so that's been really fun for us to see as well.  We have seen an increase in students passing rates in these classes where they struggled before. Because regular education teachers have, almost 100 students probably in a day that they see. And our students are a very small percentage of that. And so by, being able to have a teacher in there, who's monitoring those students, we can catch them and keep them caught up before they fall so far behind, that it's just impossible to get them caught up. It also gives them some confidence and also helps give them some skills. Like for me as the freshmen English teacher, to kind of get those freshmen on the right path for the rest of high school in order to make sure they start off on a good foot. Some students have to be pulled to be read to. And so, they kind of I will talk to them privately like, hey, we have a test coming up. After your teacher gives you your test, come with me, just leave the room like to make no big deal of it. They also, kind of know I'm the one to go to if they're stuck with something and they're not really sure. So that piece is nice as well as having that additional person who knows what they're doing and that works in study hall too. Like all of our students have the same study hall times roughly between fourth and fifth period and so, if their teacher has no idea what they did they can send them to us or to me, and then I can help them out. Or the teacher will come ask me what they're doing but, students, they kind of they know that I know but then they don't have to say anything about it either. Like they're struggling so I can kind of help them advocate for their needs too.
 
-* __LeeAnna__: I think the advice that I can give, when it comes to co-teaching is just to have that growth mindset and to give it a try. It's scary and a little overwhelming at first. There's still a little hesitation with some here but we've come a long way in the time that I've been here. But once you get there, you don't wanna ever lose it. And so even when we have all of our supports with our reading teachers coming in and our ELL and our SPED it's just nice because anytime we see each other in the hall, we're able to say, "hey, this is what I worked on, this is what I saw with the gains". And we've seen student achievement rise with all of these kids in growth. And our main focus is always growth. And to be able to have that language and that conversation with a variety of teachers, and we're all seeing the same thing. it's been really powerful for us when we see our scores slowly rising. And it's not all about test scores but it is nice to have that visual to say, this is working. So that when we're going this is a little extra work, we have to make sure we're making time with other people. But at the same time we have that benefit of knowing all the great things that are coming out of it. And these students are feeling like they belong and they love being in their natural setting, their classroom. And for them to know they're not gonna leave and they don't have to leave. And they see a variety of students rotating between the groups. They don't know any different. They think that's just a part of how teaching works. And so it's been really cool to see that it happened here.
+__Aj__: 
+
+They're with their peers, they're not being pulled out. They're not, again, back in the day where they're always excluded. And so getting the label of learning disability you're excluded from all your peers. While here they just feel like they're with everyone else. Most of the people in here, I would say half the students in here don't even know I'm a special ed teacher. They just think I'm another teacher in the room. That's the other perk is they're learning from the students that math is easier for them. So then the different mindset, the problem solving kinda hearing from them instead of just hearing from the same group of kids that are all just struggling in math. They do learn strategies from their peers. 'Cause the special ed kids bring a different mindset also. So they might not, math might not come easy, but they come up with a different way of thinking of stuff. So it also makes the ones who really get it easy to kinda slow down and rethink and then they can also teach. So, the best way that we know as teachers if a student can teach it, they really have a material down. So we do allow our students that excel to kinda step back sometimes and help the other students and kind of a win-win for both.
+
+__Christi__: 
+
+With the collaboration it is nice for the lower level students to be able to speak to somebody middle ranger or higher, and bounce ideas off. But I also think that the higher level thinkers they benefit from the lower students just because, they bring in a different idea. So I think they feel more comfortable with each other and they're able to talk to each other. At the school I was at, I had to push in and it was my first year of teaching. I didn't know the math curriculum very well. And I was hoping that they would help out more and kind of lead me a little bit or share some of their knowledge. And I think from that experience it led me to, wanna co-teach and be part of it just because two brains are better than one.
+
+__Tanya__: 
+
+For the regular ed students, some of them need that additional support. And sometimes I can pick out the regular students that they might wanna consider some additional supports for additional services as well. And they can ask for, they can ask me for my input too, the regular teachers can as well. I like seeing how different teachers teach. Like that's what a benefit I've gotten out of Whittier. Oh that's really cool, I wanna try that because we don't get to go out and see other teachers, how they teach and just sit and watch them sometimes. And it's just, it's built some good relationships between the departments that we've worked with, with this. Because they, sometimes have a different perspective on special ed. And then once you're able to kinda see how we work and see what it looks like, it kind of helps them understand, how that department works and how we are there to help them as teachers and help their students settle in their classroom as well.
+
+__Aj__: 
+
+As a special ed teacher, you're coming in and not knowing the material as well as a co-teacher 'cause they've taught it for years or that's all they have. It's, depending on how comfortable I am with the material, I jump in more, I teach or most of the time I kinda sit back and kinda think about questions that I can ask to kinda help in particular my students are not even if they're special or just kind of struggling students what kind of questions should they be asking, that they probably don't feel comfortable asking themselves. And I'll raise my hand and ask those questions. They're kind of my main role, and going around and kinda observing what they're doing with their work and kinda seeing if they need help and trying to be in their voice.
+
+__LeeAnna__: 
+
+I think the advice that I can give, when it comes to co-teaching is just to have that growth mindset and to give it a try. It's scary and a little overwhelming at first. There's still a little hesitation with some here but we've come a long way in the time that I've been here. But once you get there, you don't wanna ever lose it. And so even when we have all of our supports with our reading teachers coming in and our ELL and our SPED it's just nice because anytime we see each other in the hall, we're able to say, "hey, this is what I worked on, this is what I saw with the gains". And we've seen student achievement rise with all of these kids in growth. And our main focus is always growth. And to be able to have that language and that conversation with a variety of teachers, and we're all seeing the same thing, it's been really powerful for us when we see our scores slowly rising. And it's not all about test scores but it is nice to have that visual to say, this is working. So that when we're going this is a little extra work, we have to make sure we're making time with other people. But at the same time we have that benefit of knowing all the great things that are coming out of it. And these students are feeling like they belong and they love being in their natural setting, their classroom. And for them to know they're not gonna leave and they don't have to leave. And they see a variety of students rotating between the groups. They don't know any different. They think that's just a part of how teaching works. And so it's been really cool to see that it happened here.
 
 </details>
 
@@ -1294,66 +1315,61 @@ and we keep all of our kids inside the classroom. And we get the opportunity to 
 
 ## 5. Examples of Students´ Diversity in Inclusive Classrooms
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/children-diversity.png)
+![Diversity](diversity.png)
 
-In chapter 2, we defined the fact of diversity including the variety and difference of individuals in a society on three levels: social, biological, psychological. 
+Let's start with this last major chapter focused on students and their individual differences. 
 
-According to this theoretical frame and interdisciplinary empirical research, we take a closer look at three _dimensions of diversity_ and special characteristics of students: 
+In chapter 2, we defined the fact of diversity - the variety and differences between individuals in a society - on three levels: social, biological, and psychological. Following this theoretical framework and interdisciplinary empirical research, we will now take a closer look at four dimensions of diversity and the special characteristics of students:
 
-* (5.1) social and ethnic origin 
-* (5.2) physical and cognitive abilities 
-* (5.3) personality and gender 
+* Social origin (5.1)
+* Ethic origin (5.3)
+* Physical and cognitive abilities (5.5)
+* Personality and gender (5.7) 
 
-Each chapter ends with a case-vignette. 
+Each section contains a case vignette. Note that we deliberately refrain from distinguishing between general students and students with special education needs or at-risk-students wherever possible!
 
-Moreover, in chapter (5.4), we put together a guideline "Reducing _Bias_ in Communication" that helps you as an educator being a sensitive teacher, colleague, and partner in cooperation. 
-
-Let’s start with the last main chapter and focusing on the individual level of students. With regard to the diversity discourse, we deliberately refrain from making a rough distinction between general students and students with special education needs or at-risk-students wherever possible!
-
-> __Learning goals:__
+> __Learning Goals:__
 >
 > * You are able to describe the characteristics of student diversity in different dimensions.
-> * You are able to judge situations of discrimination in school/lessons, analyse the situation from the students’ point of view and indicate a course of action appropriate to the situation and to justify this.
+> * You are able to appraise situations possibly involving discrimination in schools/lessons, analyse them from the students' point of view, and indicate and justify a course of action appropriate to the situation.
 
 
 ###	5.1 Socioeconomical Inequality
 
-Similar to the social level of diversity, sociologists focus on features of social origin examining causes, mechanism, and consequences of discrimination (see chapter 2.3) and social inequality. 
+Sociologists examining the causes, mechanisms, and consequences of discrimination (see chapter 2) and social inequality focus on the impact of ascribed features of social status (like ethnicity or gender) and acquired attributes (like the level of education a person has reached). Inequality is social insofar as it arises through social processes. 
 
-Inequality is social insofar as it arises through social processes. However, the challenge again lies in a value-free definition; e.g. the definition: "Social inequality exists when people have different levels of _well-being_" (Brüderl, 2019)[^1]. 
+Finding a value-free definition of social inequality is challenging, however. One might say: "Social inequality exists when people have different levels of well-being" (Brüderl, 2019)[^1]. 
 
-Here, defining well-being also is difficult. Because of that the following definition is preferred:
+But this poses another problem, that of defining well-being. In that light, the following definition may be preferable:
 
-> __Definition: _Social inequality___
+> __Definition of Social Inequality__
 >
-> Social inequality exists when people have different levels of primary and/or secondary intermediate goods. (Intermediate
-> goods are the dimensions of social inequality such as education and financial capital.” (translated from Brüderl, 2019)[^1]
+> Social inequality exists when people have different levels of primary and/or secondary intermediate goods. Intermediate goods are dimensions of social inequality such as education or financial capital.” (translated from Brüderl, 2019)[^1]
 
-Whether inequality is just or unjust is another question, which we will not discuss here. 
+Whether inequality is just or unjust is a separate question that will not be discussed here. For a common definition of social justice and an extended description of relevant concepts, theory, and praxis, see Abbott (2014)[^2].
 
-For a common definition of social justice and a further description according to concepts, theory, and praxis see Abbott (2014).[^2]
-
-> __Definition: _Social justice___
+> __Definition of Social Justice__
 >
-> Social justice is commonly viewed as a guiding principle to achieve a just society, understood both as a means as well as
-> an end. It includes a wide variety of goals, including full and equal participation of individuals in all institutions; 
-> fair, equitable distribution of material and nonmaterial goods; and recognition and support for the needs and rights of
-> individuals. (cf. Abbott, 2014; see also Bell, 2007)[^2][^3]
+> Social justice is commonly viewed as a guiding principle to achieve a just society, understood both as a means and an end. It includes a wide variety of goals, including the full and equal participation of individuals in all institutions; fair and equitable distribution of material and non-material goods, and recognition and support for the needs and rights of individuals. (see Abbott, 2014; see also Bell, 2007)[^2][^3].
 
-In general, sociological researchers differ in terms of _ascriptive features_ such as origin, sex/gender, ethnicity, blood group, hair colour, age, etc. and acquired features such as occupation, education, income and wealth. It is assumed that ascriptive features do not influence human wellbeing directly, but indirectly via primary and secondary intermediate goods.
-
-In the next chapter, you can see some interrelation between well-being and exemplary, primary and secondary primal goods.
+In general, sociologists distinguish ascriptive features such as origin, sex/gender, ethnicity, blood group, hair colour, age, etc. and acquired features such as occupation, education, income and wealth.
+It is assumed that ascriptive features do not influence human well-being directly, but indirectly via primary and secondary intermediate goods.
 
 Increasing Well-being
-===
+---
 
-In principle, it is assumed that more or better intermediate goods increase individual well-being (see illustration according to Brüderl, 2019)[^4].
+In principle, it can be assumed that more or better intermediate goods increase individual well-being (see the illustration following Brüderl, 2019)[^4].
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/well-being-crop.png "Increasing well-being, own illustration based on Brüderl, J. (2019)[^4]")
+<center>![Well-being](well-being.png) Increasing well-being, illustration by project team based on Brüderl (2019)[^4]</center>
+<br>
 
-This illustration does not claim to be complete. Where do you see migration/ethnicity and sex/gender?
+This illustration does not claim to be complete. Where would you site migration/ethnicity and sex/gender?
 
-Again and again, international comparative research showed that these aspects are crucial with regard to social and educational inequalities in current societies (OECD, 2024)[^5].
+International comparative research has shown time and again that these aspects are crucial factors affecting social and educational inequalities in societies today (OECD, 2024)[^5].
+
+What You Will Find in the Next Section
+---
+In the next section we will take a closer look at four dimensions of diversity as well as four case-vignettes.
 
 [^1]: Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie.uni-muenchen.de/studium-lehre/lehrmaterialien/ws-2019-2020/vorlesung-sozialstruktur_19.pdf
 
@@ -1368,237 +1384,213 @@ Again and again, international comparative research showed that these aspects ar
 
 ### 5.2 Case-vignette "Social Origin"
 
-Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse classroom settings; it is not a test for choosing right or wrong answers!
+Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/1-tina.jpg "AI Image Gen generated image based on own prompt[^1]")</center>
+<center>![case-vignette language](case-vignette-social-origin.jpg)AI Image Gen generated image based on own prompt[^1]</center>
+<br>
 
-> __"Social origin" case description__
+> __"Social Origin" Case Description__
 > 
-> Tina, 14 years old, is a student in 8th grade at the city high school who lives with her parents and three younger 
-> brothers out of town. Since her mother has fallen seriously ill and her father has to look after the cheese 
-> dairy and the inn on his own, the family's finances have become increasingly difficult. Tina therefore helps out in the service 
-> area of the restaurant after school and only does her homework late in the evening. She can barely keep her eyes open in class 
-> and during the breaks she sits away from her friends to rest.
-> 
-> As a teacher, you have no idea how much of a burden Tina is. She was always rather quiet in class and her performance was in the 
-> middle range. However, when it comes to the class trip, she doesn't seem to be looking forward to it at all. You are worried - 
-> and rightly so, because Tina then comes to you with the news that she doesn't want to go on the picnic next week or on the school 
-> trip. She had a fight with her best friend - an answer that makes you think. The two friends sit next to each other in class.
+> Tina, 14 years old, is a student in the 8th grade who lives in a rural area with her parents and her three younger brothers and attends school in a nearby city. Since her mother has fallen seriously ill and her father is now running the family business - a cheese dairy and a small hotel- without her mother, the family's finances have become increasingly strained. Tina now helps out as a server in the restaurant after school and only starts her homework late at night. She can barely keep her eyes open in class and she sits away from her friends during the breaks to rest. 
+>
+> As a teacher, you know nothing about the pressures Tina is under. However, she doesn't seem to be looking forward to the upcoming class trip at all. You are worried about her - and rightly so, because Tina then comes to you to let you know that she doesn't want to go on the picnic next week or on the school trip. She says she had a fight with her best friend - and this makes you think. 
 
-Here, you can see some possible reactions. 
+Some Ways in Which You Could React:
 ---
 
-Please, think about your preferred action as the teacher. Also, reflect why you would do this as a first reaction? You can also note other ideas on a separate note (sharing with us on the [feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the section "content" after finishing this OER).
+> @admonition(warning, Task: )
+> 
+> Take a moment to think about your preferred course of action as the teacher. Reflect, too, on why you would choose your first-preferred reaction?
+>
+> * Seek contact with the parents
+> * Accept Tina's decision without asking further questions
+> * Try to motivate Tina to participate
+> * Ask Tina and her friend to talk
+> * Seek dialogue within the teaching staff
+> * Other ideas?
 
-- Seek contact with the parents
-- Accept Tina's decision without asking further questions
-- Motivate Tina to participate
-- Ask Tina and her friend to talk
-- Seek dialogue within the teaching staff
-- other ideas?
+You can also note other ideas separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 [^1]: Photorealistic image of a tired 14-year-old girl in 8th grade, sitting at her desk in a bright classroom, looking worried, with droopy eyes, while classmates chat nearby. A calendar shows an upcoming class trip.
 
-### 5.3 Ethic and Migration
+### 5.3 Ethnicity and Migration
 
-Ethnic origin, which is systematically linked to various dimensions of inequality, can be operationalised in very different ways (e.g., via the place of birth in the country of origin or in the destination country). This operationalisation is particularly central in traditional immigration countries such as the USA or Canada.
+Ethnic origin is systematically linked to various dimensions of inequality and can be operationalised in very different ways (does a person, for example, count as "belonging" to the country where they were born independently of their parents' citizenship rights?). This operationalisation based on a person's birthplace is particularly central in countries such as the USA or Canada that have a long tradition of accepting immigrants.
 
-Which groups are affected by _ethnic inequality_? 
+Which Groups are Affected by Ethnic Inequality? 
 ---
 
-In many late immigration countries, however, the children of immigrants are also categorised separately. This is particularly true in Germany, where an ethnically defined concept of nation prevailed for a long time and statistics differentiate according to the so-called _“migration background”_ as a personal attribute.
+In many countries where mass immigration commenced later, however, the children of immigrants continue to be regarded as immigrants. This is particularly true in Germany, where ethnically defined concepts of nationality and citizenship prevailed for a long time and statistics still record that certain students have a so-called "migration background".
 
-Because of the correspondence between the everyday understanding of belonging and the statistical definition, it is precisely that the concept of migration background is controversial, although it certainly represents progress compared to the differentiation between originals and foreigners (Diehl, 2024)[^1].
+The "migration background" concept is controversial because of the overlap between the statistical definition and everyday experiences of belonging or being othered, although it undoubtedly represents an improvement on the distinction formerly made between supposedly autochthonous inhabitants and foreigners (Diehl, 2024)[^1].
 
-It is undisputable that sensitive and inclusion-oriented teachers need to be aware of the well-being of their students and families. Reflecting on social and ethnical inequality, actively, proactively and reactively avoiding discrimination is the task of inclusive pedagogy.
+It is undisputable that sensitive and inclusion-oriented teachers need to be aware of the well-being of their students and families. Reflecting on social and ethnic inequality and actively, proactively and reactively avoiding discrimination is a core task for inclusive pedagogy.
 
-In the next section
+What You Will Find in the Next Section
 ----
 
-In the following, we present the first of three case-vignettes, written, explored, and reflected by German Master students in a teacher education project seminar. 
+You will encounter the case vignette "language and identity".
 
 [^1]:Diehl, C. (2024). Migration und ethnische Ungleichheiten. In Handbuch Sozialstrukturanalyse (pp. 1–25). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-39759-3_47-1 
 
-### 5.4 Case-vignette "Language"
+### 5.4 Case-vignette "Language and Identity"
 
-Case-vignette “Language & Identiy”
 Now, we now describe another case-vignette on the topic of migration and identity. Please take your time and remember: This is an exercise to reflect on your role as a teacher in different classrooms; it is not a test where you have to choose right or wrong answers! 
 
 In Addition: If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
 
-<center>![](9f7964dae4b318e06f9e411689994ea6e7fca47b.png)AI Image Gen generated image based on own prompt[^1]</center>
+<center>![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-> __“Language” case description__
+> __“Language” Case Description__
 > 
 > You are a class teacher at a secondary school that has a high proportion of pupils with a migrant background, while the socio-cultural diversity of your colleagues is rather rare. On the whole, you have the impression that the new students’ transition to school is successful and that they are well integrated after the first year. However, the case of Hadil and Sol, 16-year-old twins, is different. They have been in their class for 10 months, but they still remain alone and do not participate in school activities. They do not speak in the school language, even though they attend the additional language course. They are also silent in English lessons, even though they had English lessons in their home country. They always use a translator for exercises in the classroom and at home and their performance is generally good. However, there is no verbal communication in class, neither with their peers nor with you or other teachers. This is a major problem for social inclusion and educational success. 
 
+Some Ways in Which You Could React
+---
 
-In the following, we present different fields of action. At first, you see some possible re-action with regard to your direct contact with Hadil and Sol. Please take your time and reflect on your role as a teacher in this situation. What would you do? Remember that this is not a test with right or wrong answers! 
+> @admonition(warning, Task: )
+> 
+> In the following, we present different fields of action. At first, you see some possible reaction with regard to your direct contact with Hadil and Sol. Please take your time and reflect on your role as a teacher in this situation. What would you do? Remember that this is not a test with right or wrong answers! 
+> 
+> __Your relation to Hadil and Sol:__
+>
+> * I stay out of it and do not speak to Hadil and Sol.
+> * I use a translator to express my own opinion in Hadil and Sol's mother tongue and write to Hadil and Sol to ask them to change their behaviour.
+> * Other reactions?
+>
+> __Your relation to your colleagues and others:__
+>
+> * I do not raise the issue with my colleagues.
+> * I tell my colleagues about Hadil and Sol and request that we develop a social inclusion plan as a team.
+> * I tell my family / friends about Hadil and Sol and reflecting the problem of inclusion.
+> * I get in touch with the social education worker.
+> * I get in touch with the school psychologist.
+> * Other reactions?
+>
+> __Classroom management:__ 
+> 
+> * I continue to use the usual social forms and methods.
+> * I try to use more co-operative social forms and multilingual activities that strengthen the class community.
+> * I make the class aware that Hadil and Sol should be included more ,addressing their social exclusion openly in front of the class.
+> * I follow the curriculum without explicitly addressing the topic of inclusion.
+> * In order to sensitise the class, I combine the topics of the curriculum with the topic of inclusion.
+> * Other reactions?
+>
+> __Your relation to the parents:__ 
+> 
+> * I stay out of it and do not seek contact with the parents. What happens at home is not my responsibility. The twins are old enough.
+> * I use a translator writing a letter and provide information about help centres.
+> * I seek dialogue with the parents and a professional interpreter.
+> * Other reactions?
 
-__Your relation to Hadil and Sol:__
-
-* I stay out of it and do not speak to Hadil and Sol.
-
-* I use a translator to express my own opinion in Hadil and Sol's mother tongue and write to Hadil and Sol to ask them to change their behaviour.
-
-* other re-action (Please use the feedback board at the end of our OER)
-
-__Your relation to your colleagues and others:__
-
-* I do not raise the issue with my colleagues.
-
-* I tell my colleagues about Hadil and Sol and request that we develop a social inclusion plan as a team.
-
-* I tell my family / friends about Hadil and Sol and reflecting the problem of inclusion.
-
-* I get in touch with the social education worker.
-
-* I get in touch with the school psychologist.
-
-* other re-action (Please use the feedback board at the end of our OER)
-
-__Classroom management:__ 
-
-* I continue to use the usual social forms and methods.
-
-* I try to use more co-operative social forms and multilingual activities that strengthen the class community.
-
-* I make the class aware that Hadil and Sol should be included more ,addressing their social exclusion openly in front of the class.
-
-* I follow the curriculum without explicitly addressing the topic of inclusion.
-
-* In order to sensitise the class, I combine the topics of the curriculum with the topic of inclusion.
-
-* other re-action (Please use the feedback board at the end of our OER)
-
-__Your relation to the parents:__ 
-
-* I stay out of it and do not seek contact with the parents. What happens at home is not my responsibility. The twins are old enough.
-
-* I use a translator writing a letter and provide information about help centres.
-
-* I seek dialogue with the parents and a professional interpreter.
-
-* other re-action (Please use the feedback board at the end of our OER)
+You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 [^1]: Photorealistic image of a classroom, in the foreground twin teenage sisters sitting next to each other looking at tablets. In the background, students are sitting.
 
 
 ###	5.5 Function, Disability, and Health
 
-It is natural-given that we as human differ in individual physical and cognitive abilities. However, some individuals are disadvantaged in everyday life deviating from the norm in special physical and/or cognitive functions and structures. Here, norm refers to a medically diagnosed condition; i.e., health versus disease/disability. 
+It is simply a fact that we are all individual humans with different physical and cognitive abilities.However, some individuals with physical and/or cognitive functions and structures that deviate from certain norms face particular disadvantages in everyday life. Medical diagnoses of disease and disability represent deviations from the norm of health.
 
 International Classification of Function, Disability, and Health (ICF)
 ---
 
-The _International Classification of Function, Disability, and Health (ICF)_, developed by the World Health Organization (WHO), is a code book that explains health and related conditions in an internationally standardised language. This enables worldwide communication about health and health care. 
+The International Classification of Function, Disability, and Health (ICF) developed by the World Health Organization (WHO) is a code book that explains health and related conditions in internationally standardised language. This enables worldwide communication about health and healthcare.
 
-The components are described from the perspective of the body, the individual and society in two main lists: 
+The components are described from the perspective of the body, the individual, and society in two main lists:
 
-1. Body functions and body structures 
-2. Activities and participation 
+1. __Body functions and body structures__ 
+2. __Activities and participation__ 
 
-accordingly, disability serves as a generic term for impairments of activity and participation. 
+Accordingly, disability serves as a generic term for impairments of activity and participation.
 
-The ICF also lists environmental factors that interact with the aforementioned constructs. This enables the user to create useful profiles of a person's functioning, disability and health for different domains. Further, the ICF systematically groups different domains for a person with a specific health problem (e.g., what a person affected by disease actually can do).
+The ICF also lists environmental factors that interact with the constructs mentioned above. This enables the user to create useful profiles of a person's functioning, disability, and health for different domains. Furthermore, the ICF systematically groups different domains for a person with a specific health problem (e.g. what can a person affected by a disease actually do?).
 
+<center>![ICF Model](model-icf.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]</center>
 <br>
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/icf-model.jpg "ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021) [^1]")
-</center>
 
-It is clear that a teacher’s awareness and sensitive according to the individual (dis)abilities and wellbeing on students is crucial. However, a general education teacher in mainstream schools is not an expert in medicine and special education diagnostic. Therefore, multiprofessional cooperation and interprofessional co-teaching are needed as well as an open, inclusive attitude and general knowledge about some diseases and disabilities. 
+It is clear that it is crucial for teacher to be aware of and sensitive to students' individual (dis)abilities and their well-being. However, general education teachers in mainstream schools are not experts in medicine and special education diagnostics. Therefore, multi-professional cooperation and inter-professional co-teaching are needed as well as open, inclusive attitudes and general knowledge about some diseases and disabilities.
 
 Last but not least, it is crucial to know, that we can find relevant information according to a special disease/disability in the [international version of the ICD-11 manual](https://icd.who.int/en). 
 The manual offers basic knowledge in order to establish a common ground for the communication with special education teachers. 
 
-In the following we provide an example for Autism-Spectrum-Disorders.
-
-
-[^1]:Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021). Neuromechanical Biomarkers for Robotic Neurorehabilitation. Frontiers in Neurorobotics, 15. https://doi.org/10.3389/fnbot.2021.742163
-
-
-
 Autism-Spectrum-Disorders
-===
-
-Due to the variety and diversity of autistic symptoms, the technical term _autism spectrum disorders (ASD)_ is used; see code [6A02 in the ICD-11 Manual](https://icd.who.int/browse/2024-01/mms/en#437815624). The term “spectrum” shows the endeavour to do justice to the wide range of symptoms and typical characteristics as well as the different strengths and abilities, but also the impairments that the respective people with ASD can exhibit, see illustration below.
-
-"Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."[^1]
-
-![IFC-model](ifc-model.png)
-
-In the following section
 ---
-Now we will look at a case vignette about "obesity".
 
-[^1]: ICD-11 for Mortality and Morbidity Statistics. (n.d.). Retrieved November 18, 2024, from https://icd.who.int/browse/2024-01/mms/en#437815624
+Due to the variety and diversity of autistic symptoms, the technical term autism spectrum disorders (ASD) is used; see code [6A02 in the ICD-11 Manual](https://icd.who.int/browse/2024-01/mms/en#437815624). The term “spectrum” shows the endeavour to do justice to the wide range of symptoms and typical characteristics as well as the different strengths and abilities, but also the impairments that the respective people with ASD can exhibit, see illustration below.
 
+"Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."(ICD-11, n.d)[^1]
 
+What You Will Find in the Next Section
+---
+We take a look at the case-vignette "obesity"
+
+[^1]: Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021). Neuromechanical Biomarkers for Robotic Neurorehabilitation. Frontiers in Neurorobotics, 15. https://doi.org/10.3389/fnbot.2021.742163
+
+[^2]: ICD-11 for Mortality and Morbidity Statistics. (n.d.). Retrieved November 18, 2024, from https://icd.who.int/browse/2024-01/mms/en#437815624
 
 ### 5.6 Case-vignette "Obesity"
 
-Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse 
-classroom settings; it is not a test for choosing right or wrong answers!
+Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/obesity.jpg "AI Image Gen generated image based on own prompt[^1]")</center>
+<center>![case-vignette language](case-vignette-obesity.jpg)AI Image Gen generated image based on own prompt[^1]</center>
+<br>
 
-> __"Obesity" case description__
+> __"Obesity" Case Description__
 >
-> Andy is 13 years old and has been attending the school where you are his PE teacher for a year. Since changing schools, he has 
-> put on a lot of weight and you are now very concerned about his health. In PE lessons, his body is more of a handicap than a 
-> strength. You know that Andy is a passionate footballer, but he finds running difficult. In addition, he is increasingly excluded 
-> by the other pupils and pushed into the goal at soccer. The class teacher is also worried and has recently had a meeting with his 
-> parents. They know from her that the parents seem unconcerned and rejected the advice to seek a consultation with an adolescent 
-> doctor. Apparently the mother is overweight herself and the daily routines in the family are hardly supportive for Andy.
+> Andy is 13 years old and has been attending the school where you are have been his sports teacher for a year now. Since changing schools, he has put on a lot of weight, and you are now very concerned about his health. In sports lessons, his body is more of a handicap than a strength. In addition, he is increasingly excluded by the other students and pushed into the goalkeeper role at soccer. You know from her that the parents seem unconcerned and rejected the advice to seek a consultation with an adolescent medicine doctor. His family''s lifestyle seems to be generally unhealthy and Andy is unlikely to be receiving the support he needs at home.
 
-Here, you can see some possible feelings and rections.
---- 
+Some Ways in Which You Could React
+---
 
-Please, think about your role as the teacher, your feeling and handling in this situation. Also, reflect why you prefer this or that as a first reaction? You can note other feelings and ideas for re-action on a separate note (sharing with us on the feedback board after finishing this OER).
+> @admonition(warning, Task: )
+> 
+> Take a moment to think about your preferred course of action as the teacher. Reflect, too, on why you would choose your first-preferred reaction?
+>
+> __Do you often worry about Andy before the sports lesson? If so, how do you want to deal with it? (several options available)__
+> 
+> * Address the child's physical health with him directly 
+> * Talk to the parents
+> * Ignore the situation/wait for developments or until you are asked
+> * Talk to colleagues about experiences and methods 
+> * Talk about the case in your own personal environment, seek advice
+> * Other
+>
+>__Imagine That Teams Have Been Chosen and that Andy Has Been Picked Last (and Reluctantly). How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
+>
+> 0. My well-being is unimpacted
+> 1. Very slightly stressed
+> 2. Slightly stressed
+> 3. Moderately stressed
+> 4. Fairly stressed
+> 5. Very stressed
+>
+> __Would You Keep the Team Selection Method in the Future?__
+>
+> * Yes, a different method would not change the situation for Andy. He will have to put up with it or fight back.
+> * Yes, but I will reprimand the class.
+> * No, I will choose a different method? Counting out, drawing lots, ...?
+> * No, I will avoid team games and only focus on individual exercises in class.
+>
+>__Imagine Andy is standing in the goal and is insulted by his classmates (“You fill the goal perfectly, very good that you are so fat!”) How do you feel as a teacher on a stress scale of 1-5?__
+>
+> 0. my well-being is unrestricted
+> 1. very slightly stressed
+> 2. slightly stressed
+> 3. moderately stressed
+> 4. quite stressed
+> 5. very stressed 
+>
+> __What feelings do you expect Andy to have when gym class is coming up? Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present.__
+>
+> * Anxiety (1-5)
+> * Hope for friendships (1-5)
+> * Insecurity (1-5)
+> * Helplessness (1-5)
+> * Anger that nobody takes him seriously in sports lessons (1-5) 
 
-__Do you often worry about Andy before the sports lesson? If so, how do you want to deal with it? (several options available) __
-
-* Address the child's physical health directly 
-* Talk to the parents
-* Ignore it/let it come to you
-* Talk to colleagues about experiences and methods 
-* Talk about the case in your own private environment, seek advice
-
-__Imagine the teams have been chosen and Andy has been picked last and reluctantly by a team. How do you feel as a teacher on a stress scale of 1-5?__
-
-0. my well-being is unrestricted
-1. very slightly stressed
-2. slightly stressed
-3. moderately stressed
-4. quite stressed
-5. very stressed
-
-__Would you keep the team selection method in the future? __
-
-* Yes, a different method would not change the situation for Andy, he will have to put up with it or fight back
-* Yes, but I will reprimand the class
-* No, I choose a different method? e.g. counting out, drawing lots, ...? 
-* No, I avoid team games and only do individual exercises in class
-
-__Imagine Andy is standing in the goal and is insulted by his classmates (“You fill the goal perfectly, very good that you are so fat!”) How do you feel as a teacher on a stress scale of 1-5?__
-
-0. my well-being is unrestricted
-1. very slightly stressed
-2. slightly stressed
-3. moderately stressed
-4. quite stressed
-5. very stressed 
-
-__What feelings do you expect Andy to have when gym class is coming up? Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present. __
-
-* Anxiety
-* Hope for friendships
-* Insecurity
-* Helplessness
-* Anger that nobody takes him seriously in sports lessons 
-* other
+You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 [^1]: Photorealistic image of 13 year-old overweight boy with a soccer ball, on a soccer field during PE class.". 
 
@@ -1765,6 +1757,12 @@ Try to be aware of your bias and reflect your attitude, because research showed 
 [^7]:Hattie, John. (2012). Visible learning for teachers. Routledge. https://doi.org/10.4324/9780203181522
 
 ## 6. Final Quiz
+
+This is the final quiz for the OER.  
+The estimated time to complete the quiz is approximately X minutes.  
+A minimum score of 80% is required to pass.
+
+<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=40" width="889" height="255" frameborder="0" allowfullscreen="allowfullscreen" title="Final Quiz (Question Set)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 7. Unconscious Bias (Add-on)
 
