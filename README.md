@@ -150,8 +150,7 @@ It was developed as part of Work Package 6 of the [European University for Well-
 
 Target Group
 ----------
-
-The OER is aimed at student teachers, but also to in-service teachers and a wider audiences in the area of education.
+The OER is primarily aimed at student teachers, but is also open to in-service teachers and a broader audience in education.
 
 No prior knowledge is required
 -------------------------------------------
@@ -219,8 +218,10 @@ All content marked as All Rights Reserved are not subject to this license.
 Download
 -------------- 
 
-* Download the self paced learning module as a SCORM Package (ZIP)
-* Download the self paced learning module project files (ZIP)
+This EUniWell OER self-study module "Diversity and Inclusion" will be available for download after approval by the project sponsor in following data formats:
+
+* ZIP package containing all project files (md,png,jpg,h5p, pptx)
+* SCORM 2004 zip file 
 
 ### Chapters, Key Themes and Learning Goals
 
@@ -2182,13 +2183,6 @@ Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, He
 
 Wocken, H. (2009). Inklusion & Integration. Ein Versuch, die Integration vor der Abwertung und die Inklusion vor Träumereien zu bewahren. In Integration und Inklusion auf dem Wege ins Gemeinwesen (pp. 204–234). A.-D. Stein, I. Niediek, & S. Krach. https://inklusion20.de/material/inklusion/Inklusion%20vs%20Integration_Wocken.pdf
 
-## Downloads
-
-This EUniWell OER self-study module "Diversity and Inclusion" will be available for download after approval by the project sponsor in following data formats:
-
-* ZIP package containing all project files (md,png,jpg,h5p, pptx)
-* SCORM 2004 zip file
-
-## Authors and Contact
+## Authors, Contact and Downloads
 
 See [About this OER](#2)
