@@ -1,7 +1,7 @@
 <!--
-version:  2024.11.24.01
+version:  2024.11.26.01
 
-author:   Manuela Ulrich, Sebastian Tillmann, Sarah Roos, Michael Kowalczyk, Samantha Jacobs
+author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
 email:    teacheredu.euniwell@uni-konstanz.de
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     24/11/2024
+date:     26/11/2024
 
 attribute: The OER Self-study Module "Diversity & Inclusion in Education" of the European University for Well-Beeing is licenced under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
@@ -115,9 +115,9 @@ fetch('@1')
 
 -->
 
-# EUniWell OER self-study module _Diversity & Inclusion in Education_ (Pre-Final)
+# EUniWell OER self-study module _Diversity & Inclusion in Education_
 
-![Path](path.png)
+![Path](chapter-path.png)
 
 > "People who want inclusion look for ways to make it happen, and people who don't want it look for rationalizations."
 >
@@ -125,15 +125,15 @@ fetch('@1')
 
 ---
 
-<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
+<center>![EUniWell Logo 600px](logo-euniwell.png)</center>
 
 ---
 
-<center>![Open Educational Resources Logo 400px](oer-logo.png)</center>
+<center>![Open Educational Resources Logo 400px](logo-oer.png)</center>
 
 ---
 
-<center>![CC-BY-SA Logo](CC-BY-SA-big.png)</center>
+<center>![CC-BY-SA Logo](logo-cc-by-sa-big.png)</center>
 
 ---
 
@@ -156,7 +156,7 @@ The OER is aimed at student teachers, but also to in-service teachers and a wide
 No prior knowledge is required
 -------------------------------------------
 
-[Chapter Overview & Learning Objectives](#3)
+[Chapter Overview & Learning Goals](#3)
 ------------------------
 
 Duration
@@ -177,12 +177,9 @@ While we strive to meet the criteria outlined for Levels A and AA compliance, pl
 
 We integrate interactive [H5P](https://h5p.org/) modules and use those which are marked as “accessible” in the official [H5P Content types recommendations list](https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations).
 
-
 Feedback
 ---------
 We are committed to continuous improvement and welcome [anonymous feedback](https://padlet.com/teacheredueuniwell/public-feedback-for-euniwell-oer-diversity-inclusion-t9twf0p8n7gd2wo3) on our public feedback wall to discuss and enhance the content quality and accessibility of the OER.
-
-
 
 Authors
 --------
@@ -213,7 +210,7 @@ Creative Commons License
 
 The OER self-study module _Diversity and Inclusion in Education_ of the European University for Well-Being is licensed under CC BY-SA 4.0 International.
 
-![CC-BY-SA-150px](CC-BY-SA-small.png)
+![CC-BY-SA-150px](logo-cc-by-sa-small.png)
 
 Sharing and further processing is expressly permitted subject to the conditions of attribution, non-commercial use, and distribution under the same license conditions.
 
@@ -227,7 +224,7 @@ Download
 
 ### Chapters, Key Themes and Learning Goals
 
-![Chapters](chapters.png)
+![Chapters](chapter-chapters.png)
 
 > [__About this OER__](#2)
 
@@ -305,18 +302,18 @@ Download
 
 Fill in the crossword using terms from the word cloud.
 
-<center>![Crossword](crosswords.png)</center>
+<center>![Crossword](graphic-crosswords.png)</center>
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=25" width="958" height="716" frameborder="0" allowfullscreen="allowfullscreen" title="Crossword"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## About EUniWell
 
-<center>![EUniWell Logo 600px](euniwell-logo.png)</center>
+<center>![EUniWell Logo 600px](logo-euniwell.png)</center>
 
 The European University for Well-Being (EUniWell) is a joint project funded by the European Union. EUniWell unites [eleven European universities](https://www.euniwell.eu/about/universities) with the aim of improving the well-being and quality of life of European citizens.
 
-<center>![EUniWell Members](euniwell-member-logos.png)</center>
+<center>![EUniWell Members](logo-euniwell-members.png)</center>
 
 Why Well-Being?
 ---
@@ -354,7 +351,7 @@ EUniWell's five thematic arenas enable a multifaceted and multicultural approach
 
 ### Teacher Education and Well-Being
 
-![Teacher Education](teacher-education.jpg)
+![Teacher Education](chapter-teacher-education.jpg)
 
 > “We will thus demonstrate that diversity, inclusion, and co-creation do not come at the expense of research excellence, but actually drive and accelerate it, enable equity and enhance universal well-being." 
 >
@@ -391,12 +388,9 @@ Our objectives in Arena 5 are centred around four key areas:
 
 (EUniWell, 2024)[^2]
 
-
 [^1]: EUniWell. (2023). EUniWell Mission Statement. https://www.euniwell.eu/fileadmin/user_upload/Downloads/Key_documents/2023_EUniWell_Mission_Statement_-_updated.pdf
 
 [^2]: EUniWell Teacher Education Team. (n.d.). Arena 5: Teacher Education and Well-Being. European University for Well-Being. Retrieved Winter 11, 2024, from https://www.euniwell.eu/what-we-do/fields-of-action/arena-5-teacher-education-and-well-being
-
-
 
 ### Definition of Teachers´ Professional Standards
 
@@ -408,7 +402,7 @@ Our objectives in Arena 5 are centred around four key areas:
 
 One of the key foci that were adressed during EUniWell´s pilot phase (2019-2023) was the need for further professionalization of teaching,  especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
 
-<center>![Teacher Education Arenas Logical Framework](teacher-education-arenas-framework.png) Teacher Education Arenas Logical Framework, Del Gobbo et al. (2023)[^2]</center>
+<center>![Teacher Education Logical Framework](graphic-teacher-education-framework.png) Teacher Education Logical Framework, Del Gobbo et al. (2023)[^2]</center>
 <br>
 
 The new competence areas for teachers' professionalization were defined as:
@@ -431,7 +425,7 @@ The idea of inclusion refers both to an ideological stance and an approach to de
 * The teacher is able to plan and adapt differentiated education, respecting the different needs of students.
 * The teacher promotes supportive education, aiming at fostering independent, self-confident, and critical learners." 
 
-(EUniWell, 2022)[^6]
+See EUniWell (2022)[^6]
 
 Examples of Professional Standards and Related Professional Behaviours (Inclusion)
 ---
@@ -441,8 +435,7 @@ Examples of Professional Standards and Related Professional Behaviours (Inclusio
 | :---------------------------------------- |:-------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------|
 | Create an inclusive learning environment | Being able to plan and adapt differentiated education that respects the different needs of students |                                                                          Being able to plan inclusively and accommodate the (special) needs of pupils.  | Assessing each student's abilities and challenges within the specific learning group | 
 | -                                        |                                                 .                                                 | Being able to adapt curriculum requirements to students' (special) needs and being able to create differentiated learning materials and environments |Adapting curriculum requirements to students' (special) needs and creating differentiated learning environments|
-
-(EUniWell, 2022)[^6]
+^Table 1. (EUniWell, 2022)[^6]^
 
 [^1]: UNESCO, International Commission on the Futures of Education. (2021). Reimagining our futures together: a new social contract for education. UNESCO. https://doi.org/10.54675/asrb4722
 
@@ -455,8 +448,6 @@ Examples of Professional Standards and Related Professional Behaviours (Inclusio
 [^5]: Asp-Onsjö, L. (2006). Åtgärdsprogram - dokument eller verktyg? En fallstudie i en kommun. https://gupea.ub.gu.se/handle/2077/16941
 
 [^6]:EUniWell, University of Florence. (2022). Deliverable Report (D3.27) Definition of common professional standards for European teachers.
-
-
 
 ## UNESCO Global Education Report on Inclusion and Education
 
@@ -507,7 +498,7 @@ The next chapter outlines the underlying social structures that influence the de
 
 ## 1. Systems Theory Perspectives
 
-![Theory Lecture](theories.png)
+![Theory Lecture](chapter-theories.png)
 
 To help you to gain a broader and deeper understanding of the central topics of diversity and inclusion and of wider social facts and processes, we will begin with a look at selected theories and models from the educational and social sciences.References to school theory are highlighted and specific examples of teacher professionalisation are explained.
 
@@ -524,7 +515,7 @@ Early sociologists assume certain universal functional requirements in societies
 
 It forms the basis of school theory and depicts three major systems of society in abstract terms. The decisive factors here are the interrelationships and the fact that school is located as an institution in the Eeducation system that dependsing on the politicsal and economic systems.
 
-<center>![Global Organisations and Systems](global-systems.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]</center>
+<center>![Global Organisations and Systems](graphic-global-systems.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]</center>
 <br>
 
 The model shows that the socialisation order of a society can be characterised by the three subsystems of politics, economics and education.
@@ -548,7 +539,7 @@ Inclusion as a Special Phenomenon in Current Society
 
 Let us imagine inclusion at the centre of this social systems model.
 
-<center>![Inclusion in the Center of Social Systems](global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
+<center>![Inclusion in the Center of Social Systems](graphic-global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
 <br>
 
 
@@ -609,7 +600,7 @@ Now it’s your turn, make five circles, draw yourself in the center and add a t
 The Ecosystemic Development Model
 ---
 
-<center>![Bronfenbrenners Ecological System Model](bronfenbrenner-model.png)The Ecosystemic Development Model according to Epp (2017)[^3] translated from German</center>
+<center>![Bronfenbrenners Ecological System Model](graphic-bronfenbrenner-model.png)The Ecosystemic Development Model according to Epp (2017)[^3] translated from German</center>
 <br>
 
 Microsystem
@@ -661,7 +652,7 @@ Similar to institutions, social roles emerge from a particular social dynamic. R
 
 Mead distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
-<center>![Individuum: I, Me & Self., own illustration](mead-i-me-self.png)Individuum: I, ME & SELF. Illustration by project team.</center>
+<center>![Individuum: I, Me & Self., own illustration](graphic-mead-i-me-self.png)Individuum: I, ME & SELF. Illustration by project team.</center>
 <br>
 
 * The __"I"__ is the psychological component. This is where people's creative and impulsive emotions and actions occur.
@@ -674,7 +665,7 @@ Based on the descriptions and theoretical considerations above, we can deduce th
 
 The following model, based on the idea of symbolic interactionism theory (Mead, 1934[^1]; see also Joas, 1989[^2]; Helle, 2001[^3]:) shows how inclusion can arise from social interactions and result in an individual attitude.
 
-<center>![Individuals´ interactions. Illustration](inclusive-attitudes.png)Individuals´ interactions. Illustration by project team.</center>
+<center>![Individuals´ interactions. Illustration](graphic-inclusive-attitudes.png)Individuals´ interactions. Illustration by project team.</center>
 <br>
 
 What You Will Find in the Next Section
@@ -696,7 +687,7 @@ You can test your acquired knowledge below.
 
 ## 2. Discrimination, Diversity and Inclusion
 
-![discrimination, diversity and inclusion](discrimination-inclusion.png)
+![discrimination, diversity and inclusion](chapter-discrimination-inclusion.png)
 
 This chapter looks at the definitions of diversity and inclusion.
 
@@ -779,15 +770,15 @@ Model of Quality Levels of Disability Policy and Disability Education
 
 | Level and Description  | Illustration [^4] | 
 | :------- | :------: | 
-| Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](0extinction.png)   | 
+| Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](graphic-0extinction.png)   | 
 |  |  | 
-| Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](1exclusion.png)   | 
+| Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](graphic-1exclusion.png)   | 
 |  |  | 
-| Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](2segregation.png)   | 
+| Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](graphic-2segregation.png)   | 
 |  |  | 
-| Level 3 - __Integration__ <br><br> "Integration is a process of placing persons with disabilities in existingmainstream educational institutions, as long as the former can adjust to the standardized requirements of such institutions." (UN-CRPD, 2016)[^3]     |   ![Integration](3integration.png)   | 
+| Level 3 - __Integration__ <br><br> "Integration is a process of placing persons with disabilities in existingmainstream educational institutions, as long as the former can adjust to the standardized requirements of such institutions." (UN-CRPD, 2016)[^3]     |   ![Integration](graphic-3integration.png)   | 
 |  |  | 
-| Level 4 - __Inclusion__ <br><br> "IInclusion involves a process of systemic reform embodying changes and modifications in content, teaching methods, approaches, structures and strategies in education to overcome barriers with a vision serving to provide all students of the relevant age range with an equitable and participatory learning experience and environment that best corresponds to their requirements and preferences." (UN-CRPD, 2016)[^3]     |   ![Inclusion](4inclusion.png)   | 
+| Level 4 - __Inclusion__ <br><br> "IInclusion involves a process of systemic reform embodying changes and modifications in content, teaching methods, approaches, structures and strategies in education to overcome barriers with a vision serving to provide all students of the relevant age range with an equitable and participatory learning experience and environment that best corresponds to their requirements and preferences." (UN-CRPD, 2016)[^3]     |   ![Inclusion](graphic-4inclusion.png)   | 
 
 What You Will Find in the Next Section
 --------
@@ -854,7 +845,7 @@ Drag and Drop Your Observations Into the Appropriate Fields.
 
 ## 3. Inclusion in Global Legal Foundations
 
-![Treaties](treaties.png)
+![Treaties](chapter-treaties.png)
 
 Inclusion is a concept that has evolved over time and is fundamentally anchored in human rights. Its anchoring in the UN Convention on the Rights of Persons with Disabilities, which reflects an understanding of disability based on human rights, has contributed to its general dissemination. Subsequently, the concept of inclusion became less strictly coupled to disability and established as a more general principle for dealing with diversity in society. Perceptions of an increasing divide over gender issues, generational conflicts, socio-economic divergence, and the challenges of cultural and religious diversity in the face of increased migration also came into focus.
 
@@ -909,7 +900,7 @@ To achieve this ambitious goal, countries should ensure inclusion and equity in 
 
 ## 4. Inclusive School Structures and Practices
 
-![Inclusive School](school.png)
+![Inclusive School](chapter-school.png)
 
 It becomes clear that inclusion is a sense of belonging, feeling respected and valued and being seen for who we are as individuals. However, it takes a certain level of commitment and supportive energy from school leaders and colleagues, as well as other educators, for us as individuals and as a collective to be inclusive in the school system (see Miller & Katz, 2002)[^1].
 
@@ -939,7 +930,7 @@ With this quote in mind, underpinning this OER is a broad understanding of inclu
 Core values and competence areas of inclusive teaching
 ---
 
-<center>![Core Values and Competence Areas of Inclusive Teaching](inclusive-teaching-competence-arenas.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]</center>
+<center>![Core Values and Competence Areas of Inclusive Teaching](graphic-inclusive-teaching-competence-arenas.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]</center>
 
 ------
 <details>
@@ -986,7 +977,7 @@ This means that the aim is not to categorise children as needing special support
 
 The RTI approach is often visualised as a pyramid and a model of three levels or tiers.
 
-<center>![Response to Intervention Model](rti.png)RTI Model. Pretti-Frontczak et al., 2014, p. 110[^3]</center>
+<center>![Response to Intervention Model](graphic-rti-model.png)RTI Model. Pretti-Frontczak et al., 2014, p. 110[^3]</center>
 
 <br>
 
@@ -1054,7 +1045,7 @@ International research has clarified beyond doubt that multi-professional teams 
 
 The following illustration highlights the main features and conditions of successful multi-professional teams:
 
-<center>![Multiprofessional-Teams](multiprofessional-teams.png) Multiprofessional Teams, own illustration based on Widmer-Wolf (2018)[^4]</center>
+<center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams, own illustration based on Widmer-Wolf (2018)[^4]</center>
 <br>
 
 General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
@@ -1069,7 +1060,7 @@ A Model of Teachers' Perspectives on Co-Teaching
 Let us have a look at what teachers need to be successful in inclusive classrooms.
 The illustration below is a model of teachers' perspectives on the conditions for successful co-teaching by Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5].
 
-<center>![](co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
+<center>![3 levels of co-teaching](graphic-co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
 <br>
 
 The categories describe the conditions for successful co-teaching in inclusive classes at the levels of the __education system, the single school, and the teaching dyad__.
@@ -1115,7 +1106,7 @@ The next section will shift from the professional level of action to an examinat
 
 The most important aspects of establishing a co-teaching relationship are outlined below. Six distinctive forms of co-teaching can be differentiated to clarify the distribution of roles and responsibilities. This section finishes with a video in which teachers share their experiences.
 
-<center>![co-teaching-factors](co-teaching-factors.png)Crucial factors for co-teaching, own illustration.</center>
+<center>![co-teaching-factors](graphic-co-teaching-factors.png)Crucial factors for co-teaching, own illustration.</center>
 <br>
 
 Three Steps for Developing Co-Teaching
@@ -1311,7 +1302,7 @@ I think the advice that I can give, when it comes to co-teaching is just to have
 
 ## 5. Examples of Students´ Diversity in Inclusive Classrooms
 
-![Diversity](diversity.png)
+![Diversity](chapter-diversity.png)
 
 Let's start with this last major chapter focused on students and their individual differences. 
 
@@ -1356,7 +1347,7 @@ Increasing Well-being
 
 In principle, it can be assumed that more or better intermediate goods increase individual well-being (see the illustration following Brüderl, 2019)[^4].
 
-<center>![Well-being](well-being.png) Increasing well-being, illustration by project team based on Brüderl (2019)[^4]</center>
+<center>![Well-being](graphic-well-being.png) Increasing well-being, illustration by project team based on Brüderl (2019)[^4]</center>
 <br>
 
 This illustration does not claim to be complete. Where would you site migration/ethnicity and sex/gender?
@@ -1503,7 +1494,7 @@ Accordingly, disability serves as a generic term for impairments of activity and
 
 The ICF also lists environmental factors that interact with the constructs mentioned above. This enables the user to create useful profiles of a person's functioning, disability, and health for different domains. Furthermore, the ICF systematically groups different domains for a person with a specific health problem (e.g. what can a person affected by a disease actually do?).
 
-<center>![ICF Model](model-icf.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]</center>
+<center>![ICF Model](graphic-icf-model.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]</center>
 <br>
 
 It is clear that it is crucial for teacher to be aware of and sensitive to students' individual (dis)abilities and their well-being. However, general education teachers in mainstream schools are not experts in medicine and special education diagnostics. Therefore, multi-professional cooperation and inter-professional co-teaching are needed as well as open, inclusive attitudes and general knowledge about some diseases and disabilities.
@@ -1607,9 +1598,8 @@ Lundin (2024)[^3] examined narratives of _LGBT_ teachers and related them to the
 
 That is, policy documents serve as a first step that requires additional comprehensive efforts in schools to address and implement negative attitudes among adults and in the student-teacher relationship. Below, the illustration presented shows the three functions of school education and __teachers’ narratives).
 
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/lundin.png "Own illustration based on Lundin (2024)[^3].")
-</center>
+<center>![Lubdin](graphic-lundin.png)Own illustration based on Lundin (2024)[^3]</center>
+<br>
 
 In the next section
 ---
