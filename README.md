@@ -1369,7 +1369,7 @@ In the next section we will take a closer look at four dimensions of diversity a
 [^5]:OECD. (2024). Education at a glance 2024: OECD indicators. OECD. https://doi.org/10.1787/c00cad36-en
 
 
-### 5.2 Case-vignette "Social Origin"
+### 5.2 Case Vignette 1: "Social Origin"
 
 Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
@@ -1420,7 +1420,7 @@ You will encounter the case vignette "language and identity".
 
 [^1]:Diehl, C. (2024). Migration und ethnische Ungleichheiten. In Handbuch Sozialstrukturanalyse (pp. 1–25). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-39759-3_47-1 
 
-### 5.4 Case-vignette "Language and Identity"
+### 5.4 Case Vignette 2: "Language and Identity"
 
 Now, we now describe another case-vignette on the topic of migration and identity. Please take your time and remember: This is an exercise to reflect on your role as a teacher in different classrooms; it is not a test where you have to choose right or wrong answers! 
 
@@ -1473,6 +1473,10 @@ Some Ways in Which You Could React
 
 You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
+What You Will Find in the Next Section
+---
+In the next section we look at function, disability, and health.
+
 [^1]: Photorealistic image of a classroom, in the foreground twin teenage sisters sitting next to each other looking at tablets. In the background, students are sitting.
 
 
@@ -1511,13 +1515,13 @@ Due to the variety and diversity of autistic symptoms, the technical term autism
 
 What You Will Find in the Next Section
 ---
-We take a look at the case-vignette "obesity"
+In the following, we present a case-vignette on another clinical picture; “obesity”
 
 [^1]: Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021). Neuromechanical Biomarkers for Robotic Neurorehabilitation. Frontiers in Neurorobotics, 15. https://doi.org/10.3389/fnbot.2021.742163
 
 [^2]: ICD-11 for Mortality and Morbidity Statistics. (n.d.). Retrieved November 18, 2024, from https://icd.who.int/browse/2024-01/mms/en#437815624
 
-### 5.6 Case-vignette "Obesity"
+### 5.6 Case Vignette 3: "Obesity"
 
 Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
@@ -1560,16 +1564,16 @@ Some Ways in Which You Could React
 > * No, I will choose a different method? Counting out, drawing lots, ...?
 > * No, I will avoid team games and only focus on individual exercises in class.
 >
->__Imagine Andy is standing in the goal and is insulted by his classmates (“You fill the goal perfectly, very good that you are so fat!”) How do you feel as a teacher on a stress scale of 1-5?__
+>__Imagine Andy Standing in Goal and Being Insulted by Classmates ("You Fill the Whole Goal - It's Great That You Are So Fat!") How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
 >
-> 0. my well-being is unrestricted
-> 1. very slightly stressed
-> 2. slightly stressed
-> 3. moderately stressed
-> 4. quite stressed
-> 5. very stressed 
+> 0. My well-being is unimpacted
+> 1. Very slightly stressed
+> 2. Slightly stressed
+> 3. Moderately stressed
+> 4. Fairly stressed
+> 5. Very stressed
 >
-> __What feelings do you expect Andy to have when gym class is coming up? Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present.__
+> __What Feelings Do You Expect Andy to Have When Sports Class is Coming Up? Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present.__
 >
 > * Anxiety (1-5)
 > * Hope for friendships (1-5)
@@ -1579,31 +1583,38 @@ Some Ways in Which You Could React
 
 You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
-[^1]: Photorealistic image of 13 year-old overweight boy with a soccer ball, on a soccer field during PE class.". 
+What You Will Find in the Next Section
+---
+In the next section we look at gender identity.
 
+[^1]: Photorealistic image of 13 year-old overweight boy with a soccer ball, on a soccer field during PE class.". 
 
 ###	5.7 Gender Identity
 
-Now, we focus on two popular models of psychology research that describe general structures and characteristics of human personality. Furthermore, we take a closer look on the construct of gender identity.
+We will now focus on two popular models from psychology research that describe general structures and characteristics of human personalities. Furthermore, we will also take a closer look at the construct of gender identity.
 
-In general, gender refers to the attitudes, feelings, and behaviours that a given culture associates with a person's biological sex (APA, 2012)[^1]. The terms related to gender and sex are often conflated, and the language related to gender identity and sexual orientation has also evolved rapidly.
+Gender Identity and Psychological Models of Personality
+---
 
-_Gender Identity_ is a component of gender that describes a person's psychological sense of their gender. Many people describe gender identity as a deeply felt, inherent sense of being a boy, a man, or male; a girl, a woman, or female; or a nonbinary gender (e.g., genderqueer, gender-nonconforming, gender-neutral, agender, gender-fluid) that may or may not correspond to a person's sex assigned at birth, presumed gender based on sex assignment, or primary or secondary sex characteristics.
+In general, gender refers to the attitudes, feelings, and behaviours that a given culture associates with a person's biological sex (APA, 2012)[^1]. Gender, sex and related terms are often conflated, and the language related to gender identity and sexual orientation has also evolved rapidly.
 
-Gender identity applies to all individuals and is not a characteristic only of _transgender_ or _gender-nonconforming_ individuals (APA, 2020)[^2]. The possible dimensions of gender identity are therefore an ongoing finding process.
+Gender identity is a component of gender that describes a person's psychological sense of their gender. Many people describe gender identity as a deeply felt, inherent sense of being a boy, a man, or male; a girl, a woman, or female; or a nonbinary gender (e.g., genderqueer, gender non-conforming, gender-neutral, agender, gender-fluid) that may or may not correspond to the sex assigned to a person at birth, the gender other people presume them to have, or their primary or secondary sexual characteristics. Gender identity is not limited to transgender or gender non-conforming individuals - all individuals have a gender identity (APA, 2020)[^2].
+
+LGBTQIA+ Teachers: Challenges, Impact, and Policy
+---
 
 Scholars in educational research have addressed the challenges of exclusion and marginalisation faced by teachers who identify as lesbian, gay, bisexual, transgender, queer, intersex and asexual (LGBTQIA+). This research could also find out more about the benefits of a diverse teaching body. Whether or not they are open about their orientation, their presence and efforts can have a constructive impact on students' education and development.
 
-Lundin (2024)[^3] examined narratives of _LGBT_ teachers and related them to the general functions of education (i.e. qualification, socialisation, subjectification). It was found that teachers strive for development and change in order to break _heteronormativity_. 
+Lundin (2024)[^3] examined narratives of LGBT teachers and related them to the general functions of education (i.e. qualification, socialisation, subjectification). It was found that teachers strive for development and change in order to disrupt heteronormativity.
 
-That is, policy documents serve as a first step that requires additional comprehensive efforts in schools to address and implement negative attitudes among adults and in the student-teacher relationship. Below, the illustration presented shows the three functions of school education and __teachers’ narratives).
+That is, policy documents serve as a first step that requires additional comprehensive efforts in schools to address negative attitudes among adults and in the student-teacher relationship. The illustration presented below shows the three functions of school education and teachers’ narratives.
 
 <center>![Lubdin](graphic-lundin.png)Own illustration based on Lundin (2024)[^3]</center>
 <br>
 
-In the next section
+What You Will Find in the Next Section
 ---
-In the following, the last case-vignettes describes a classroom situation with a transgender student. 
+The last case-vignette describes a classroom situation involving a transgender student. 
 
 [^1]:American Psychological Association. (2012). Guidelines for psychological practice with lesbian, gay, and bisexual clients. The American Psychologist, 67(1), 10–42. https://doi.org/10.1037/a0024659
 
@@ -1612,63 +1623,77 @@ In the following, the last case-vignettes describes a classroom situation with a
 [^3]:Lundin, M. (2024). Heteronormativity in Swedish schools: making a difference as an LGBT teacher. Teachers and Teaching, 1–18. https://doi.org/10.1080/13540602.2024.2381045
 
 
-### 5.8 Case-vignette "Transgender"
+### 5.8 Case Vignette 4: "Transgender"
 
-Now, we describe a further, also the last on, case-vignette. Please, take your time and keep in your mind: This is an exercise to think about your role-taking as a teacher in diverse classroom settings; it is not a test for choosing right or wrong answers!
+Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
-<center>![](https://euniwell.de.cool/wp-content/uploads/liascript/images/transgender.jpg "AI Image Gen generated image based on own prompt[^1]")</center>
+<center>![case-vignette transgender](case-vignette-transgender.jpg)AI Image Gen generated image based on own prompt[^1]</center>
+<br>
 
-> __"Transgender" case description:__
+> __"Transgender" Case Description:__
 >
-> You are a 9th grade teacher at a rural high school. It is the beginning of the school year. You join a new class and find out on the first day that one student (Markus) does not identify with his biological gender. He comes from a strictly religious family that does not accept transgender people. Despite this upbringing, Markus decided during the summer vacation that from now on he only wants to be addressed as Martina and the female pronouns. The parents do not accept their son's decision, so Markus/Martina not only has internal conflicts due to his religiousness, but also external family conflicts. 
+> You are a 9th grade teacher at a rural school. A new school year is just beginning. You start teaching a new class group and find out on the first day that one student (the “Markus” on your list of names) does not identify with their biological sex. Their family is strictly religious and does not accept transgender people. Despite this upbringing, Markus decided during the summer holidays that they now want to be addressed only as Martina and to use female pronouns. The parents do not accept their son’s decision, so Markus/Martina now not only has internal conflicts due to their religiosity, but also external conflicts with their family.
 >
-> After the first few weeks of school together, you as a teacher notice that Martina is having difficulties in the class community and is withdrawing. You fear that Martina is overwhelmed by the situation. It is therefore important to regulate the internal conflicts caused by religion and family conflicts as well as conflicts with classmates in order to avoid further problems such as a drop in school performance.
+> After the first few weeks of school together, you as a teacher notice that Martina is having difficulties in the class community and is becoming withdrawn. You fear that the situation is becoming overwhelming for your student. The internal conflicts caused by religion and the social conflicts with classmates and family members need to be regulated to avert the development of further problems such as a drop in school performance.
 
-Here, different fields of action are described. Please, think about your role as the teacher in this situation with Martina. Also, reflect why you prefer this or that as a first reaction? You can note other feelings and ideas for re-action on a separate note (sharing with us on the feedback board after finishing this OER).
+Some Ways in Which You Could React
+---
 
-__The first field of action concerns your dealings with Martina.__
+> @admonition(warning, Task: )
+> 
+> Different fields of action are described here. Take a moment to think about your preferred course of action as the teacher in this situation with Markus/Martina. Reflect, too, on why you would choose your first-preferred reaction? 
+>
+> __The First Field of Action Concerns Your Dealings With Martina.__
+>
+> Choose the option that suits you best. This is about your own assessment.
+> 
+> * I stay out of it and don't talk to Martina about her problems.
+> * In a conversation with Martina, I refer her to what I think are helpful resources or people who could provide her with support.
+> * I share my own opinion and experiences with Martina.
+> * Other
+>
+> __How Do You Behave Towards Martina?__ 
+>
+> * I make no active attempts to communicate with Martina individually.
+> * I set up a box students can use to share concerns to me without having to address me directly. Then I can approach them.
+> * I speak to Martina directly after the lesson.
+> * Other
+>
+> __How Do You Deal With Other Teachers Who Also Teach Martina?__ 
+> 
+> * I don’t tell any of my colleagues what I know about Martina’s situation.
+> * I make my colleagues aware that there is a transgender person in the class without saying that it is Martina.
+> * I tell my colleagues about Martina and her situation.
+> * Other
+> 
+> __How Do You Deal With the Class Community?__
+> 
+> * I continue to use the usual social forms and methods.
+> * I try to use more cooperative social forms and activities that strengthen the class community.
+> * I ask the class to be more accepting of Martina."I make the class aware that Martina should be more integrated.
+> * Other
+>
+> __What is your approach to your future teaching?__
+> 
+> * I follow the curriculum without explicitly addressing the topic of transgender.
+> * In order to sensitize the class, I combine the topics of the curriculum with the transgender issue.
+> * I openly discuss Martina's case in front of the class.
+> * Other
+> 
+> __How Do You Deal With Martina’s Parents?__
+> 
+> * I stay out of it and don’t seek contact with the parents.
+> * What happens at home is not my responsibility.
+> * I make an offer in writing that I can serve as a contact person and I provide information about other sources of help.
+> * I seek direct contact with the parents.
+> * Other procedure
 
-Choose the option that suits you best. This is about your own assessment.
+You can also note other reactions separately and share them anonymously on the public OER feedback wall in the “content” section.
 
-* I stay out of it and don't talk to Martina about her problems.
-* In a conversation with Martina, I refer her to what I think are helpful sources or people to support her.
-* I share my own opinion and experiences with Martina.
-* Other approach [with text field]
+What You Will Find in the Next Section
+---
 
-__How do you behave towards Martina?__ 
-
-* I make no active attempts to communicate with Martina.
-* I set up a box in which the students can bring concerns to me without having to address me directly. Then I can approach them.
-* I speak to Martina directly after the lesson.
-* Other approach [with text box]
-
-__How do you deal with other teachers who also teach Martina?__ 
-
-* I don't tell any of my colleagues what I know about Martina's situation.
-* I make my colleagues aware that there is a transgender person in the class without saying that it is Martina.
-* I tell my colleagues about Martina and her situation.
-* Other approach [with text field]
-
-__What do you do regarding the class community?__
-
-* I continue to use the usual social forms and methods.
-* I try to use more cooperative social forms and activities that strengthen the class community.
-* I ask the class to be more accepting of Martina.
-* Other approach [with text field]
-
-__What is your approach to your future teaching?__
-
-* I follow the curriculum without explicitly addressing the topic of transgender.
-* In order to sensitize the class, I combine the topics of the curriculum with the transgender issue.
-* I openly discuss Martina's case in front of the class.
-* Other approach [with text field]
-
-__How do you deal with the parents?__
-
-* I stay out of it and don't seek contact with the parents. What happens at home is not my responsibility.
-* I offer myself in writing as a contact person and provide information about other sources of help.
-* I seek direct contact with the parents.
-* Other procedure [with text field]
+You now come to the last sub-chapter of Students´ Diversity in Inclusive Classrooms that includes Universal factors of personality structure.
 
 [^1]: Thin teenage boy with long hair sitting in classroom, transition to female identiy.
 
