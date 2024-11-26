@@ -115,7 +115,7 @@ fetch('@1')
 
 -->
 
-# EUniWell OER self-study module _Diversity & Inclusion in Education_
+# EUniWell OER self-study module _Diversity and Inclusion in Education_
 
 ![Path](chapter-path.png)
 
@@ -1686,13 +1686,12 @@ Some Ways in Which You Could React
 > * What happens at home is not my responsibility.
 > * I make an offer in writing that I can serve as a contact person and I provide information about other sources of help.
 > * I seek direct contact with the parents.
-> * Other procedure
+> * Other
 
-You can also note other reactions separately and share them anonymously on the public OER feedback wall in the “content” section.
+You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 What You Will Find in the Next Section
 ---
-
 You now come to the last sub-chapter of Students´ Diversity in Inclusive Classrooms that includes Universal factors of personality structure.
 
 [^1]: Thin teenage boy with long hair sitting in classroom, transition to female identiy.
@@ -2190,25 +2189,13 @@ Walgenbach, K. (2021). Erziehungswissenschaftliche Perspektiven auf Vielfalt, He
 
 Wocken, H. (2009). Inklusion & Integration. Ein Versuch, die Integration vor der Abwertung und die Inklusion vor Träumereien zu bewahren. In Integration und Inklusion auf dem Wege ins Gemeinwesen (pp. 204–234). A.-D. Stein, I. Niediek, & S. Krach. https://inklusion20.de/material/inklusion/Inklusion%20vs%20Integration_Wocken.pdf
 
-
-## Author Credits and Contact Information
-
-The content of this OER is provided by the University of Konstanz as part of the [EUniWell project](https://www.euniwell.eu/) funded by the European Union.
-
-Authors: Dr. Manuela Ulrich, Sarah Roos, Michael Kowalczyk
-
-Publication date:
-
-Date of last update: 
-
-E-mail: [teacheredu.euniwell@uni-konstanz.de](mailto:teacheredu.euniwell@uni-konstanz.de)
-
 ## Downloads
 
-* OER Download
+This EUniWell OER self-study module "Diversity and Inclusion" will be available for download after approval by the project sponsor in following data formats:
 
-  * .md file, image files, h5p files in one zip.
-  * SCORM 2004 zip file
-  * Docx Documents
-  * Media files
-  * H5P files
+* ZIP package containing all project files (md,png,jpg,h5p, pptx)
+* SCORM 2004 zip file
+
+## Authors and Contact
+
+See [About this OER](#2)
