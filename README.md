@@ -804,11 +804,7 @@ We will invite you to reflect on discrimination.
 ### 2.3 Exercise: Thinking About Inclusion from a Student Perspective
 -------------------
 
-Inclusive education is differentiated from "integration", which was identified with the late 1970s and 1980s advocacy movement to educate students with developmental disabilities in regular schools (albeit in their own classrooms) rather than in special education schools with little or no contact with general education students, settings, or curricula (Sailor et al., 1989)[^1]. 
-
-It is also differentiated from "mainstreaming", in which students with disabilities belong to special education classes but "visit" general education classes to engage in educational and social activities with their same-age general education peers (Halvorsen & Neary, 2001[^2]; Sailor, 1991[^3]).
-
-Unlike integrated or mainstreamed students, students who receive inclusive educational services are members of the general education classroom community. According to Halvorsen and Neary (2001)[^2], “the single most identifiable characteristic of inclusive education is membership. Students who happen to have disabilities are seen first as kids who are a natural part of the school and the age appropriate general education classroom they attend” (Hunt & McDonnall, 2007, p.270)[^4]
+Inclusive education is different from "integration", which is identified with the movement of those who advocate for the education of students with disabilities in mainstream schools. It also differs from "mainstreaming", in which students with disabilities are taught in special education classes but "participate" in mainstream classes to take part in educational and social activities with their peers from mainstream schools. Unlike integrated pupils or pupils in mainstream schools, pupils who receive inclusive education services are members of the mainstream school community (Hunt & McDonnell, 2007, p. 270)[^1].
 
 Interactive Reflection on Inclusive Settings in the Classroom
 ---
