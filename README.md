@@ -1820,10 +1820,9 @@ The three main categories of bias are:
 
     Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.
 
-Minimizing bias
+Minimizing Bias
 ---
 To minimise bias, reflection and targeted training are necessary. Systematic analyses and organisational actions help to reduce preference and structural biases, while cognitive biases can be reduced through personal reflection and the conscious use of System 2.
-
 
 [^1]:Bernstein, A. (2022). Gender Bias in Recommendation Letters for Academics. Journal of Social Psychology.
 [^2]:Criado Perez, C. (2019). Invisible women: Exposing data bias in a world designed for men. Vintage Digital.
@@ -1861,6 +1860,9 @@ In contrast, in the case of the rotating snakes, the brain sees movement where n
 These phenomena exemplify how our perception is distorted by neurological mechanisms.
 Our brain is limited in its processing capacity and makes quick, often erroneous decisions to prioritise and process information – an important insight when dealing with bias.
 
+What You Will Find in the Next Section. 
+---
+In the next section we present four popular biases and give examples how they can influence decision making in school settings.
 
 [^1]: Animation graphic by Cmglee, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17583267
 [^2]: Rotating Snakes peripheral drift illusion, based on design by Kitaoka Akiyoshi. Graphic by Mlechowicz, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24513370
@@ -1868,54 +1870,42 @@ Our brain is limited in its processing capacity and makes quick, often erroneous
 
 ### 7.3 Bias in Information Processing
 
-In everyday school life, teachers make countless decisions every day - from assessing students' performance to evaluating their behavior. These decisions are often influenced by cognitive biases that we are not aware of. One of these biases is the confirmation bias. 
+In everyday school life, teachers make countless decisions every day – from assessing students’ performance to evaluating their behaviour. These decisions can be influenced by various cognitive biases.
 
-Confirmation bias
----
+> __Confirmation Bias__
+>
+> Here, people tend to favour information that supports their pre-existing beliefs and opinions (Nickerson, 1998)[^1]. 
+>
+> This can also happen at school when teachers have positive or negative expectations of a student. Instead of objectively checking whether these expectations are justified, we unconsciously look for information that confirms our view and may ignore evidence to the contrary.
+>
+>> __For example__, a teacher may interpret a mediocre performance by a student who is considered gifted in a particular subject as exceptional and continue to assume that the student is fundamentally strong in this subject. In the same way, a student who the teacher believes to be weak in a particular subject could be judged more harshly even when they perform well.
 
-> Here, people tend to favor information that supports their pre-existing beliefs and opinions (Nickerson, 1998)[^1]. 
+> __Choice-Supportive Bias__
+>
+> Choice-supportive bias (Lind et al., 2017)[^2] is a tendency to retrospectively overestimate the positive aspects of an option after having chosen it. We tend to positively reinforce decisions we have made – when assessing students or choosing teaching methods – in retrospect.
+>
+>> __For example__, after introducing a new teaching method, a teacher may be inclined to perceive this method as more successful than it actually was, simply because they have already chosen it.This can lead to inadequate methods or approaches being retained instead of being critically questioned and adapted.
 
-This can also happen at school when teachers have positive or negative expectations of a student. Instead of objectively checking whether these expectations are justified, we unconsciously look for information that 
-confirms our view and may ignore evidence to the contrary.
+> __In-Group Bias__
+>
+> Another important bias that plays a role in schools is the in-group bias (Taylor & Doria, 1981)[^3]. Here, people tend to treat members of their own “group” better than outsiders.
+>
+> At school, this could lead to pupils who share similarities with the teacher – be it in terms of origin, interests or personality – being unconsciously favoured. This can influence the assessment of performance, but also behaviour towards students. Students who are perceived as “outsiders” may be unconsciously disadvantaged.
 
-A classic example in the school context would be the assessment of a student who is considered gifted in a particular subject. If this student performs mediocre, the confirmation bias could lead the teacher to interpret this performance as exceptional and continue to assume that the student is fundamentally strong in this subject. On the other hand, a student who the teacher believes to be weak in a particular subject could be judged more harshly even if they perform well.
-
-Choice-supportive bias
----
-
-In addition to the confirmation bias, there is also the choice-supportive bias (Lind et al., 2017)[^2], which supports decisions made in retrospect. 
-
-> This means that we tend to positively reinforce decisions we have made - be it the assessment of students or the 
-> choice of certain teaching methods - in retrospect. 
-
-For example, after introducing a new teaching method, a teacher may be inclined to perceive this method as more successful than it actually was, simply because they have already chosen it. This can lead to inadequate methods or approaches being retained instead of being critically questioned and adapted.
-
-In-group bias
----
-
-Another important bias that plays a role in schools is the in-group bias (Taylor & Doria, 1981)[^3]. 
-
-> Here, people tend to treat members of their own “group” better than outsiders. 
-
-At school, this could lead to pupils who share similarities with the teacher - be it in terms of origin, interests or personality - being unconsciously favored. This can influence the assessment of performance, but also behavior towards students. Students who are perceived as “outsiders”, on the other hand, may be unconsciously disadvantaged.
-
-
-Mere-exposure effect
----
-There is also the mere-exposure effect. 
-
-> Here, people evaluate other people or things that they encounter more frequently more positively (Serenko & Bontis, 2011)[^4].
-
-In everyday school life, this could mean that teachers perceive students with whom they have more interaction more positively than those who are quieter or more reserved.
+> __Mere-Exposure Effect__
+>
+> The mere-exposure effect is another source of bias of which we should be aware. Here, people evaluate other people or things that they encounter more frequently more positively (Serenko & Bontis, 2011)[^4]. 
+>
+> In everyday school life, this could mean that teachers perceive students with whom they have more interactions more positively than students who are quieter or more reserved.
 
 Summary
 ---
+These biases are deeply rooted in the way we process information. They occur because our brains need to process complex information quickly and efficiently. Although these mental shortcuts, known as heuristics (Tversky & Kahneman, 1973)[^5], help us to cope with everyday life, they can lead to unfair judgments in specific situations – especially when it comes to assessing students.
+The challenge is to become aware of these biases and take action to minimise them. 
 
-These biases are deeply rooted in the way we process information. They occur because our brains need to process complex information quickly and efficiently. Although these mental shortcuts, known as heuristics (Tversky & Kahneman, 1973), help us to cope with everyday life, they can lead to unfair judgments in specific situations - especially when it comes to assessing students. The challenge is to become aware of these biases and take action to minimize them. 
-
-In the next section
-----
-To counteract these biases, teachers can use various strategies, which we explain in the next chapter.
+What You Will Find in the Next Section. 
+---
+Teachers can use various strategies to counteract their biases. We look at these in the next section.
 
 [^1]:Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology: Journal of Division 1, of the American Psychological Association, 2(2), 175–220. https://doi.org/10.1037/1089-2680.2.2.175
 
@@ -1925,47 +1915,59 @@ To counteract these biases, teachers can use various strategies, which we explai
 
 [^4]:Serenko, A., & Bontis, N. (2011). What’s familiar is excellent: The impact of exposure effect on perceived journal quality. Journal of Informetrics, 5(1), 219–223. https://doi.org/10.1016/j.joi.2010.07.005
 
+[^5]: Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232. https://doi.org/10.1016/0010-0285(73)90033-9
+
 
 ### 7.4 Reducing Bias in Communication
 
-The American Psychological Association (APA) has stated its commitment both to the advancement of science and to the fair treatment of individuals and groups:
-As using inclusive language can foster the fair treatment of individuals and groups and the advancement of research, the American Psychological Association (APA) has made recommendations on bias-free language which are also of interest to educators:
-
->“It is unacceptable to use constructions that might imply prejudicial beliefs or perpetuate biased assumptions against persons on the basis of age, disability, gender, participation in research, racial or ethnic identity, sexual orientation, socioeconomic status, or some combination of these or other personal factors (e.g., marital status, immigration status, religion). Instead, authors should use affirming and inclusive language.” (APA, 2020, p.131)[^1].
-
-Bias-free language guidelines
+American Psychological Association (APA)
 ---
 
-For this, the APA Editors have published “Bias-free language guidelines” that helps people around the world in psychology, social work, communications to education to achieve excellence in writing. With regard to bias-free language of teachers in verbal and written communication with students, parents, and other professionals, we assume some of the main ideas the APA (2020) described:
+The American Psychological Association (APA) has stated its commitment both to the advancement of science and to the fair treatment of individuals and groups: As using inclusive language can foster the fair treatment of individuals and groups and the advancement of research, the American Psychological Association (APA) has made recommendations on bias-free language which are also of interest to educators:
 
-1. Talking about disability: Names of conditions such as “Asperger autism” and “Attention deficit disorder with hyperactivity” are more specific than “a student with disability” or “a student with special needs”.
+“It is unacceptable to use constructions that might imply prejudicial beliefs or perpetuate biased assumptions against persons on the basis of age, disability, gender, participation in research, racial or ethnic identity, sexual orientation, socio-economic status, or some combination of these or other personal factors (e.g., marital status, immigration status, religion). Instead, authors should use affirming and inclusive language.” (APA, 2020, p.131)[^1].
 
-2. Be sensitive to labels Respect the language people use to describe themselves; that is, call people what they call themselves. You may need to ask your students which designations they use. Also, accept that language changes over time and individuals within groups sometimes disagree about the designations they use.
+Bias-Free Language Guidelines
+---
 
-3. Acknowledge people's humanity Ensuring that the individuality and humanity of people are respected. Avoid using adjectives as nouns to label people (e.g., "the gays," "the poor") or labels that equate people with their condition (e.g., "the learning disabled," "the autisms"). Use adjectival forms (e.g., gay men, older adults) or nouns with descriptive phrases (e.g., people living in poverty, people with learning disabilities).
+The APA Editors have published Bias-free language guidelines[^2] that help people around the world in such disciplines as psychology, social work, communications, and education to achieve excellence in avoid bias in their writing. Some of the main ideas described by APA (2020)[^1] are highly applicable to efforts by teachers to use bias-free language in their verbal and written communication with students, parents, and their fellow professionals:
 
-Overall, using a sensitive, _bias-free language_ is important in direct and written communication as well as professional teaching and being a social role model.
+* __Talking about disability__
+
+     Names of conditions such as “Asperger autism” and “Attention deficit disorder with hyperactivity” are more specific than “a student with disability” or “a student with special needs”.
+
+* __Be sensitive to labels__
+
+     Respect the language people use to describe themselves; that is, call people what they call themselves. You may need to ask your students which designations they use. Also, accept that language changes over time and that individuals within groups sometimes disagree about the designations they use.
+
+* __Acknowledge people’s humanity__ 
+
+     Ensure that the individuality and humanity of people are respected. Avoid using adjectives as nouns to label people (e.g., “the gays,” “the poor”) and using labels that equate people with their condition (e.g., “the learning disabled,” “the autistics”). Use adjectival forms (e.g., gay men, older adults) or nouns with descriptive phrases (e.g. people living in poverty, people with learning disabilities).
+
+Overall, using sensitive, bias-free language is important in verbal and written communication as well as for professional teaching and being a social role model.
 
 [^1]:Publication manual of the American Psychological Association (7th ed.) (Vol. 7). (2020). American Psychological Association. https://psycnet.apa.org/doi/10.1037/0000165-000 
+[^2]: Bias-Free Language. (n.d.). American Psychological Association. Retrieved November 27, 2024, from https://apastyle.apa.org/style-grammar-guidelines/bias-free-language
 
-### 7.5 Minimize Bias in Decision-making
+### 7.5 Minimize Bias in Decision-Making
 
-Although knowledge of bias is important, it is not enough to avoid these biases (Bezrukova et al., 2016; Devine & Ash, 2021)[^1][^2]. This is because bias is often automatically activated by our fast decision-making system, System 1. To minimize bias, it is important to consciously activate System 2, but this can be exhausting and time-consuming. 
+Although it is important to be aware of bias, knowledge alone is not enough to avoid bias (Bezrukova et al., 2016; Devine & Ash, 2021)[^1][^2]. This is because bias is often automatically activated by our fast decision-making system, System 1. 
 
-Nevertheless, there are practical steps to reduce bias in decision-making - especially in the school context, where fair assessments of students are important.
+To minimise bias, it is important to consciously activate System 2, but this can be exhausting and time-consuming. Taking practical steps to reduce bias in decision-making is nevertheless possible – especially in the school context, where fair assessments of students are important.
 
-Methods for bias reduction
+Methods for Bias Reduction
 ---
 
-One effective method is bias reduction, in which bias is systematically minimized through structured processes. Examples of this in everyday school life are
+Using structured processes can minimise bias systematically and effectively. Examples of this in everyday school life are.
 
-* __Anonymization of exams:__ 
+* __Anonymization of Exams:__ 
 
-    If teachers do not know the names of students, the halo or horn effect, where previous performance could influence the assessment, is reduced.
+     When teachers do not know the names of students, the halo or horns effect, where previous performance could influence the assessment, is avoided.
 
-* __Elimination of irrelevant information:__
+* __Elimination of Irrelevant Information:__
 
-    When evaluating performance, irrelevant information such as personal bias should not be included. Avoiding bias due to characteristics such as origin or gender can reduce in-group bias.
+    When evaluating performance, irrelevant information that could trigger personal bias should not be includedrecorded. Avoiding bias due to characteristics such as origin or gender can reduce in-group bias.
+    
 
 * __Use clear evaluation criteria:__
 
