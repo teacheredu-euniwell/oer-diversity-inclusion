@@ -486,7 +486,7 @@ For more information download the full report on the [UNESCO 2020 Global Educati
 
 In the Next Chapter
 ---
-The next chapter outlines the underlying social structures that influence the development, perception, and handling of inclusion and diversity and will help you to reach a more in-depth understanding of this area.
+We will outline the underlying social structures that influence the development, perception, and handling of inclusion and diversity.
 
 
 ## 1. Systems Theory Perspectives
@@ -551,7 +551,7 @@ We use Bronfenbrenner's socio-ecological model to illustrate the position of the
 
 ### 1.2 Bronfenbrenner's Ecological Systems Theory
 
-Uri Bronfenbrenner's Ecological Systems Theory posits that human development is influenced by the interactions between an individual and their environmental systems. (Bronfenbrenner 1977)[^1] These systems are nested within each other with each layer representing a different level of influence.
+Uri Bronfenbrenner's Ecological Systems Theory posits that human development is influenced by the interactions between an individual and their environmental systems. (Bronfenbrenner, 1977)[^1] These systems are nested within each other with each layer representing a different level of influence.
 
 Video: Bronfenbrenner's Ecological Systems 
 ---
@@ -598,54 +598,52 @@ The Ecosystemic Development Model
 
 Microsystem
 -----
-"The microsystem encompasses all those factors that are attributed to an individual and their  actions by another individual, i.e. certain external characteristics, abilities, etc. These are personal influencing variables that are localised in the individual (Seifert, 2011, p.115f.)" quoted from Epp (2017)[^3]. 
+"A microsystem is the complex of relations between the developing person and environment in an immediate setting containing that person (e.g., home, school, workplace, etc.). A setting is defined as a place with particular physical features in which the participants engage in particular activities in particular roles (e.g., daughter, parent, teacher, employee, etc.) for particular  periods of time. The factors of place, time, physical features, activity, participant, and role constitute the elements of a setting." (Bronfenbrenner, 1977, p. 514)[^1] 
 
 Mesosystem
 -----
-The mesosystem "comprises the interrelationships between the areas of life in which the developing person is actively involved (for a child, for example, the relationship between home, school and group of mates; for an adult, the relationship between family, work and circle of acquaintances)" (Bronfenbrenner 1981, p.41)[^2]. Accordingly, the various life contexts in which an individual moves belong to the mesosystem (Seifert, 2011, S.118)" quoted from Epp (2017)[^2].
+"A mesosystem comprises the interrelations among major settings containing the developing person at a particular point in his or her life. Thus, for an American 12-year-old, the mesosystem typically encompasses interactions among family, school, and peer group; for some children, it might also include church, camp, or workplace, although the last would be less common in the United States than in some other societies. In sum, stated succinctly, a mesosystem is a system of microsystems." (Bronfenbrenner, 1977, p. 515)[^1]
 
 Exosystem
 -----
-"An exosystem is understood as the areas "in which the developing person is not personally involved, but in which events take place that influence or are influenced by what happens in their area of life" (Bronfenbrenner 1981, p.42)[^2]. This includes formal and informal social structures, [...] This includes the larger institutions of society - not only those that are systematically structured, but also those that arise spontaneously - and how these unfold at the concrete local level (Bronfenbrenner, 1978,S.36)" quoted from Epp (2017)[^3].
+"An exosystem is an extension of the mesosystem embracing other specific social structures, both formal and informal, that do not themselves contain the developing person but impinge upon or encompass the immediate settings in which that person is found, and thereby influence, delimit, or even determine what goes on there. These structures include the major institutions of the society, both deliberately structured and spontaneously evolving, as they operate at a concrete local level. They encompass, among other structures, the world of work, the neighborhood, the mass media, agencies of government (local, state, and national), the distribution of goods and services, communication and transportation facilities, and informal social networks.“ (Bronfenbrenner, 1977, p. 515)[^1]
 
 Macrosystem
 ---
-"The concept of the macrosystem "refers to the fundamental similarity in form and content of the lower-order systems (micro-, meso- and exo-) that exist or could exist in the subculture or the entire culture, including their underlying worldviews and ideologies" (Bronfenbrenner 1981, p.42)[^2]. [...] which permeate society as a whole. This includes, for example, political, economic, social, legal or educational patterns (Bronfenbrenner, 1978, p.36)". quoted from Epp (2017)[^3]
+"A macrosystem refers to the overarching institutional patterns of the culture or subculture, such as the economic, social, educational, legal, and political systems, of which micro-, meso-, and exo-systems are the concrete manifestations. Macrosystems are conceived and examined not only in structural terms but as carriers of information and ideology that, both explicitly and implicitly, endow meaning and motivation to particular agencies, social networks, roles, activities, and their interrelations." (Bronfenbrenner, 1977, p. 515)[^1]
+
+Chronosystem
+---
+As you have seen in the above video, the Chronosystem includes all of the experiences that a person has endured throughout their lifetime (e.g. transitions, and historical events). By understanding these layers of influence, educators can be sensitised to create more inclusive and diverse educational environments.
 
 By understanding these layers of influence, educators can be sensitised to create more inclusive and diverse educational environments.
 
-
-Now it´s Your Turn
--------
-Draw Bronfenbrenner's ecosystem circles and place yourself at their centre. Reflect on the following questions as you fill in the circles.
-
-* Which factors influence your individual microsystem?
-* Which interrelationships does your mesosystem comprise?
-* Name the events, formal / informal social structures influence your current life.
-* Name the political, legal, economic or educational patterns and ideologies wich influence your current life.
-
----
+> @admonition(warning, Task: )
+> 
+> Now it´s Your Turn
+>
+> Draw Bronfenbrenner's ecosystem circles and place yourself at their centre. Reflect on the following questions as you fill in the circles.
+>
+> * Which factors influence your individual microsystem?
+> * Which interrelationships does your mesosystem comprise?
+> * Name the events, formal / informal social structures which influence your current life.
+> * Name the political, legal, economic or educational patterns and ideologies wich influence your current life.
 
 What You Will Find in the Next Section
 -------
-
 Given the interactions and influence of individual thought structures and inclusion in this complex framework, we will consider interaction between two individuals at different levels. The theory of symbolic interactionism will help us to understand how new meanings and thought structures can emerge from interactions.
-
----
 
 [^1]:Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. The American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066x.32.7.513
 
-[^2]: Bronfenbrenner, U. (1981). Die Ökologie der menschlichen Entwicklung: natürliche und geplante Experimente. Klett-Cotta.
-
-[^3]: Epp, A. (2017). Bronfenbrenner’s Ecological Systems Theory as a Sensitization and Examination Pattern for Empirical Analyses. Forum Qualitative Sozialforschung Forum: Qualitative Social Research, 19(1). https://doi.org/10.17169/fqs-19.1.2725
+[^2]: Epp, A. (2017). Bronfenbrenner’s Ecological Systems Theory as a Sensitization and Examination Pattern for Empirical Analyses. Forum Qualitative Sozialforschung Forum: Qualitative Social Research, 19(1). https://doi.org/10.17169/fqs-19.1.2725
 
 ### 1.3 Symbolic Interactionism Theory
 
-Similar to institutions, social roles emerge from a particular social dynamic. Role adoption does not only occur as trained behaviour, but rather roles are continuously and meaningfully imparted in socialisation processes. According to Mead's Symbolic Interactionism Theory (Mead, 1934)[^1]), individual identities develop from self-reflection, reflection on others and interaction with others.
+Similar to institutions, social roles emerge from a particular social dynamic. Role adoption does not only occur as trained behaviour, but rather roles are continuously and meaningfully imparted in socialisation processes. According to Mead's Symbolic Interactionism Theory (Mead, 1934)[^1], individual identities develop from self-reflection, reflection on others and interaction with others.
 
 Mead distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
-<center>![Individuum: I, Me & Self., own illustration](graphic-mead-i-me-self.png)Individuum: I, ME & SELF. Illustration by project team.</center>
+<center>![Individuum: I, Me and Self](graphic-mead-i-me-self.png)Individuum: I, Me & Self. Own illustration.</center>
 <br>
 
 * The __"I"__ is the psychological component. This is where people's creative and impulsive emotions and actions occur.
@@ -656,9 +654,9 @@ Mead distinguishes three concepts of the individual in his symbolic interactioni
 
 Based on the descriptions and theoretical considerations above, we can deduce that inclusive attitudes and the sense of belonging they create are also ongoing social-systemic and individual developments. In social interactions, we can actively shape inclusion and reflect on our own inclusive attitude.
 
-The following model, based on the idea of symbolic interactionism theory (Mead, 1934[^1]; see also Joas, 1989[^2]; Helle, 2001[^3]:) shows how inclusion can arise from social interactions and result in an individual attitude.
+The following model, based on the idea of symbolic interactionism theory (Mead, 1934[^1]; see also Joas, 1989[^2]; Helle, 2001[^3]) shows how inclusion can arise from social interactions and result in an individual attitude.
 
-<center>![Individuals´ interactions. Illustration](graphic-inclusive-attitudes.png)Individuals´ interactions. Illustration by project team.</center>
+<center>![Individuals´ interactions. Illustration](graphic-inclusive-attitudes.png)Individuals´ interactions. Own illustration.</center>
 <br>
 
 What You Will Find in the Next Section
@@ -668,9 +666,9 @@ You can test your acquired knowledge below.
 
 [^1]: Mead, G. H. (1934). Mind, self and society from the standpoint of a social behaviorist. University of Chicago Press. https://www.ssoar.info/ssoar/handle/document/50777
 
-[^2]: Joas, Hans (1989). Intersubjektivität – Die Entwicklung des Werkes von G. H. Mead. Berlin: Suhrkamp. 
+[^2]: Joas, H. (1989). Intersubjektivität – Die Entwicklung des Werkes von G. H. Mead. Berlin: Suhrkamp. 
 
-[^3]: Helle, Horst J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher. 
+[^3]: Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher. 
 
 ###	1.4 Summary Quiz
 
@@ -846,7 +844,7 @@ Inclusion is a concept that has evolved over time and is fundamentally anchored 
 >
 > * You are able to describe the significance of international treaties and their implications for inclusion in education.
 
-###	3.1 Treaties as Historical Milestones.
+###	3.1 Treaties as Historical Milestones
 
 International treaties and frameworks play a crucial role in advancing global standards for human rights and for inclusion and diversity in education.
 
@@ -1038,7 +1036,7 @@ International research has clarified beyond doubt that multi-professional teams 
 
 The following illustration highlights the main features and conditions of successful multi-professional teams:
 
-<center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams, own illustration based on Widmer-Wolf (2018)[^4]</center>
+<center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams. Own illustration based on Widmer-Wolf (2018)[^4]</center>
 <br>
 
 General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
@@ -1099,7 +1097,7 @@ The next section will shift from the professional level of action to an examinat
 
 The most important aspects of establishing a co-teaching relationship are outlined below. Six distinctive forms of co-teaching can be differentiated to clarify the distribution of roles and responsibilities. This section finishes with a video in which teachers share their experiences.
 
-<center>![co-teaching-factors](graphic-co-teaching-factors.png)Crucial factors for co-teaching, own illustration.</center>
+<center>![co-teaching-factors](graphic-co-teaching-factors.png)Crucial factors for co-teaching. Own illustration.</center>
 <br>
 
 Three Steps for Developing Co-Teaching
@@ -1340,7 +1338,7 @@ Increasing Well-being
 
 In principle, it can be assumed that more or better intermediate goods increase individual well-being (see the illustration following Brüderl, 2019)[^4].
 
-<center>![Well-being](graphic-well-being.png) Increasing well-being, illustration by project team based on Brüderl (2019)[^4]</center>
+<center>![Well-being](graphic-well-being.png) Increasing well-being. Own illustration based on Brüderl (2019)[^4]</center>
 <br>
 
 This illustration does not claim to be complete. Where would you site migration/ethnicity and sex/gender?
@@ -1733,7 +1731,7 @@ Model Comparison
 
 The following illustration based on empirical findings shows a comparison (Iller et al., 2021).[^6]
 
-<center>![hexaco-big5-models](graphic-hexaco-big5-models.png)HEXACO & Big-5 Model comparison llustration by Iller et al. (2021), Own translation.[^6]</center>
+<center>![hexaco-big5-models](graphic-hexaco-big5-models.png)HEXACO & Big-5 Model comparison llustration by Iller et al. (2021).[^6]</center>
 <br>
 
 Try to be aware of your bias and reflect on your attitude, because research has shown that teacher personality affects student learning outcomes (e.g., Hattie, 2012)[^7].
@@ -2037,13 +2035,22 @@ You can test your acquired knowledge about unconscious bias.
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=38" width="958" height="298" frameborder="0" allowfullscreen="allowfullscreen" title="Unconcious Bias (Question Set)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-## Your Feedback
+## Thank You! Your Feedback?
 
-We are committed to continuous improvement and welcome anonymous feedback on the [feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion).
+Thank You!
+---
+Thank you for taking the time and finishing our OER self-study module "Inclusion and Diversity in Education". 
 
-Feedback wall
+Please share your experience with us.
+---
+We are committed to continuous improvement and would love to hear from you.
+
+Please contact us directly via Email: [teacheredu.euniwell@uni-konstanz.de](mailto:teacheredu.euniwell@uni-konstanz.de)
+
+Or post your note on our anonymous [feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion).
+
+Feedback Wall
 -------------
-
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/t9twf0p8n7gd2wo3" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Mit Padlet erstellt"></div></a></div></div>
 
 
@@ -2068,10 +2075,6 @@ Bezrukova, K., Spell, C. S., Perry, J. L., & Jehn, K. A. (2016). A meta-analytic
 Bias-Free Language. (n.d.). American Psychological Association. Retrieved November 27, 2024, from https://apastyle.apa.org/style-grammar-guidelines/bias-free-language
 
 Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. The American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066x.32.7.513
-
-Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press. https://doi.org/10.2307/j.ctv26071r6
-
-Bronfenbrenner, U. (1981). Die Ökologie der menschlichen Entwicklung: natürliche und geplante Experimente. Klett-Cotta.
 
 Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie.uni-muenchen.de/studium-lehre/lehrmaterialien/ws-2019-2020/vorlesung-sozialstruktur_19.pdf
 
@@ -2127,8 +2130,6 @@ Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur
 
 Handbook for Teachers on Inclusive Education. (2020). Central Board of Secondary Education, Acedemic Unit. https://cdnbbsr.s3waas.gov.in/s3kv011a846fe7a5fa4b4b6d1eca45b228/uploads/2024/02/2024020919.pdf
 
-Hans, H. (1989). Intersubjektivität - Die Entwicklung des Werkes von G. Suhrkamp.
-
 Hattie, J. (2012). Visible learning for teachers. Routledge. https://doi.org/10.4324/9780203181522
 
 Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/discriminate
@@ -2136,6 +2137,8 @@ Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retri
 ICD-11 for Mortality and Morbidity Statistics. (n.d.). Retrieved November 18, 2024, from https://icd.who.int/browse/2024-01/mms/en#437815624
 
 Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher.
+
+Joas, H. (1989). Intersubjektivität – Die Entwicklung des Werkes von G. H. Mead. Berlin: Suhrkamp.
 
 Jurkowski, S., Ulrich, M., & Müller, B. (2023). Co-teaching as a resource for inclusive classes: teachers’ perspectives on conditions for successful collaboration. International Journal of Inclusive Education, 27(1), 54–71. https://doi.org/10.1080/13603116.2020.1821449
 
