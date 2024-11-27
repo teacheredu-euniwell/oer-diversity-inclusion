@@ -1953,7 +1953,7 @@ Overall, using sensitive, bias-free language is important in verbal and written 
 
 Although it is important to be aware of bias, knowledge alone is not enough to avoid bias (Bezrukova et al., 2016; Devine & Ash, 2021)[^1][^2]. This is because bias is often automatically activated by our fast decision-making system, System 1. 
 
-To minimise bias, it is important to consciously activate System 2, but this can be exhausting and time-consuming. Taking practical steps to reduce bias in decision-making is nevertheless possible – especially in the school context, where fair assessments of students are important.
+__To minimise bias, it is important to consciously activate System 2__, but this can be exhausting and time-consuming. Taking practical steps to reduce bias in decision-making is nevertheless possible – especially in the school context, where fair assessments of students are important.
 
 Methods for Bias Reduction
 ---
@@ -1966,48 +1966,63 @@ Using structured processes can minimise bias systematically and effectively. Exa
 
 * __Elimination of Irrelevant Information:__
 
-    When evaluating performance, irrelevant information that could trigger personal bias should not be includedrecorded. Avoiding bias due to characteristics such as origin or gender can reduce in-group bias.
+     When evaluating performance, irrelevant information that could trigger personal bias should not be includedrecorded. Avoiding bias due to characteristics such as origin or gender can reduce in-group bias.
+    
+* __Using Clear Evaluation Criteria:__
+
+     Structured and pre-defined criteria (e.g., for oral exams or project work) help to minimise subjective assessments. By defining clear benchmarks (e.g. on a scale from A to C or 1 to 6), it can be ensured that assessments are more objective and that there is less room for bias.
+
+Group Decisions at School
+---
+Many important decisions in everyday school life – such as performance assessments or support measures – are made in groups. Such decisions are particularly susceptible to distortions such as social desirability bias or the influence of information cascades. These arise when influential group members express an opinion that others follow uncritically.
+
+In a staff meeting to finalise grades, this could mean that the opinion of an experienced teacher could unconsciously influences everyone else and cause them to change their mind about the grade a student deserves, even if they originally disagreed. 
+
+ __Decision Hygiene __
+
+Kahneman et al. (2021)[^3] have coined the term “decision hygiene”, which describes strategies to reduce such biases in groups. This includes measures such as:
+
+* __Independent Judgments:__ 
+
+     Group members should express their opinions only after they have made their decisions independently. This avoids cascading effects.
     
 
-* __Use clear evaluation criteria:__
+* __Anonymous Voting:__
 
-    Structured and pre-defined criteria, such as for oral exams or project work, help to minimize subjective assessments. By defining clear benchmarks (e.g. on a scale from A to C or 1 to 6), it can be ensured that the assessment is more objective and that there is less room for bias.
+     To reduce social desirability bias, decisions should be made as anonymously as possible. This prevents individuals from changing their minds for social reasons just to suit the group.
 
-Group decisions at school
-----
+* __Clear Evaluation Criteria and Structured Discussions:__ 
 
-Many important decisions in everyday school life - such as performance assessments or support measures - are made in groups. Such decisions are particularly susceptible to distortions such as social desirability bias or the influence of information cascades. These arise when influential group members express an opinion that others follow uncritically. 
-
-In a meeting to finalise grades, the opinion of an experienced teacher could unconsciously influence everyone else and cause them to change their mind about the grade a student deserves. Kahneman et al. (2021)[^3] have coined the term _“decision hygiene”_, which describes strategies to reduce such biases in groups. This includes measures such as:
-
-* __Independent judgments:__ 
-    
-    Group members should only express their opinions once they have made their decisions independently. This avoids cascading effects.
-
-* __Anonymous voting:__
-
-    To reduce social desirability bias, decisions should be made as anonymously as possible. This prevents individuals from changing their minds for social reasons just to suit the group.
-
-* __Clear evaluation criteria and structured discussions:__ 
-
-    To avoid group polarization, discussions should be clearly structured and moderated. Groups tend to reinforce their opinions in discussions, which can lead to more extreme decisions than originally planned.
+     To avoid group polarisation, discussions should be clearly structured and moderated. Groups tend to reinforce their opinions in discussions, which can lead to more extreme decisions than originally planned.
 
 Practical steps for everyday school life
 ---
 
 To reduce bias in the school decision-making process, several steps are useful:
 
-1. use pre-defined criteria: Criteria should be defined before a decision is made and only consider relevant aspects of student performance.
+* __Use pre-defined criteria:__
 
-2. use assessment guidelines: Structured guides, especially for oral exams or project assessments, help to minimize subjective bias.
+     Criteria should be defined before a decision is made and criteria should only consider relevant aspects of student performance.
 
-3. enable independent assessments: Individual assessments should be completed prior to group sharing to minimize the influence of social dynamics.
+* __Use assessment guidelines:__
 
-4. subsequent reflection: After making a decision, teachers should consciously take time to question their own decision and reflect on possible biases. This can be supported in peer groups or through coaching.
+     Structured guides, especially for oral exams or project assessments, help to minimise subjective bias.
+
+* __Enable independent assessments:__
+
+     Individual assessments should be completed prior to group sharing to minimise the influence of social dynamics.
+
+* __Subsequent reflection:__
+
+     After making a decision, teachers should consciously take time to question their own decision and reflect on possible biases. This can be supported in peer groups or through coaching.
 
 Conclusion
 ---
-Bias in decision-making can be effectively minimized through structured processes, clear criteria and the reduction of social influence factors - an approach that ensures greater fairness both in individual performance and in group decisions in the school context.
+Bias in decision-making can be effectively minimised by using structured processes and clear criteria and reducing social influence factors – an approach that ensures greater fairness both in individual performance and in group decisions in the school context.
+
+What You Will Find in the Next Section
+---
+You can test your acquired knowledge about unconscious bias.
 
 [^1]:Bezrukova, K., Spell, C. S., Perry, J. L., & Jehn, K. A. (2016). A meta-analytical integration of over 40 years of research on diversity training evaluation. Psychological Bulletin, 142(11), 1227–1274. https://doi.org/10.1037/bul0000067
 
