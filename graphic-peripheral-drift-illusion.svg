@@ -1,0 +1,69 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-150 -100 300 200">
+ <title>Rotating Snakes peripheral drift illusion</title>
+ <desc>Rotating Snakes peripheral drift illusion, drawn by CMG Lee based on design by Kitaoka Akiyoshi.</desc>
+ <defs>
+  <path id="tongue" d="M -5 -60 Q 0 -58 0 -50 Q 0 -58 5 -60" stroke-linecap="round" stroke-width="2" stroke="#cc6699" fill="none"/>
+
+  <g id="blob" transform="translate(0,-45)">
+   <rect x="-3" y="-5" width="6" height="10" fill="#000000"/>
+   <ellipse cx="-3" cy="0" rx="2.5" ry="5" fill="#9999ff"/>
+   <ellipse cx="3" cy="0" rx="2.5" ry="5" fill="#cccc00"/>
+  </g>
+  <g id="blob6">
+   <use xlink:href="#blob"/>
+   <use xlink:href="#blob" transform="rotate(15)"/>
+   <use xlink:href="#blob" transform="rotate(30)"/>
+   <use xlink:href="#blob" transform="rotate(45)"/>
+   <use xlink:href="#blob" transform="rotate(60)"/>
+   <use xlink:href="#blob" transform="rotate(75)"/>
+  </g>
+
+  <g id="ring1">
+   <use xlink:href="#blob6"/>
+   <use xlink:href="#blob6" transform="rotate(90)"/>
+   <use xlink:href="#blob6" transform="rotate(180)"/>
+   <use xlink:href="#blob6" transform="rotate(270)"/>
+  </g>
+  <g id="ring2"><use xlink:href="#ring1"/><use xlink:href="#ring1" transform="scale(0.8) rotate(7.5)"/></g>
+  <g id="ring4"><use xlink:href="#ring2"/><use xlink:href="#ring2" transform="scale(0.64)"/></g>
+  <g id="ring8"><use xlink:href="#ring4"/><use xlink:href="#ring4" transform="scale(0.4096)"/></g>
+  <g id="ring16"><use xlink:href="#ring8"/><use xlink:href="#ring8" transform="scale(0.16777216)"/></g>
+  <g id="ring32"><use xlink:href="#ring16"/><use xlink:href="#ring16" transform="scale(0.0281475)"/></g>
+
+  <g id="disc">
+   <circle cx="0" cy="0" r="50" fill="#ffffff"/>
+   <circle cx="0" cy="0" r="1.40737488" fill="#999999"/>
+   <use xlink:href="#ring16"/>
+  </g>
+  <g id="disc1x2">
+   <use xlink:href="#disc" transform="translate(0,-50)"/>
+   <use xlink:href="#disc" transform="translate(0,50) scale(-1,1)"/>
+  </g>
+  <g id="disc3x2">
+   <use xlink:href="#disc1x2" transform="translate(-100,0)"/>
+   <use xlink:href="#disc1x2" transform="scale(-1,1)"/>
+   <use xlink:href="#disc1x2" transform="translate(100,0)"/>
+  </g>
+  <g id="disc1x3">
+   <use xlink:href="#disc" transform="translate(0,-100)"/>
+   <use xlink:href="#disc" transform="scale(-1,1)"/>
+   <use xlink:href="#disc" transform="translate(0,100)"/>
+  </g>
+  <g id="disc4x3">
+   <use xlink:href="#disc1x3" transform="translate(-150,0)"/>
+   <use xlink:href="#disc1x3" transform="translate(-50,0) scale(-1,1)"/>
+   <use xlink:href="#disc1x3" transform="translate(50,0)"/>
+   <use xlink:href="#disc1x3" transform="translate(150,0) scale(-1,1)"/>
+  </g>
+ </defs>
+
+ <use xlink:href="#disc1x2" transform="rotate(90)"/>
+ <use xlink:href="#disc3x2"/>
+ <use xlink:href="#tongue" transform="translate(-100,-50) rotate(45)"/>
+ <use xlink:href="#tongue" transform="translate(-100,50) rotate(315)"/>
+ <use xlink:href="#tongue" transform="translate(0,-50) rotate(45)"/>
+ <use xlink:href="#tongue" transform="translate(0,50) rotate(225)"/>
+ <use xlink:href="#tongue" transform="translate(100,-50) rotate(135)"/>
+ <use xlink:href="#tongue" transform="translate(100,50) rotate(225)"/>
+</svg>

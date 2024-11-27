@@ -1,5 +1,5 @@
 <!--
-version:  2024.11.26.01
+version:  2024.11.27.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,11 +18,11 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     26/11/2024
+date:     27/11/2024
 
-attribute: The OER Self-study Module "Diversity & Inclusion in Education" of the European University for Well-Beeing is licenced under [CC-BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
-  ![cc by sa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/320px-CC_BY-SA_icon.svg.png)
+  ![CC-BY-SA Logo](logo-cc-by-sa-small.png)
 
 translateWithGoogle: true
 
@@ -127,26 +127,20 @@ fetch('@1')
 
 <center>![EUniWell Logo 600px](logo-euniwell.png)</center>
 
----
-
-<center>![Open Educational Resources Logo 400px](logo-oer.png)</center>
+<center>![EUniWell Members](logo-euniwell-members.png)</center>
 
 ---
+
+<center>![CC-BY-SA Logo](logo-oer.png)</center>
 
 <center>![CC-BY-SA Logo](logo-cc-by-sa-big.png)</center>
 
----
-
 [^1]: V. Aichele, LL.M., S. Bernot, C. Hübner, S. Kroworsch, B.Leisering, P. Litschke, L. Palleit, K. Pöllmann, J. Striek. (2019). Wer Inklusion will, sucht Wege - Zehn Jahre UN-Behindertenrechtskonvention in Deutschland. Deutsche Institut für Menschenrechte, Monitoring-Stelle UN-Behindertenrechtskonvention. https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Wer_Inklusion_will_sucht_Wege_Zehn_Jahre_UN_BRK_in_Deutschland.pdf Own translation.
-
-
 
 ## About this OER
 The OER self-study module _Diversity and Inclusion in Education_ aims to foster the development of fundamental competences in the field of diversity and inclusion in education.
 
 It was developed as part of Work Package 6 of the [European University for Well-Being (EUniWell)](#6) project at the University of Konstanz.
-
----
 
 Target Group
 ----------
@@ -207,13 +201,13 @@ Email: [teacheredu.euniwell@uni-konstanz.de](mailto:teacheredu.euniwell@uni-kons
 Creative Commons License
 ------------------------
 
-The OER self-study module _Diversity and Inclusion in Education_ of the European University for Well-Being is licensed under CC BY-SA 4.0 International.
+The OER self-study module _Diversity and Inclusion in Education_ from the European University for Well-Being is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 ![CC-BY-SA-150px](logo-cc-by-sa-small.png)
 
-Sharing and further processing is expressly permitted subject to the conditions of attribution, non-commercial use, and distribution under the same license conditions.
+You are free to share, remix, adapt, and build upon the work, even for commercial purposes, as long as you credit the original creator and license your new creations under the same or a [compatible license](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/).
 
-All content marked as All Rights Reserved are not subject to this license.
+Use the [CC-Mixer](https://ccmixer.edu-sharing.org/) to check for Creative-Commons license compatibility.
 
 Download
 -------------- 
@@ -295,9 +289,7 @@ This EUniWell OER self-study module "Diversity and Inclusion" will be available 
 
 > [__Bibliography__](#48)
 
-> [__Author Credits and Contact Information__](#49)
-
-> [__Downloads__](#50)
+> [__Authors, Contact and Downloads__](#49)
 
 ### Tune in: Keywords and Crossword
 
@@ -1770,73 +1762,68 @@ A minimum score of 80% is required to pass.
 
 ## 7. Unconscious Bias (Add-on)
 
-This Chapter was authored by Dr. Sebastian Tillmann, Konstanz University.
+The author of this chapter is [Dr. Sebastian Tillmann.](https://www.exc.uni-konstanz.de/en/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tillmann-sebastian/)
 
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias.png)
+![bias](chapter-bias.png)
 
-Why fair decisions are so important in everyday school life 
+Why fair decisions are so important in everyday school life:
 ---
 
-Studies show that triggers of unconscious biases, such as a student’s name or gender, often flow unnoticed into assessment processes and lead to unfair results  (Malouff & Thorsteinsson, 2016).[^1] 
+Studies show that triggers of unconscious biases, such as a student’s name or gender, often flow unnoticed into assessment processes and lead to unfair results (Malouff & Thorsteinsson, 2016).[^1] 
+Such biases influence how we perceive and evaluate students – without us realising it.
 
-Such biases influence how we perceive and evaluate students - without us realizing it. But it doesn't have to stay that way! This chapter helps you to recognize and reduce these subtle influences so that your decisions remain fair and equitable.
+But it doesn’t have to stay that way!
+---
+This chapter will help you to recognise and reduce these subtle influences so that your decisions remain fair and equitable. You will expand your knowledge of biases and learn how to minimise them in your everyday school life.
 
-You will expand your knowledge of biases and learn how to minimize them in your everyday school life. Whether you are a (future) teacher, principal or educational staff member - the tool provides practical strategies that you can implement straight away.
+Whether you are a (future) teacher, school principal, or otherwise involved in education – you will find practical strategies that you can implement straight away here. In the next four sections, you will learn what bias is, where it occurs, and how you can make your decision-making fairer and more conscious. Practical exercises and reflection tasks will help you to integrate what you have learned directly into your everyday teaching.
 
-In four chapters, you will learn what bias is, where it occurs and how you can make your decision-making more conscious and fairer. Supplemented by practical exercises and reflection tasks, you can integrate what you have learned directly into your everyday teaching.
 
-> __Learning goals__
+> __Learning Goals__
 > 
-> * You will learn the basics of unconscious bias.
+> * You will learn to recognise key features of unconscious bias.
 > * You will find out which biases occur in the school environment.
 > * You will learn through practical examples how biases can be avoided.
-
 
 [^1]:Malouff, J. M., & Thorsteinsson, E. B. (2016). Bias in grading: A meta-analysis of experimental research findings. Australian Journal of Education, 60(3), 245–256. https://doi.org/10.1177/0004944116664618
 
 
 
-### 7.1 What is bias?
+### 7.1 What is Bias?
 
-The term _bias_ refers to distortions in information processing that influence our perception and decisions. 
+The term bias refers to distortions in information processing that influence our perception and decisions. In the teaching context, biases can influence the way teachers perceive and treat students.
 
 The three main categories of bias are:
 ---
 
-* __Preference bias__ 
+* __Preference Bias__
 
-    This describes the favoring or disfavoring of certain groups, often based on stereotypes or prejudices (e.g. gender bias). In physics, men are favored, in the social sciences women (Bernstein et al., 2022)[^1]
+     This describes the favouring or disfavouring of certain groups, often based on stereotypes or prejudices (e.g gender bias). Men are favoured in physics and women in the social sciences (Bernstein et al., 2022)[^1]
 
-* __Structural bias__ 
+* __Structural Bias__
 
-    These are institutional patterns that unintentionally promote discrimination. One example is medicine, where drugs are often tested on men, leading to inadequate results for women (Criado-Perez, 2019)[^2]
+     These are institutional patterns that unintentionally promote discrimination. One example is medicine, where drugs are often tested on men, leading to results that are inadequate for women (Criado-Perez, 2019)[^2]
 
-* __Cognitive bias__ 
+* __Cognitive Bias__
 
-    This comprises systematic errors in thinking that cloud our judgment, such as confirmation bias. 
+    This comprises systematic errors in thinking that cloud our judgment, such as confirmation bias. Cognitive biases influence the ways in which information is perceived, processed and stored. They arise because our brain processes information selectively in order to make decisions efficiently (Gigerenzer & Brighton, 2009)[^3] In doing so, it uses heuristics that are fast but often inaccurate.
 
-    Cognitive biases influence the way in which information is perceived, processed and stored. They arise because our brain processes information selectively in order to make decisions efficiently (Gigerenzer & Brighton, 2009)[^3] 
-    In doing so, it uses heuristics that are fast but often inaccurate.
+    *  __Dual Process Model of Cognition__
 
-    These cognitive biases are based on the dual process model of cognition (Kahneman, 2012)[^4]
+    Descriptions of cognitive biases draw on the dual process model of cognition (Kahneman, 2012)[^4]
 
-    __Dual process model of cognition__
-
-        * __System 1__ works unconsciously and quickly, but is prone to error.
-    
-    <center>
-    ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system1-fast.jpg) </center>
+       * __System 1__ works unconsciously and quickly but is prone to error.
+        ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system1-fast.jpg)
 
     * __System 2__ thinks consciously and analytically, but requires more time and energy. 
-    
-    <center>
-    ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system2-slow.jpg) </center>
+        ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system2-slow.jpg)
 
-    > Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.
+    Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.
 
-In the teaching context, such biases can influence the way teachers perceive and treat students.
+Minimizing bias
+---
+To minimise bias, reflection and targeted training are necessary. Systematic analyses and organisational actions help to reduce preference and structural biases, while cognitive biases can be reduced through personal reflection and the conscious use of System 2.
 
-In order to minimize biases, reflection and targeted training are necessary. Systematic analyses and organizational measures help to reduce preference and structural biases, while cognitive biases can be reduced through personal reflection and the conscious use of System 2.
 
 [^1]:Bernstein, A. (2022). Gender Bias in Recommendation Letters for Academics. Journal of Social Psychology.
 [^2]:Criado Perez, C. (2019). Invisible women: Exposing data bias in a world designed for men. Vintage Digital.
@@ -1845,41 +1832,41 @@ In order to minimize biases, reflection and targeted training are necessary. Sys
 
 ### 7.2 Bias in Information Uptake
 
-Our senses are not perfect tools for perceiving reality. The brain decides which information it processes and blocks out others. In the following we present two examples where you can try it out for yourself 
+Our senses are not perfect tools for perceiving reality. The brain selects some information for processing and filters out other information. We present two examples below where you can try this out for yourself.
 
-_Motion induced blindness_
+Motion-Induced Blindness
 ----
-If you focus on the green dot in the graphic below for a few seconds, the yellow, static dots will disappear.
+If you focus on the flickering green dot in the animation graphic below for a few seconds, you will see the yellow static dots disappear and reappear.
 
-<br>
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/motion-blindness.gif "Motion-induced blindness example[^2]")
-</center>
-
-_Peripheral Drift illusion_
-----
-
-Another example is the optical illusion of moving snakes. Although the image is static, it appears as if the shapes are moving:
-
+<center>![Motion-induced blindness example animation](animation-motion-induced-blindness.gif)Motion-induced blindness example[^2]</center>
 <br>
 
-<center>
-![](https://euniwell.de.cool/wp-content/uploads/liascript/images/peripheral-drift-illusion.svg "Rotating snakes - Peripheral drift illusion example[^2]")
-</center>
+Peripheral Drift Illusion
+----
+
+Another example is the optical illusion of rotating snakes, a kind of peripheral drift illusion.
+Although the image is static, it appears as if the “snakes” are moving:
+
+<br>
+<center>![Peripherial-drift illusion graphic](graphic-peripheral-drift-illusion.svg)Rotating snakes - Peripheral drift illusion example[^2]</center>
+<br>
+
+How Our Percepion Can Distort Decision-Making
+---
+These examples illustrate that our senses distort information and it is easy to see how cognitive biases can distort our decision-making in similar ways.
+
+In the example of motion-induced blindness, our brain deliberately filters out information by ignoring static elements in order to emphasise moving ones.
+
+In contrast, in the case of the rotating snakes, the brain sees movement where none exists.
+These phenomena exemplify how our perception is distorted by neurological mechanisms.
+Our brain is limited in its processing capacity and makes quick, often erroneous decisions to prioritise and process information – an important insight when dealing with bias.
 
 
-> These examples illustrate that our senses distort information, similar to how cognitive biases influence our decisions.
-
-In the example of motion-induced blindness, our brain deliberately filters out information by ignoring static elements in order to emphasize the moving ones. In contrast, in the case of moving snakes, the brain invents additional movements that do not exist. 
-
-These phenomena exemplify how our perception is distorted by neurological mechanisms. Our brain is limited in its processing capacity and makes quick, often erroneous decisions to prioritize and process information - an important insight when dealing with bias.
+[^1]: Animation graphic by Cmglee, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17583267
+[^2]: Rotating Snakes peripheral drift illusion, based on design by Kitaoka Akiyoshi. Graphic by Mlechowicz, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24513370
 
 
-[^1]:Image by Cmglee, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24513370
-[^2]:Animation by Mlechowicz, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17583267
-
-
-### 7.3 Bias in Information Pocessing
+### 7.3 Bias in Information Processing
 
 In everyday school life, teachers make countless decisions every day - from assessing students' performance to evaluating their behavior. These decisions are often influenced by cognitive biases that we are not aware of. One of these biases is the confirmation bias. 
 
