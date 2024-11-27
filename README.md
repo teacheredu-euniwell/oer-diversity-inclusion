@@ -144,7 +144,7 @@ It was developed as part of Work Package 6 of the [European University for Well-
 
 Target Group
 ----------
-The OER is primarily aimed at student teachers, but is also open to in-service teachers and a broader audience in education.
+This OER self-study module is primarily aimed at student teachers, but is also open to in-service teachers and a broader audience in education.
 
 No prior knowledge is required
 -------------------------------------------
@@ -154,7 +154,7 @@ No prior knowledge is required
 
 Duration
 ----------------
-The entire module takes between 7-9 hours.
+This OER self-study module takes between 7 and 9 hours to complete.
 
 Certificate of Participation
 -------------------
@@ -168,7 +168,7 @@ We aim to ensure that this Open Educational Resource (OER) adheres to the [WCAG 
 
 While we strive to meet the criteria outlined for Levels A and AA compliance, please be aware that [LiaScript](https://liascript.github.io/), the main authoring software used for this OER, does not provide specific information regarding accessibility compliance.
 
-We integrate interactive [H5P](https://h5p.org/) modules and use those which are marked as “accessible” in the official [H5P Content types recommendations list](https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations).
+We integrate interactive [H5P](https://h5p.org/) modules and use those which are not marked as not accessible in the [H5P Content types recommendations list](https://help.h5p.com/hc/en-us/articles/7505649072797-Content-types-recommendations).
 
 Feedback
 ---------
@@ -177,7 +177,7 @@ We are committed to continuous improvement and welcome [anonymous feedback](http
 Authors
 --------
 
-The content of this OER has been provided by the University of Konstanz as part of the EUniWell project funded by the European Union.
+This OER self-study module was produced by the University of Konstanz project team as part of the EUniWell project, funded by the European Union.
 
 OER Project Team: 
 
@@ -2057,11 +2057,15 @@ American Psychological Association. (2012). Guidelines for psychological practic
 
 Ashton, M. C., & Lee, K. (2007). Empirical, theoretical, and practical advantages of the HEXACO model of personality structure. Personality and Social Psychology Review: An Official Journal of the Society for Personality and Social Psychology, Inc, 11(2), 150–166. https://doi.org/10.1177/1088868306294907
 
+Asp-Onsjö, L. (2006). Åtgärdsprogram - dokument eller verktyg? En fallstudie i en kommun. https://gupea.ub.gu.se/handle/2077/16941
+
 Bell, L. A. (2007). Theoretical foundations for social justice education. In M. Adams (Ed.), Teaching for diversity and social justice (pp. 1–14). Routledge/Taylor & Francis Group.
 
 Bernstein, A. (2022). Gender Bias in Recommendation Letters for Academics. Journal of Social Psychology.
 
 Bezrukova, K., Spell, C. S., Perry, J. L., & Jehn, K. A. (2016). A meta-analytical integration of over 40 years of research on diversity training evaluation. Psychological Bulletin, 142(11), 1227–1274. https://doi.org/10.1037/bul0000067
+
+Bias-Free Language. (n.d.). American Psychological Association. Retrieved November 27, 2024, from https://apastyle.apa.org/style-grammar-guidelines/bias-free-language
 
 Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. The American Psychologist, 32(7), 513–531. https://doi.org/10.1037/0003-066x.32.7.513
 
@@ -2074,6 +2078,8 @@ Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie
 Bührmann, A. (2018). Diversität. Socialnet Lexikon. https://www.socialnet.de/lexikon/6324
 
 Cambridge University Press. (n.d.). Meaning of discrimination in English. Cambridge Dictionary. Retrieved November 24, 2024, from https://dictionary.cambridge.org/dictionary/english/discrimination
+
+Civitillo, S., Jugert, P., Yip, T., Lui, P. P., & Titzmann, P. F. (2024). A daily diary study on associations between school-based ethnic discrimination and school engagement. Social Psychology of Education: An International Journal. https://doi.org/10.1007/s11218-024-09919-x
 
 Costa, P. T., Jr, McCrae, R. R., & Löckenhoff, C. E. (2019). Personality across the life span. Annual Review of Psychology, 70(1), 423–448. https://doi.org/10.1146/annurev-psych-010418-103244
 
@@ -2091,11 +2097,17 @@ Diehl, C. (2024). Migration und ethnische Ungleichheiten. In Handbuch Sozialstru
 
 Education and Disability: Analysis of data from 49 countries. (2018, March 22). Unesco.org. https://uis.unesco.org/en/news/education-and-disability-analysis-data-49-countries
 
+Ellis, D. P. (1968). SOCIOLOGICAL THEORY AND MODERN SOCIETY. By Talcott parsons. New York: The free press 1967. 564 pp. $12.50. Social Forces; a Scientific Medium of Social Study and Interpretation, 47(1), 90–91. https://doi.org/10.2307/2574723
+
 Epp, A. (2017). Das ökosystemische Entwicklungsmodell als theoretisches Sensibilisierungs- und Betrachtungsraster für empirische Phänomene. https://doi.org/10.17169/fqs-19.1.2725
 
 EUniWell. (n.d.). Our Alliance. European University for Well-Being. Retrieved November 19, 2024, from https://www.euniwell.eu/about/our-alliance
 
 EUniWell. (2023). EUniWell Mission Statement. https://www.euniwell.eu/fileadmin/user_upload/Downloads/Key_documents/2023_EUniWell_Mission_Statement_-_updated.pdf
+
+EUniWell Teacher Education Team. (n.d.). Arena 5: Teacher Education and Well-Being. European University for Well-Being. Retrieved Winter 11, 2024, from https://www.euniwell.eu/what-we-do/fields-of-action/arena-5-teacher-education-and-well-being
+
+EUniWell, University of Florence. (2022). Deliverable Report (D3.27) Definition of common professional standards for European teachers.
 
 Fend, H. (2009). Neue Theorie der Schule. VS Verlag für Sozialwissenschaften.
 
@@ -2109,6 +2121,8 @@ Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)
 
 Gigerenzer, G., & Brighton, H. (2009). Homo heuristicus: Why biased minds make better inferences. Topics in Cognitive Science, 1(1), 107–143. https://doi.org/10.1111/j.1756-8765.2008.01006.x
 
+Gomolla, M. (2008, February 18). Institutionelle Diskriminierung im Bildungs- und Erziehungssystem: Theorie, Forschungsergebnisse und Handlungsperspektiven. Heinrich Böll Stiftung. https://heimatkunde.boell.de/de/2008/02/18/institutionelle-diskriminierung-im-bildungs-und-erziehungssystem-theorie
+
 Grosche, M. (2015). Was ist Inklusion? Ein Diskussions- und Positionsartikel zur Defi nition von Inklusion aus Sicht der empirischen Bildungsforschung. In P. Kuhl, P. Stanat, B. Lütje-Klose, C. Gresch, H. A. Pant, & M. Prenzel (Eds.), Inklusion von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf in Schulleistungserhebungen (pp. 17–39). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-06604-8
 
 Handbook for Teachers on Inclusive Education. (2020). Central Board of Secondary Education, Acedemic Unit. https://cdnbbsr.s3waas.gov.in/s3kv011a846fe7a5fa4b4b6d1eca45b228/uploads/2024/02/2024020919.pdf
@@ -2118,6 +2132,8 @@ Hans, H. (1989). Intersubjektivität - Die Entwicklung des Werkes von G. Suhrkam
 Hattie, J. (2012). Visible learning for teachers. Routledge. https://doi.org/10.4324/9780203181522
 
 Harper, D. (n.d.). Etymology of discriminate. Online Etymology Dictionary. Retrieved November 24, 2024, from https://www.etymonline.com/word/discriminate
+
+ICD-11 for Mortality and Morbidity Statistics. (n.d.). Retrieved November 18, 2024, from https://icd.who.int/browse/2024-01/mms/en#437815624
 
 Helle, H. J. (2001). Theorie der symbolischen Interaktion: ein Beitrag zum verstehenden Ansatz in Soziologie und Sozialpsychologie (3rd ed.). Düsseldorf: Westdeutscher.
 
@@ -2141,7 +2157,7 @@ Lütje-Klose, B., Wild, E., Grüter, S., Gorges, J., Neumann, P., Papenberg, A.,
 
 Malouff, J. M., & Thorsteinsson, E. B. (2016). Bias in grading: A meta-analysis of experimental research findings. Australian Journal of Education, 60(3), 245–256. https://doi.org/10.1177/0004944116664618
 
-Mead, G. H. (1934). Geist, Identität und Gesellschaft: aus der Sicht des Sozialbehaviorismus. Suhrkamp.
+Mead, G. H. (1934). Mind, self and society from the standpoint of a social behaviorist. University of Chicago Press. https://www.ssoar.info/ssoar/handle/document/50777
 
 Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. Review of General Psychology: Journal of Division 1, of the American Psychological Association, 2(2), 175–220. https://doi.org/10.1037/1089-2680.2.2.175
 
@@ -2165,6 +2181,8 @@ Taylor, D. M., & Doria, J. R. (1981). Self-serving and group-serving bias in att
 
 Thomas, G. (2013). A review of thinking and research about inclusive education policy, with suggestions for a new kind of inclusive thinking. British Educational Research Journal, 39(3), 473–490. https://doi.org/10.1080/01411926.2011.652070
 
+Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232. https://doi.org/10.1016/0010-0285(73)90033-9
+
 UN-CRPD (Committee on the Rights of Persons with Disabilities). (2016). General comment No. 4 on the right to inclusive education. Convention on the Rights of Persons with Disabilities. https://documents.un.org/doc/undoc/gen/g16/263/00/pdf/g1626300.pdf
 
 UNESCO Global Education Monitoring Report Team, International Task Force on Teachers for Education. (2020). Inclusive teaching: preparing all teachers to teach all students. https://unesdoc.unesco.org/ark:/48223/pf0000374447
@@ -2174,6 +2192,8 @@ UNESCO. (2020). Global Education Monitoring Report 2020: Inclusion and education
 UNESCO. Assistant Director-General for Education, 2010-2018 (Qian Tang), & UNESCO. (2017). A Guide for ensuring inclusion and equity in education. UNESCO. https://doi.org/10.54675/mhhz2237
 
 UNESCO, Institute for Statistics. (2018). Education and Disability: Analysis of Data from 49 Countries. https://uis.unesco.org/sites/default/files/documents/ip49-education-disability-2018-en.pdf
+
+UNESCO, International Commission on the Futures of Education. (2021). Reimagining our futures together: a new social contract for education. UNESCO. https://doi.org/10.54675/asrb4722
 
 Universität Rostock. (n.d.). The Response-to-Intervention Approach. Universität Rostock. Retrieved October 7, 2024, from https://www.rim.uni-rostock.de/en/response-to-intervention-approach/the-response-to-intervention-approach/
 
