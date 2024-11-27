@@ -285,7 +285,7 @@ This EUniWell OER self-study module "Diversity and Inclusion" will be available 
 > * You will learn through practical examples how biases can be avoided.
 
 
-> [__Your Feedback__](#47)
+> [__Thank You! Your Feedback?__](#47)
 
 > [__Bibliography__](#48)
 
@@ -2041,7 +2041,7 @@ Thank You!
 ---
 Thank you for taking the time and finishing our OER self-study module "Inclusion and Diversity in Education". 
 
-Please share your experience with us.
+Please Share Your Experience With Us.
 ---
 We are committed to continuous improvement and would love to hear from you.
 
