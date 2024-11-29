@@ -1753,10 +1753,9 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 ## 6. Final Quiz
 
 This is the final quiz for the OER.  
-The estimated time to complete the quiz is approximately X minutes.  
 A minimum score of 80% is required to pass.
 
-<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=40" width="889" height="255" frameborder="0" allowfullscreen="allowfullscreen" title="Final Quiz (Question Set)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+The Final Quiz will be available here on Monday, 2nd December 2024 from 18:00.
 
 ## 7. Unconscious Bias (Add-on)
 
