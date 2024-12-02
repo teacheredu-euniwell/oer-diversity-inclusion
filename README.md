@@ -1752,18 +1752,23 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 
 ## 6. Final Quiz
 
-This is the final quiz for the Self. 
+Final Quiz Overview
 ---
-* Quiz Questions - The quiz will present 10 randomly selected questions from the question pool.
-* Passing Score - A minimum score of 80% is required to pass.
-* Unlimited Retry - You may retake the quiz as many times as needed to achieve the required score.
-* Certificate - Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__.
+* __10 Questions__ - The quiz will present 10 randomly selected questions from the question pool.
+* __Passing Score__ - A minimum score of 80% is required to pass.
+* __Unlimited Retry__ - You may retake the quiz as many times as needed to achieve the required score.
+* __Certificate__ - Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__.
 
 Good luck!
 
+Final Quiz
+---
+
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=40" width="898" height="843" frameborder="0" allowfullscreen="allowfullscreen" title="Final Quiz (Question Set)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
+Do You Need Help?
+---
+Please [contact us](mailto:teacheredu.euniwell@uni-konstanz.de) if you have sucessfully completed the final quiz but have troubles downloading the certificate. (Please attach a screenshot of the final result)
 
 ## 7. Unconscious Bias (Add-on)
 
