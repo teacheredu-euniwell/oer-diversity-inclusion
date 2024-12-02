@@ -1754,7 +1754,7 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 
 Final Quiz Overview
 ---
-* __10 Questions__ - The quiz will present 10 randomly selected questions from the question pool.
+* __10 Questions__ - With each new quiz attempt (and reload of the oer) the quiz will present 10 randomly selected questions from the question pool.
 * __Passing Score__ - A minimum score of 80% is required to pass.
 * __Unlimited Retry__ - You may retake the quiz as many times as needed to achieve the required score.
 * __Certificate__ - Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__.
