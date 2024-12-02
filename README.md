@@ -1,5 +1,5 @@
 <!--
-version:  2024.11.27.01
+version:  2024.12.02.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     27/11/2024
+date:     02/12/2024
 
 attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -1752,10 +1752,18 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 
 ## 6. Final Quiz
 
-This is the final quiz for the OER.  
-A minimum score of 80% is required to pass.
+This is the final quiz for the Self. 
+---
+* Quiz Questions - The quiz will present 10 randomly selected questions from the question pool.
+* Passing Score - A minimum score of 80% is required to pass.
+* Unlimited Retry - You may retake the quiz as many times as needed to achieve the required score.
+* Certificate - Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__.
 
-The Final Quiz will be available here on Monday, 2nd December 2024 from 18:00.
+Good luck!
+
+<iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=40" width="898" height="843" frameborder="0" allowfullscreen="allowfullscreen" title="Final Quiz (Question Set)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 
 ## 7. Unconscious Bias (Add-on)
 
@@ -1783,8 +1791,6 @@ Whether you are a (future) teacher, school principal, or otherwise involved in e
 > * You will learn through practical examples how biases can be avoided.
 
 [^1]:Malouff, J. M., & Thorsteinsson, E. B. (2016). Bias in grading: A meta-analysis of experimental research findings. Australian Journal of Education, 60(3), 245–256. https://doi.org/10.1177/0004944116664618
-
-
 
 ### 7.1 What is Bias?
 
