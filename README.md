@@ -227,7 +227,7 @@ This EUniWell OER self-study module "Diversity and Inclusion" will be available 
 
 > [__UNESCO Global education report on inclusion and education__](#8)
 
-> [__Chapter 1 - System-Theoretical Perspectives__](#9)
+> [__Chapter 1 - Systems Theory Perspectives__](#9)
 >
 > Social structures and global influences determine inclusion and inclusive education in our constantly evolving societies; this framework influences institutions and interactions and shapes the perceptions and identities of groups and individuals. With regard to the aims of inclusion and quality education, we should see the individual in the middle of society. Furthermore, we should look at the everyday interactions in our nearest socio-ecological environments and remind ourselves that thinking and acting in inclusive ways is everyone's responsibility.
 > 
