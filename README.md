@@ -295,7 +295,7 @@ This EUniWell OER self-study module "Diversity and Inclusion" will be available 
 
 Fill in the crossword using terms from the word cloud.
 
-<center>![Crossword](graphic-crosswords.png)</center>
+<center>![Crossword](graphic-crossword.png)</center>
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=25" width="958" height="716" frameborder="0" allowfullscreen="allowfullscreen" title="Crossword"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
