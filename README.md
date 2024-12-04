@@ -444,10 +444,9 @@ Examples of Professional Standards and Related Professional Behaviours (Inclusio
 
 ## UNESCO Global Education Report on Inclusion and Education
 
-> "Education makes an essential contribution to building inclusive and democratic societies, where differences of opinion can be 
-> freely expressed and where the wide range of voices can be heard, in pursuit of social cohesion and in a celebration of diversity."
+> "Education makes an essential contribution to building inclusive and democratic societies, where differences of opinion can be freely expressed and where the wide range of voices can be heard, in pursuit of social cohesion and in a celebration of diversity."
 >
-> --Right Honourable Helen Clark, Chair of the GEM Report Advisory Board, Former Prime Minister of New Zealand. (2020)[^1]
+> -- Right Honourable Helen Clark, Chair of the GEM Report Advisory Board, Former Prime Minister of New Zealand. (2020)[^1]
 
 Inclusion and Education
 -------
@@ -926,10 +925,10 @@ Core values and competence areas of inclusive teaching
 ------
 <details>
 
-<summary>~~**Click here to show the "core values and competence areas of inclusive teaching" text table**~~</summary>
+<summary>~~**Click here to show the "Core Values and Competence Areas of Inclusive Teaching" text table**~~</summary>
 
 <!-- data-type="none" -->
-| Core values and competence areas of inclusive teaching | Core values competence areas                                                                                          | Core values competence areas                                                                                                                          ||
+| Core values and competence areas of inclusive teaching | Core values / Competence areas                                                                                          | Core values / Competence areas                                                                                                                          ||
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | __Support All Learners__                               | Promote academic, practical, social, and emotional learning for all                                                    | Engage effective teaching approaches in heterogenous classes based on understanding a variety of learning processes and how to support them |
 | __Work With Others__                                       | Work with parents and families to engage them effectively in students' learning                                                 | Work with other education professionals, including collaboration with other teachers                                                                  |
