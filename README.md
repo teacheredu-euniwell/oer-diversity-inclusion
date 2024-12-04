@@ -487,19 +487,17 @@ In the Next Chapter
 ---
 We will outline the underlying social structures that influence the development, perception, and handling of inclusion and diversity.
 
-
 ## 1. Systems Theory Perspectives
 
 ![Theory Lecture](chapter-theories.png)
 
-To help you to gain a broader and deeper understanding of the central topics of diversity and inclusion and of wider social facts and processes, we will begin with a look at selected theories and models from the educational and social sciences.References to school theory are highlighted and specific examples of teacher professionalisation are explained.
+To help you to gain a broader and deeper understanding of the central topics of diversity and inclusion and of wider social facts and processes, we will begin with a look at selected theories and models from the educational and social sciences. References to school theory are highlighted and specific examples of teacher professionalisation are explained.
 
 > __Learning Goals__
 >
 > * You are able to describe the significance of inclusive education and its impact on society.
-> * You are able to explain the application of systems theory to the school system (including multi-level and ecosystemic models). 
+> * You are able to explain the application of systems theory to the school system (including multi-level and ecosystemic models).
 > * You are able to describe how symbolic interactionism explains social behaviours related to inclusion.
-
 
 ### 1.1 Interrelations of Main Social Systems
 
@@ -534,10 +532,7 @@ Let us imagine inclusion at the centre of this social systems model.
 <center>![Inclusion in the Center of Social Systems](graphic-global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
 <br>
 
-
-With regard to the education system, schools as institutions have the tasks of __ensuring inclusion__ and __further developing inclusion__. Last but not least, inclusion is about the individual in society. In the education system, this concerns students, teachers, parents, and school management.
-
-
+Political guidelines and recommendations direct all the other systems to engage with the establishment of inclusive development and to foster progressive, sustainable modernisation. With regard to the education system, schools as institutions have the tasks of __ensuring inclusion__ and __further developing inclusion__. Last but not least, inclusion is about the individual in society. In the education system, this concerns students, teachers, parents, and school management.
 
 What You Will Find in the Next Section
 ---
