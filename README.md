@@ -1,5 +1,5 @@
 <!--
-version:  2024.12.02.01
+version:  2024.12.04.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     02/12/2024
+date:     04/12/2024
 
 attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -1055,9 +1055,9 @@ The categories describe the conditions for successful co-teaching in inclusive c
 > 
 > We identified two categories at the level of the education system: __“teacher education”__ and __“inclusive school system”__.
 >
-> The __"teacher education"__ category includes aspects of professionalisation in the ?eld of inclusive education (i.e. study curricula, pre-service and in-service teacher training). The special education teachers interviewed reported that they lacked the methodological knowledge that they would need to teach large groups.In contrast, the general teachers reported a need for knowledge about their students' special needs so they can provide su?cient assistance to those students when the special education teacher is not present.
+> The __"teacher education"__ category includes aspects of professionalisation in the field of inclusive education (i.e. study curricula, pre-service and in-service teacher training). The special education teachers interviewed reported that they lacked the methodological knowledge that they would need to teach large groups. In contrast, the general teachers reported a need for knowledge about their students' special needs so they can provide sufficient assistance to those students when the special education teacher is not present.
 >
-> The __"inclusive school system"__ category re?ected the teachers' ideas about the implementation of inclusion and educational opportunities for children with special needs. It became clear that the teachers desire the development of a fully inclusive school system. However, some teachers were not convinced that high-achievers would benefit.
+> The __"inclusive school system"__ category reflected the teachers' ideas about the implementation of inclusion and educational opportunities for children with special needs. It became clear that the teachers desire the development of a fully inclusive school system. However, some teachers were not convinced that high-achievers would benefit.
 
 > __Level 2 - The Single School__ 
 > 
