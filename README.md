@@ -1109,7 +1109,8 @@ __2. Sharing Roles and Responsibilities__
 ----
 The aim should be to plan, implement, and evaluate the lesson together and to share responsibilities. Different strengths of the co-teachers can come into play in the planning and design of lessons, but both should play an equal part in all aspects of the lesson. In well-functioning co-teaching classes, it is often impossible to tell at first glance who is a special needs teacher and who is a mainstream teacher because both are equally committed and have an equal say.
 
-__Six Forms of co-teaching__
+__Six Forms of Co-teaching__
+---
 
 In practice, dividing up roles and responsibilities between two teachers can be achieved by adopting one of the following six models or combining elements from the different models.
 
