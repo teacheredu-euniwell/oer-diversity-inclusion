@@ -958,7 +958,7 @@ The main objective of RTI is not to identify students as candidates for special 
 
 This means that the aim is not to categorise children as needing special support or not being in that category but about knowing exactly who is "not yet able" or not yet making enough progress towards achieving competences but can achieve them with targeted support and encouragement. Ongoing diagnostics are necessary for this. (Osberg, 2010)[^2].
 
-3 Levels or Tiers
+Three Tiers
 ---
 
 The RTI approach is often visualised as a pyramid and a model of three levels or tiers.
@@ -967,7 +967,7 @@ The RTI approach is often visualised as a pyramid and a model of three levels or
 
 <br>
 
-* __Tier 1:__  The lowest level involves regular teaching and responding adaptively to different learning requirements. All learners benefit from this. But some learners need more.
+* __Tier 1:__ The lowest level involves regular teaching and responding adaptively to different learning requirements. All learners benefit from this. But some learners need more.
 
 * __Tier 2:__ Children whose diagnostics indicate that certain competences have not yet been achieved receive focused interventions in a short-term, curriculum-based small intensive group and/or individual interventions at the tier 2 level, in order to catch up with the class. In many schools, this affects between 15 and 20 per cent of all students, but it can be relevant for a higher proportion of students in some schools.
 
@@ -1009,7 +1009,7 @@ In the next section, we will look at different types of cooperation.
 
 [^3]: Universität Rostock. (n.d.). The Response-to-Intervention Approach. Universität Rostock. Retrieved October 7, 2024, from https://www.rim.uni-rostock.de/en/response-to-intervention-approach/the-response-to-intervention-approach/
 
-### 4.3 Cooperation und Multiprofessionalty
+### 4.3 Cooperation und Multi-Professionalty
 
 Types of Cooperation
 ------
