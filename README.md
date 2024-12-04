@@ -892,7 +892,7 @@ It becomes clear that inclusion is a sense of belonging, feeling respected and v
 > community and communality, only when seen as both reflective of, and creative of
 > inclusion in society”
 >
-> --Thomas (2013)[^2].
+> -- Thomas (2013)[^2].
 
 With this quote in mind, underpinning this OER is a broad understanding of inclusive education including changes and modifications in structures, approaches, strategies, teaching methods and content. The intention is that social systems involved near (such as schools and families) or far (such as school principals, university teachers, politicians) in school education, overcome barriers and discrimination with a vision serving to provide all students with equitable and participatory education (cf. also Köpfer et al., 2021)[^2].
 
@@ -907,7 +907,7 @@ With this quote in mind, underpinning this OER is a broad understanding of inclu
 
 [^3]: Köpfer, A., Powell, J. J. W., & Zahnd, R. (2021). Handbuch Inklusion international / International handbook of inclusive education (A. Köpfer, J. J. W. Powell, & R. Zahnd, Eds.). Verlag Barbara Budrich. https://library.oapen.org/handle/20.500.12657/46311
 
-### 4.1 Inclusive Education – a Broad Term with a Common Sense
+### 4.1 Inclusive Education – A Broad Term and a Shared Endeavour
 
 "An important element of inclusive education involves ensuring that all teachers are prepared to teach all students. Inclusion cannot be realized unless teachers are empowered agents of change, with vlues, knowledge and attitudes that permit every student to succeed. Despite their differences in teacher standards and qualifications, education systems are increasingly moving away from identifying problems with learners and towards identifying barriers to learning. To complete this shift, education systems must design teacher education and professional learning opportunities that dispel entrenched views that some students are deficient, unable to learn or incapable." (UNESCO, 2020)[^1] 
 
