@@ -635,6 +635,9 @@ Given the interactions and influence of individual thought structures and inclus
 
 Similar to institutions, social roles emerge from a particular social dynamic. Role adoption does not only occur as trained behaviour, but rather roles are continuously and meaningfully imparted in socialisation processes. According to Mead's Symbolic Interactionism Theory (Mead, 1934)[^1], individual identities develop from self-reflection, reflection on others and interaction with others.
 
+I, Me and Self.
+---
+
 Mead distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
 <center>![Individuum: I, Me and Self](graphic-mead-i-me-self.png)Individuum: I, Me & Self. Own illustration.</center>
