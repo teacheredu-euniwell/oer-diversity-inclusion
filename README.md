@@ -414,9 +414,9 @@ The idea of inclusion refers both to an ideological stance and an approach to de
 
 "When referring to the design of education, inclusion implies a classroom where the diversity of students is acknowledged in that all students are provided with a meaningful education (Florian, 2017[^3]; Popkewitz, 2004[^4]). An inclusive classroom contains a diverse mix of students and inclusion relates to social, spatial, and didactical aspects of education (Asp-Onsjö,2006)[^5].
 
-* The teacher is knowledgeable and confident in implementing research-based inclusive education.
-* The teacher is able to plan and adapt differentiated education, respecting the different needs of students.
-* The teacher promotes supportive education, aiming at fostering independent, self-confident, and critical learners." 
+* The teacher has knowledge of and confidently implements research-based inclusive education.
+* The teacher is able to plan and adapt differentiated education that respects the different needs of students.
+* The teacher promotes supportive education aimed at fostering independence, self-confidence, and critical thinking in learners."
 
 (EUniWell,2022)[^6]
 
@@ -424,10 +424,10 @@ Examples of Professional Standards and Related Professional Behaviours (Inclusio
 ---
 
 <!-- data-type="none" -->
-| Core Competence                          |                                      Professional Standards                                       |                                                                                                                          Sub-Components Standards |                                                   Expected professional behaviour |
+| Core Competence                          |                                      Professional Standards                                       |                                                                                                                          Sub-Components of Standards |                                                   Expected Professional Behaviour |
 | :---------------------------------------- |:-------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------------------------------------------------------------------------| :---------------------------------------------------------------------------------|
-| Create an inclusive learning environment | Being able to plan and adapt differentiated education that respects the different needs of students |                                                                          Being able to plan inclusively and accommodate the (special) needs of pupils.  | Assessing each student's abilities and challenges within the specific learning group | 
-| -                                        |                                                 .                                                 | Being able to adapt curriculum requirements to students' (special) needs and being able to create differentiated learning materials and environments |Adapting curriculum requirements to students' (special) needs and creating differentiated learning environments|
+| Creating an inclusive learning environment. | Being able to plan and adapt differentiated education that respects the different needs of students. |                                                                          Being able to plan inclusively and accommodate the (special) needs of pupils.  | Assessing each student's abilities and challenges within the specific learning group. | 
+| -                                        |                                                 .                                                 | Being able to adapt curriculum requirements to students' (special) needs and being able to create differentiated learning materials and environments. |Adapting curriculum requirements to students' (special) needs and creating differentiated learning environments.|
 ^Table 1. (EUniWell, 2022)[^6]^
 
 [^1]: UNESCO, International Commission on the Futures of Education. (2021). Reimagining our futures together: a new social contract for education. UNESCO. https://doi.org/10.54675/asrb4722
