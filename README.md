@@ -412,13 +412,13 @@ Professional Standards for Inclusion
 
 The idea of inclusion refers both to an ideological stance and an approach to designing education.
 
-"When referring to the design of education, inclusion implies a classroom where the diversity of students is acknowledged in that all students are provided with a meaningful education (Florian, 2017[^3]; Popkewitz, 2004[^4]). Thus, an inclusive classroom holds a diversity of students where inclusion regards social, spatial, and didactical aspects of education (Asp-Onsjö, 2006[^5]).
+"When referring to the design of education, inclusion implies a classroom where the diversity of students is acknowledged in that all students are provided with a meaningful education (Florian, 2017[^3]; Popkewitz, 2004[^4]). An inclusive classroom contains a diverse mix of students and inclusion relates to social, spatial, and didactical aspects of education (Asp-Onsjö,2006)[^5].
 
 * The teacher is knowledgeable and confident in implementing research-based inclusive education.
 * The teacher is able to plan and adapt differentiated education, respecting the different needs of students.
 * The teacher promotes supportive education, aiming at fostering independent, self-confident, and critical learners." 
 
-See EUniWell (2022)[^6]
+(EUniWell,2022)[^6]
 
 Examples of Professional Standards and Related Professional Behaviours (Inclusion)
 ---
