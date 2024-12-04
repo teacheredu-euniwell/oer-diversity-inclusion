@@ -759,7 +759,6 @@ Model of Quality Levels of Disability Policy and Disability Education
 | Level and Description  | Illustration [^4] | 
 | :------- | :------: | 
 | Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](graphic-0extinction.png)   | 
-|  |  | 
 | Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](graphic-1exclusion.png)   | 
 |  |  | 
 | Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](graphic-2segregation.png)   | 
