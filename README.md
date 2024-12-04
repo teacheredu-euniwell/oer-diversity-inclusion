@@ -363,19 +363,21 @@ EUniWell aims to increase the attractiveness and the recognition of the teaching
 Our objectives in Arena 5 are centred around four key areas:
 ---
 
-1. __Innovative research__ 
+1. __Innovative research__
 
-     Advancing trans-institutionaljoint research in the area of teacher education and well-being. Analysing new educational and pedagogical affordances, defining diverse professional skills and training needs, especially for second career teachers. Exploring innovative approaches and training.
+     Advancing joint research in the area of teacher education and well-being.
+     Analysing new educational and pedagogical affordances, defining diverse professional skills and training needs, especially for second career teachers.
+     Exploring innovative approaches and training.
 
-2. __Teacher education programs and educational provision__ 
+2. __Teacher education programs and educational provision__
 
-     Developing academic content and supporting training provision focused on the professionalisation of teaching, lifelong learning, and skills for the future, especially in the area of multilingualism and cultural competences. Defining and expanding a common guiding framework based on professional standards elaborated during EUniWell's pilot phase. Creating open educational resources (OERs), online and hybrid training modules and courses, especially for cross-cutting topics (e.g. such as diversity and inclusion, or social media and digital literacy).
+     Developing academic content and supporting training provision focused on the professionalisation of teaching, lifelong learning, and skills for the future, especially in the area of multilingualism and cultural competences. Defining and expanding a common guiding framework based on professional standards elaborated during EUniWell´s pilot phase. Creating open educational resources (OERs), online and hybrid training modules and courses, especially for cross-cutting topics (e.g. such as diversity and inclusion, or social media and digital literacy).
 
-3. __Collaboration and networking__ 
+3. __Collaboration and networking__
 
      Facilitating knowledge exchange and networking opportunities for actors of all career phases according to their specific needs. Connecting local schools by expanding the European School Network established during EUniWell‘s pilot phase, bringing together teacher educators, students and civic stakeholders. Organising international conferences and lecture series addressing current and future challenges encountered by teachers and educators.
 
-4. __Community engagement__ 
+4. __Community engagement__
 
      Linking theoretical and practical knowledge transfer locally and globally. Creating international mobility experiences for teaching student teacherss, e.g. by promoting internships to foster a global sense of community through the experience of a local sense of belonging. Developing regionally-based training pacts to tackle international questions with local solutions.
 
@@ -385,7 +387,7 @@ Our objectives in Arena 5 are centred around four key areas:
 
 [^2]: EUniWell Teacher Education Team. (n.d.). Arena 5: Teacher Education and Well-Being. European University for Well-Being. Retrieved Winter 11, 2024, from https://www.euniwell.eu/what-we-do/fields-of-action/arena-5-teacher-education-and-well-being
 
-### Definition of Teachers´ Professional Standards
+### Definition of Professional Standards for Teachers
 
 > "In a new social contract for education, teachers must be at the centre and their profession  
 > revalued and reimagined as a collaborative endeavour which sparks new knowledge to bring about 
