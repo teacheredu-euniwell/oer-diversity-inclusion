@@ -1009,7 +1009,7 @@ In the next section, we will look at different types of cooperation.
 
 [^3]: Universität Rostock. (n.d.). The Response-to-Intervention Approach. Universität Rostock. Retrieved October 7, 2024, from https://www.rim.uni-rostock.de/en/response-to-intervention-approach/the-response-to-intervention-approach/
 
-### 4.3 Cooperation und Multi-Professionalty
+### 4.3 Cooperation und Multi-Professionality
 
 Types of Cooperation
 ------
