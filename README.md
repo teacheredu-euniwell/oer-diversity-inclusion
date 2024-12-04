@@ -389,13 +389,11 @@ Our objectives in Arena 5 are centred around four key areas:
 
 ### Definition of Professional Standards for Teachers
 
-> "In a new social contract for education, teachers must be at the centre and their profession  
-> revalued and reimagined as a collaborative endeavour which sparks new knowledge to bring about 
-> educational and social transformation 
+> "In a new social contract for education, teachers must be at the centre and their profession revalued and reimagined as a collaborative endeavour which sparks new knowledge to bring about educational and social transformation."
 >
 > -- UNESCO (2021)[^1]
 
-One of the key foci that were adressed during EUniWell´s pilot phase (2019-2023) was the need for further professionalization of teaching,  especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
+One of the key focus areas during EUniWell’s pilot phase (2019–2023) was the need for further professionalization of teaching, especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
 
 <center>![Teacher Education Logical Framework](graphic-teacher-education-framework.png) Teacher Education Logical Framework, Del Gobbo et al. (2023)[^2]</center>
 <br>
@@ -407,7 +405,7 @@ The new competence areas for teachers' professionalization were defined as:
 3. Well-being
 2. Inclusion
 
-For each area, professional standards have been identified and articulated into sub-professional standards, and the related professional behaviours expected by teachers of the future. 
+For each area, professional standards have been identified and broken down into sub-components and related professional behaviours expected of the teachers of the future.
 
 Professional Standards for Inclusion
 ====
