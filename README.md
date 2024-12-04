@@ -677,7 +677,7 @@ You can test your acquired knowledge below.
 
 ![discrimination, diversity and inclusion](chapter-discrimination-inclusion.png)
 
-This chapter looks at the definitions of diversity and inclusion.
+This chapter looks at the definitions of discrimination, diversity and inclusion.
 
 We take a close look at conceptual changes and differences between exclusion, separation, integration, and inclusion in education from a social-historical perspective. We also delve into the term discrimination - as the opposite of inclusion - because of its relevance for recognising diversity.
 
