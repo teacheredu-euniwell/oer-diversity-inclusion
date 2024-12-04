@@ -760,11 +760,8 @@ Model of Quality Levels of Disability Policy and Disability Education
 | :------- | :------: | 
 | Level 0 - __Extinction__ <br><br> "Extinction occurred, for example, during the Nazi era in Germany, when people with disabilities were systematically murdered." (Grosche, 2015)[^1]     |   ![Extinction](graphic-0extinction.png)   | 
 | Level 1 - __Exclusion__ <br><br> "Exclusion occurs when students are directly or indirectly prevented from or denied access to education in any form." (UN-CRPD, 2016)[^3]     |   ![Exclusion](graphic-1exclusion.png)   | 
-|  |  | 
 | Level 2 - __Segregation__ <br><br> "Segregation occurs when the education of students with disabilities is provided in separate environments designed or used to respond to a particular or various impairments, in isolation from students without disabilities." (UN-CRPD, 2016)[^3]     |   ![Segregation](graphic-2segregation.png)   | 
-|  |  | 
 | Level 3 - __Integration__ <br><br> "Integration is a process of placing persons with disabilities in existingmainstream educational institutions, as long as the former can adjust to the standardized requirements of such institutions." (UN-CRPD, 2016)[^3]     |   ![Integration](graphic-3integration.png)   | 
-|  |  | 
 | Level 4 - __Inclusion__ <br><br> "IInclusion involves a process of systemic reform embodying changes and modifications in content, teaching methods, approaches, structures and strategies in education to overcome barriers with a vision serving to provide all students of the relevant age range with an equitable and participatory learning experience and environment that best corresponds to their requirements and preferences." (UN-CRPD, 2016)[^3]     |   ![Inclusion](graphic-4inclusion.png)   | 
 
 What You Will Find in the Next Section
