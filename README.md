@@ -890,14 +890,16 @@ It becomes clear that inclusion is a sense of belonging, feeling respected and v
 
 > “Inclusive education is meaningful only when embedded in understandings about 
 > community and communality, only when seen as both reflective of, and creative of
-> inclusion in society”
+> inclusion in society.”
 >
-> -- Thomas (2013)[^2].
+> -- Thomas (2013)[^2]
 
-With this quote in mind, underpinning this OER is a broad understanding of inclusive education including changes and modifications in structures, approaches, strategies, teaching methods and content. The intention is that social systems involved near (such as schools and families) or far (such as school principals, university teachers, politicians) in school education, overcome barriers and discrimination with a vision serving to provide all students with equitable and participatory education (cf. also Köpfer et al., 2021)[^2].
+The broad understanding of inclusive education at the heart of this OER takes this quotation as its departure point and encompasses changes and modifications of structures, approaches, strategies, teaching methods, and learning content.
+
+The intention is that the social systems involved in school education – be it at close range like schools and families or more distantly like school principals, university lecturers, and politicians – should overcome barriers and discrimination with a shared vision for providing all students with equitable and participatory education (cf. also Köpfer et al., 2021)[^2].
 
 > __Learning Goals__
-> 
+>
 > * You are able to specify what inclusive education means.
 > * You are able to explain how inclusive education could be implemented in schools at different levels (i.e. education system, single school, lesson).
 
