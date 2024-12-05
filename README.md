@@ -1367,11 +1367,12 @@ In the next section we will look at a fictional case vignette about social origi
 
 Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
-> __"Social Origin" Case Description__
-> 
+Case Description
+---
+
 > Tina, 14 years old, is a student in the 8th grade who lives in a rural area with her parents and her three younger brothers and attends school in a nearby city. Since her mother has fallen seriously ill and her father is now running the family business - a cheese dairy and a small hotel- without her mother, the family's finances have become increasingly strained. Tina now helps out as a server in the restaurant after school and only starts her homework late at night. She can barely keep her eyes open in class and she sits away from her friends during the breaks to rest. 
 >
-> As a teacher, you know nothing about the pressures Tina is under. However, she doesn't seem to be looking forward to the upcoming class trip at all. You are worried about her - and rightly so, because Tina then comes to you to let you know that she doesn't want to go on the picnic next week or on the school trip. She says she had a fight with her best friend - and this makes you think. 
+> As a teacher, you know nothing about the pressures Tina is under. She was always rather quiet in class and her performance was in the middle range. However, she doesn't seem to be looking forward to the upcoming class trip at all. You are worried about her - and rightly so, because Tina then comes to you to let you know that she doesn't want to go on the picnic next week or on the school trip. She says she had a fight with her best friend - and this makes you think. 
 
 Some Ways in Which You Could React:
 ---
@@ -1386,8 +1387,9 @@ Some Ways in Which You Could React:
 > * Ask Tina and her friend to talk
 > * Seek dialogue within the teaching staff
 > * Other ideas?
+>
+> You can also note other ideas separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
-You can also note other ideas separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 [^1]: Photorealistic image of a tired 14-year-old girl in 8th grade, sitting at her desk in a bright classroom, looking worried, with droopy eyes, while classmates chat nearby. A calendar shows an upcoming class trip.
 
@@ -1413,15 +1415,18 @@ You will encounter the case vignette "language and identity".
 
 ### 5.4 Case Vignette 2: "Language and Identity"
 
-Now, we now describe another case-vignette on the topic of migration and identity. Please take your time and remember: This is an exercise to reflect on your role as a teacher in different classrooms; it is not a test where you have to choose right or wrong answers! 
-
-In Addition: If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
+Now, we now describe another case-vignette on the topic of migration and identity.
 
 <center>![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-> __“Language” Case Description__
-> 
+Please take your time and remember: This is an exercise to reflect on your role as a teacher in different classrooms; it is not a test where you have to choose right or wrong answers!
+
+In Addition: If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
+
+Case Description
+---
+
 > You are a class teacher at a secondary school that has a high proportion of pupils with a migrant background, while the socio-cultural diversity of your colleagues is rather rare. On the whole, you have the impression that the new students’ transition to school is successful and that they are well integrated after the first year. However, the case of Hadil and Sol, 16-year-old twins, is different. They have been in their class for 10 months, but they still remain alone and do not participate in school activities. They do not speak in the school language, even though they attend the additional language course. They are also silent in English lessons, even though they had English lessons in their home country. They always use a translator for exercises in the classroom and at home and their performance is generally good. However, there is no verbal communication in class, neither with their peers nor with you or other teachers. This is a major problem for social inclusion and educational success. 
 
 Some Ways in Which You Could React
@@ -1471,7 +1476,7 @@ In the next section we look at function, disability, and health.
 [^1]: Photorealistic image of a classroom, in the foreground twin teenage sisters sitting next to each other looking at tablets. In the background, students are sitting.
 
 
-###	5.5 Function, Disability, and Health
+###	5.5 Function, Disability and Health
 
 It is simply a fact that we are all individual humans with different physical and cognitive abilities.However, some individuals with physical and/or cognitive functions and structures that deviate from certain norms face particular disadvantages in everyday life. Medical diagnoses of disease and disability represent deviations from the norm of health.
 
