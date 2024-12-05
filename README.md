@@ -263,7 +263,7 @@ This EUniWell OER self-study module "Diversity and Inclusion" will be available 
 > * You are able to specify what inclusive education means.
 > * You are able to explain how inclusive education could be implemented in schools at different levels (i.e. education system, single school, lesson).
 
-> [__Chapter 5 - Examples of Students´ Diversity in Inclusive Classrooms__](#29)
+> [__Chapter 5 - Examples of Student Diversity in Inclusive Classrooms__](#29)
 >
 > Teachers must be able to respond to the different needs and requirements of each individual student. To achieve this, they must be sensitised to the various dimensions of diversity (social-cultural, biological-physical, and psycho-emotional). Furthermore, they must learn how to react in inclusive lessons, experiment with what makes quality inclusion possible, and engage in reflection with colleagues in the school context and other professionals.
 > 
@@ -1109,7 +1109,7 @@ __2. Sharing Roles and Responsibilities__
 ----
 The aim should be to plan, implement, and evaluate the lesson together and to share responsibilities. Different strengths of the co-teachers can come into play in the planning and design of lessons, but both should play an equal part in all aspects of the lesson. In well-functioning co-teaching classes, it is often impossible to tell at first glance who is a special needs teacher and who is a mainstream teacher because both are equally committed and have an equal say.
 
-__Six Forms of Co-teaching__
+__Six Forms of Co-Teaching__
 ---
 
 In practice, dividing up roles and responsibilities between two teachers can be achieved by adopting one of the following six models or combining elements from the different models.
@@ -1129,7 +1129,7 @@ In practice, dividing up roles and responsibilities between two teachers can be 
 
 ^Table 1. is based on Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010)[^1] and Studienseminar Hannover für das Lehramt für Sonderpädagogik: Handreichungen zur Ausbildung im gemeinsamen Unterricht. Ttranslation by project team.[^2]^
 
-__Video playlist: Six forms of Co-Teaching__
+__Video playlist: Six Forms of Co-Teaching__
 
 To play a specific co-teaching form video, click on the playlist icon (1/8) in the top right corner of the youtube video.
 
@@ -1180,6 +1180,8 @@ attentiveness and engagement. When this strategy is used, the instructional conv
 
 Regardless of which model of collaboration co-teachers implement, they are required to engage in an intensive examination of how they both want to share responsibility for planning, implementing, and evaluating lessons.
 
+When both experts give each other appropriate freedom of action in these areas, their competencies are not only used, but also expanded over time and can therefore be used more flexibly.
+
 __3. Developing a Shared Classroom in Detail__
 ---
 
@@ -1215,6 +1217,10 @@ __Questions That Should be Discussed in This Context:__
 > * While some co-teachers meet immediately after class, other co-teachers prefer to email or call each other later. It is also helpful if co-teachers agree on a place where they both have access to messages from parents and collected materials.
 
 It is crucial that co-teachers take enough time to discuss and answer these questions and it is also imperative that any disagreements that do arise are not resolved in front of the students but in private. Only after co-teachers have taken the time to lay down foundations for co-teaching does it make sense for them to embark on actually planning and delivering lessons together.
+
+What You Will Find in the Next Section
+---
+In the next section we will look at practical tips for planning co-teaching in the classroom.
 
 [^1]: Friend, M., Cook, L., Hurley-Chamberlain, D., & Shamberger, C. (2010). Co-teaching: An illustration of the complexity of collaboration in special education. Journal of Educational and Psychological Consultation: The Official Journal of the Association for Educational and Psychological Consultants, 20(1), 9–27. https://doi.org/10.1080/10474410903535380
 
@@ -1287,7 +1293,7 @@ I think the advice that I can give, when it comes to co-teaching is just to have
 
 <iframe src="https://euniwell.de.cool/wp-admin/admin-ajax.php?action=h5p_embed&id=34" width="958" height="1107" frameborder="0" allowfullscreen="allowfullscreen" title="Co-Teaching Forms and Applications (Drag &amp; Drop)"></iframe><script src="https://euniwell.de.cool/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## 5. Examples of Students´ Diversity in Inclusive Classrooms
+## 5. Examples of Student Diversity in Inclusive Classrooms
 
 ![Diversity](chapter-diversity.png)
 
