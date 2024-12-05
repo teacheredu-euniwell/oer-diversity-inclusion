@@ -1316,15 +1316,13 @@ Each section contains a case vignette. Note that we deliberately refrain from di
 
 ###	5.1 Socioeconomical Inequality
 
-Sociologists examining the causes, mechanisms, and consequences of discrimination (see chapter 2) and social inequality focus on the impact of ascribed features of social status (like ethnicity or gender) and acquired attributes (like the level of education a person has reached). Inequality is social insofar as it arises through social processes. 
+Sociologists examining the causes, mechanisms, and consequences of discrimination (see chapter 2) and social inequality focus on the impact of ascribed features of social status (like ethnicity or gender) and acquired attributes (like the level of education a person has reached). Inequality is social insofar as it arises through social processes.
 
-Finding a value-free definition of social inequality is challenging, however. One might say: "Social inequality exists when people have different levels of well-being" (Brüderl, 2019)[^1]. 
-
-But this poses another problem, that of defining well-being. In that light, the following definition may be preferable:
+Finding a value-free definition of social inequality is challenging, however. One might say: "Social inequality exists when people have different levels of well-being" (Brüderl, 2019)[^1]. But this poses another problem, that of defining well-being. In that light, the following definition may be preferable:
 
 > __Definition of Social Inequality__
 >
-> Social inequality exists when people have different levels of primary and/or secondary intermediate goods. Intermediate goods are dimensions of social inequality such as education or financial capital.” (translated from Brüderl, 2019)[^1]
+> "Social inequality exists when people have different levels of primary and/or secondary intermediate goods. Intermediate goods are dimensions of social inequality such as education or financial capital.” (translated from Brüderl, 2019)[^1]
 
 Whether inequality is just or unjust is a separate question that will not be discussed here. For a common definition of social justice and an extended description of relevant concepts, theory, and praxis, see Abbott (2014)[^2].
 
@@ -1349,7 +1347,7 @@ International comparative research has shown time and again that these aspects a
 
 What You Will Find in the Next Section
 ---
-In the next section we will take a closer look at four dimensions of diversity as well as four case-vignettes.
+In the next section we will look at a fictional case vignette about social origin and possible teacher responses.
 
 [^1]: Brüderl, J. (2019). Vorlesung Sozialstrukturanalyse. https://www.ls3.soziologie.uni-muenchen.de/studium-lehre/lehrmaterialien/ws-2019-2020/vorlesung-sozialstruktur_19.pdf
 
