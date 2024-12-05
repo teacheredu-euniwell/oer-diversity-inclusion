@@ -1496,15 +1496,14 @@ The ICF also lists environmental factors that interact with the constructs menti
 
 It is clear that it is crucial for teacher to be aware of and sensitive to students' individual (dis)abilities and their well-being. However, general education teachers in mainstream schools are not experts in medicine and special education diagnostics. Therefore, multi-professional cooperation and inter-professional co-teaching are needed as well as open, inclusive attitudes and general knowledge about some diseases and disabilities.
 
-Last but not least, it is crucial to know, that we can find relevant information according to a special disease/disability in the [international version of the ICD-11 manual](https://icd.who.int/en). 
-The manual offers basic knowledge in order to establish a common ground for the communication with special education teachers. 
+Last but not least, it is crucial to know, that we can find relevant information according to a special disease/disability in the [international version of the ICD-11 manual](https://icd.who.int/en). The manual offers basic knowledge in order to establish a common ground for the communication with special education teachers. 
 
 Autism Spectrum Disorder
 ---
 
-The technical term autism spectrum disorder (ASD) seeks to do justice to the wide variety and diversity of the symptoms and typical characteristics of people with ASD [6A02 in the ICD-11 Manual](https://icd.who.int/browse/2024-01/mms/en#437815624) and to the diversity of their strengths, abilities, and impairments. In clinical diagnosis, three main forms of ASD are currently distinguished, __early childhood autism, Asperger’s syndrome,__ and __atypical autism.__
+The technical term autism spectrum disorder (ASD) seeks to do justice to the wide variety and diversity of the symptoms and typical characteristics of people with ASD and to the diversity of their strengths, abilities, and impairments. In clinical diagnosis, three main forms of ASD are currently distinguished, __early childhood autism, Asperger’s syndrome,__ and __atypical autism.__
 
-"Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."(ICD-11, n.d)[^1]
+"Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."(ICD-11, n.d)[^2]
 
 What You Will Find in the Next Section
 ---
