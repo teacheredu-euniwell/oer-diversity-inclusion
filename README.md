@@ -1409,20 +1409,16 @@ It is undisputable that sensitive and inclusion-oriented teachers need to be awa
 What You Will Find in the Next Section
 ----
 
-You will encounter the case vignette "language and identity".
+In the next section we will look at a case-vignette about language and identity.
 
 [^1]:Diehl, C. (2024). Migration und ethnische Ungleichheiten. In Handbuch Sozialstrukturanalyse (pp. 1–25). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-39759-3_47-1 
 
 ### 5.4 Case Vignette 2: "Language and Identity"
 
-Now, we now describe another case-vignette on the topic of migration and identity.
-
 <center>![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
-
-__In addition:__ If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
+__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom! __In addition:__ If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
 
 Case Description
 ---
