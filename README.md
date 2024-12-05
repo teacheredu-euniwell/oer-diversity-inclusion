@@ -1620,7 +1620,7 @@ The illustration presented below shows the three functions of school education a
 
 What You Will Find in the Next Section
 ---
-The last case-vignette describes a classroom situation involving a transgender student. 
+The last case-vignette describes a classroom situation involving a transgender student.
 
 [^1]:American Psychological Association. (2012). Guidelines for psychological practice with lesbian, gay, and bisexual clients. The American Psychologist, 67(1), 10–42. https://doi.org/10.1037/a0024659
 
@@ -1639,7 +1639,9 @@ __Please take your time and remember:__ This is not a test with right or wrong a
 Case Description
 ---
 
-> You are a 9th grade teacher at a rural school. A new school year is just beginning. You start teaching a new class group and find out on the first day that one student (the “Markus” on your list of names) does not identify with their biological sex. Their family is strictly religious and does not accept transgender people. Despite this upbringing, Markus decided during the summer holidays that they now want to be addressed only as Martina and to use female pronouns. The parents do not accept their son’s decision, so Markus/Martina now not only has internal conflicts due to their religiosity, but also external conflicts with their family.
+> You are a 9th grade teacher at a rural school. A new school year is just beginning. You start teaching a new class group and find out on the first day that one student (the“Markus” on your list of names) does not identify with their biological sex.
+>
+> Their family is strictly religious and does not accept transgender people. Despite this upbringing, Markus decided during the summer holidays that they now want to be addressed only as Martina and to use female pronouns. The parents do not accept their son’s decision, so Markus/Martina now not only has internal conflicts due to their religiosity, but also external conflicts with their family.
 >
 > After the first few weeks of school together, you as a teacher notice that Martina is having difficulties in the class community and is becoming withdrawn. You fear that the situation is becoming overwhelming for your student. The internal conflicts caused by religion and the social conflicts with classmates and family members need to be regulated to avert the development of further problems such as a drop in school performance.
 
