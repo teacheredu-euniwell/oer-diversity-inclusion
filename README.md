@@ -1499,10 +1499,10 @@ It is clear that it is crucial for teacher to be aware of and sensitive to stude
 Last but not least, it is crucial to know, that we can find relevant information according to a special disease/disability in the [international version of the ICD-11 manual](https://icd.who.int/en). 
 The manual offers basic knowledge in order to establish a common ground for the communication with special education teachers. 
 
-Autism-Spectrum-Disorders
+Autism Spectrum Disorder
 ---
 
-Due to the variety and diversity of autistic symptoms, the technical term autism spectrum disorders (ASD) is used; see code [6A02 in the ICD-11 Manual](https://icd.who.int/browse/2024-01/mms/en#437815624). The term “spectrum” shows the endeavour to do justice to the wide range of symptoms and typical characteristics as well as the different strengths and abilities, but also the impairments that the respective people with ASD can exhibit, see illustration below.
+The technical term autism spectrum disorder (ASD) seeks to do justice to the wide variety and diversity of the symptoms and typical characteristics of people with ASD [6A02 in the ICD-11 Manual](https://icd.who.int/browse/2024-01/mms/en#437815624) and to the diversity of their strengths, abilities, and impairments. In clinical diagnosis, three main forms of ASD are currently distinguished, __early childhood autism, Asperger’s syndrome,__ and __atypical autism.__
 
 "Autism spectrum disorder is characterised by persistent deficits in the ability to initiate and to sustain reciprocal social interaction and social communication, and by a range of restricted, repetitive, and inflexible patterns of behaviour, interests or activities that are clearly atypical or excessive for the individual’s age and sociocultural context."(ICD-11, n.d)[^1]
 
