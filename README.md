@@ -1654,8 +1654,8 @@ Some Ways in Which You Could React
 >
 > __The First Field of Action Concerns Your Dealings With Martina.__
 >
-> Choose the option that suits you best. This is about your own assessment.
-> 
+> Choose the option that comes closest to the approach you would choose. This is about your own assessment of the situation.
+>
 > * I stay out of it and don't talk to Martina about her problems.
 > * In a conversation with Martina, I refer her to what I think are helpful resources or people who could provide her with support.
 > * I share my own opinion and experiences with Martina.
@@ -1679,14 +1679,14 @@ Some Ways in Which You Could React
 > 
 > * I continue to use the usual social forms and methods.
 > * I try to use more cooperative social forms and activities that strengthen the class community.
-> * I ask the class to be more accepting of Martina."I make the class aware that Martina should be more integrated.
+> * I ask the class to be more accepting of Martina.
 > * Other
 >
-> __What is your approach to your future teaching?__
+> __What is Your Approach to Your Future Teaching?__
 > 
-> * I follow the curriculum without explicitly addressing the topic of transgender.
-> * In order to sensitize the class, I combine the topics of the curriculum with the transgender issue.
-> * I openly discuss Martina's case in front of the class.
+> * I follow the curriculum without explicitly addressing transgender issues.
+> * In order to sensitise the class, I combine the topics of the curriculum with transgender issues.
+> * I openly discuss Martina’s case in front of the class.
 > * Other
 > 
 > __How Do You Deal With Martina’s Parents?__
