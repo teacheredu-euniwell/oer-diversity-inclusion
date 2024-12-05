@@ -1534,7 +1534,7 @@ Some Ways in Which You Could React
 >
 > __Do You Often Worry About Andy Ahead of the Sports Lesson?__
 >
-> If So, How Do You Want to Approach the Situation? (several options available)
+> __If So, How Do You Want to Approach the Situation? (several options available)__
 > 
 > * Address the child's physical health with him directly
 > * Talk to the parents
@@ -1545,7 +1545,7 @@ Some Ways in Which You Could React
 >
 > __Imagine That Teams Have Been Chosen and that Andy Has Been Picked Last (and Reluctantly).__
 >
-> How Do You Feel as a Teacher, on a Stress Scale of 1-5?
+> __How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
 >
 > 0. My well-being is unimpacted
 > 1. Very slightly stressed
@@ -1554,7 +1554,7 @@ Some Ways in Which You Could React
 > 4. Fairly stressed
 > 5. Very stressed
 >
-> Would You Keep the Team Selection Method in the Future?
+> __Would You Keep the Team Selection Method in the Future?__
 >
 > * Yes, a different method would not change the situation for Andy. He will have to put up with it or fight back.
 > * Yes, but I will reprimand the class.
@@ -1563,7 +1563,7 @@ Some Ways in Which You Could React
 >
 > __Imagine Andy Standing in Goal and Being Insulted by Classmates ("You Fill the Whole Goal - It's Great That You Are So Fat!")__
 >
-> How Do You Feel as a Teacher, on a Stress Scale of 1-5?
+> __How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
 >
 > 0. My well-being is unimpacted
 > 1. Very slightly stressed
