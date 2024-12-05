@@ -1365,7 +1365,7 @@ In the next section we will look at a fictional case vignette about social origi
 <center>![case-vignette language](case-vignette-social-origin.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
+__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
 Case Description
 ---
@@ -1420,9 +1420,9 @@ Now, we now describe another case-vignette on the topic of migration and identit
 <center>![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-Please take your time and remember: This is an exercise to reflect on your role as a teacher in different classrooms; it is not a test where you have to choose right or wrong answers!
+__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
-In Addition: If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
+__In addition:__ If you are a person with an immigrant background, please imagine that the students (Hadil and Sol) presented in the following case have a different first language than you.
 
 Case Description
 ---
@@ -1519,13 +1519,14 @@ In the following, we present a case-vignette on another clinical picture; “obe
 
 ### 5.6 Case Vignette 3: "Obesity"
 
-Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
-
 <center>![case-vignette language](case-vignette-obesity.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-> __"Obesity" Case Description__
->
+__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
+
+Case Description
+--
+
 > Andy is 13 years old and has been attending the school where you are have been his sports teacher for a year now. Since changing schools, he has put on a lot of weight, and you are now very concerned about his health. In sports lessons, his body is more of a handicap than a strength. In addition, he is increasingly excluded by the other students and pushed into the goalkeeper role at soccer. You know from her that the parents seem unconcerned and rejected the advice to seek a consultation with an adolescent medicine doctor. His family''s lifestyle seems to be generally unhealthy and Andy is unlikely to be receiving the support he needs at home.
 
 Some Ways in Which You Could React
