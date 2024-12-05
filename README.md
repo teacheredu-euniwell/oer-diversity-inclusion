@@ -1484,8 +1484,8 @@ The International Classification of Function, Disability, and Health (ICF) devel
 
 The components are described from the perspective of the body, the individual, and society in two main lists:
 
-1. __Body functions and body structures__ 
-2. __Activities and participation__ 
+* __Body functions and body structures__
+* __Activities and participation__
 
 Accordingly, disability serves as a generic term for impairments of activity and participation.
 
@@ -1522,7 +1522,7 @@ In the following, we present a case-vignette on another clinical picture; “obe
 __Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
 Case Description
---
+---
 
 > Andy is 13 years old and has been attending the school where you are have been his sports teacher for a year now. Since changing schools, he has put on a lot of weight, and you are now very concerned about his health. In sports lessons, his body is more of a handicap than a strength. In addition, he is increasingly excluded by the other students and pushed into the goalkeeper role at soccer. You know from her that the parents seem unconcerned and rejected the advice to seek a consultation with an adolescent medicine doctor. His family''s lifestyle seems to be generally unhealthy and Andy is unlikely to be receiving the support he needs at home.
 
