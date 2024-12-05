@@ -1360,12 +1360,12 @@ In the next section we will look at a fictional case vignette about social origi
 [^5]:OECD. (2024). Education at a glance 2024: OECD indicators. OECD. https://doi.org/10.1787/c00cad36-en
 
 
-### 5.2 Case Vignette 1: "Social Origin"
-
-Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
+### 5.2 Case Vignette 1: "Social origin"
 
 <center>![case-vignette language](case-vignette-social-origin.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
+
+Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
 
 > __"Social Origin" Case Description__
 > 
