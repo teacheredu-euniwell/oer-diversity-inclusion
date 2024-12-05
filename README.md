@@ -1462,8 +1462,9 @@ Some Ways in Which You Could React
 > * I use a translator writing a letter and provide information about help centres.
 > * I seek dialogue with the parents and a professional interpreter.
 > * Other reactions?
+>
+> You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
-You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 What You Will Find in the Next Section
 ---
@@ -1572,9 +1573,9 @@ Some Ways in Which You Could React
 > * Hope for friendships (1-5)
 > * Insecurity (1-5)
 > * Helplessness (1-5)
-> * Anger that nobody takes him seriously in sports lessons (1-5) 
-
-You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
+> * Anger that nobody takes him seriously in sports lessons (1-5)
+>
+> You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 What You Will Find in the Next Section
 ---
@@ -1618,13 +1619,14 @@ The last case-vignette describes a classroom situation involving a transgender s
 
 ### 5.8 Case Vignette 4: "Transgender"
 
-Take your time as you read and reflect on this story and remember: This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
-
 <center>![case-vignette transgender](case-vignette-transgender.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 <br>
 
-> __"Transgender" Case Description:__
->
+__Please take your time and remember:__ This is not a test with right or wrong answers but an exercise for thinking about your role as a teacher in a diverse classroom!
+
+Case Description
+---
+
 > You are a 9th grade teacher at a rural school. A new school year is just beginning. You start teaching a new class group and find out on the first day that one student (the “Markus” on your list of names) does not identify with their biological sex. Their family is strictly religious and does not accept transgender people. Despite this upbringing, Markus decided during the summer holidays that they now want to be addressed only as Martina and to use female pronouns. The parents do not accept their son’s decision, so Markus/Martina now not only has internal conflicts due to their religiosity, but also external conflicts with their family.
 >
 > After the first few weeks of school together, you as a teacher notice that Martina is having difficulties in the class community and is becoming withdrawn. You fear that the situation is becoming overwhelming for your student. The internal conflicts caused by religion and the social conflicts with classmates and family members need to be regulated to avert the development of further problems such as a drop in school performance.
@@ -1680,8 +1682,8 @@ Some Ways in Which You Could React
 > * I make an offer in writing that I can serve as a contact person and I provide information about other sources of help.
 > * I seek direct contact with the parents.
 > * Other
-
-You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
+>
+> You can also note other reactions separately and share them anonymously on the [public OER feedback wall](https://padlet.com/teacheredueuniwell/oerdiversityinclusion) in the "content" section.
 
 What You Will Find in the Next Section
 ---
