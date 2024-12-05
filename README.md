@@ -1532,16 +1532,20 @@ Some Ways in Which You Could React
 > 
 > Take a moment to think about your preferred course of action as the teacher. Reflect, too, on why you would choose your first-preferred reaction?
 >
-> __Do you often worry about Andy before the sports lesson? If so, how do you want to deal with it? (several options available)__
+> __Do You Often Worry About Andy Ahead of the Sports Lesson?__
+>
+> If So, How Do You Want to Approach the Situation? (several options available)
 > 
-> * Address the child's physical health with him directly 
+> * Address the child's physical health with him directly
 > * Talk to the parents
 > * Ignore the situation/wait for developments or until you are asked
-> * Talk to colleagues about experiences and methods 
+> * Talk to colleagues about experiences and methods
 > * Talk about the case in your own personal environment, seek advice
 > * Other
 >
->__Imagine That Teams Have Been Chosen and that Andy Has Been Picked Last (and Reluctantly). How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
+> __Imagine That Teams Have Been Chosen and that Andy Has Been Picked Last (and Reluctantly).__
+>
+> How Do You Feel as a Teacher, on a Stress Scale of 1-5?
 >
 > 0. My well-being is unimpacted
 > 1. Very slightly stressed
@@ -1550,14 +1554,16 @@ Some Ways in Which You Could React
 > 4. Fairly stressed
 > 5. Very stressed
 >
-> __Would You Keep the Team Selection Method in the Future?__
+> Would You Keep the Team Selection Method in the Future?
 >
 > * Yes, a different method would not change the situation for Andy. He will have to put up with it or fight back.
 > * Yes, but I will reprimand the class.
 > * No, I will choose a different method? Counting out, drawing lots, ...?
 > * No, I will avoid team games and only focus on individual exercises in class.
 >
->__Imagine Andy Standing in Goal and Being Insulted by Classmates ("You Fill the Whole Goal - It's Great That You Are So Fat!") How Do You Feel as a Teacher, on a Stress Scale of 1-5?__
+> __Imagine Andy Standing in Goal and Being Insulted by Classmates ("You Fill the Whole Goal - It's Great That You Are So Fat!")__
+>
+> How Do You Feel as a Teacher, on a Stress Scale of 1-5?
 >
 > 0. My well-being is unimpacted
 > 1. Very slightly stressed
@@ -1566,7 +1572,9 @@ Some Ways in Which You Could React
 > 4. Fairly stressed
 > 5. Very stressed
 >
-> __What Feelings Do You Expect Andy to Have When Sports Class is Coming Up? Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present.__
+> __What Feelings Do You Expect Andy to Have When Sports Class is Coming Up?__
+>
+> Sort the points on a scale according to their strength 0 = not present at all, 1 = very slightly present, .... 5 = very strongly present.
 >
 > * Anxiety (1-5)
 > * Hope for friendships (1-5)
@@ -1690,7 +1698,7 @@ You now come to the last sub-chapter of Students´ Diversity in Inclusive Classr
 
 [^1]: Thin teenage boy with long hair sitting in classroom, transition to female identiy.
 
-### 5.9 Universal factors of personality structure
+### 5.9 Universal Factors of Personality Structure
 
 People are diverse in personality. Being a sensitive teacher, it is important to know about general personality structures. According to the characteristics, you could be similar to some students while different to the others.
 
