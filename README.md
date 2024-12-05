@@ -1599,7 +1599,7 @@ Gender Identity and Psychological Models of Personality
 
 In general, gender refers to the attitudes, feelings, and behaviours that a given culture associates with a person's biological sex (APA, 2012)[^1]. Gender, sex and related terms are often conflated, and the language related to gender identity and sexual orientation has also evolved rapidly.
 
-Gender identity is a component of gender that describes a person's psychological sense of their gender. Many people describe gender identity as a deeply felt, inherent sense of being a boy, a man, or male; a girl, a woman, or female; or a nonbinary gender (e.g., genderqueer, gender non-conforming, gender-neutral, agender, gender-fluid) that may or may not correspond to the sex assigned to a person at birth, the gender other people presume them to have, or their primary or secondary sexual characteristics. Gender identity is not limited to transgender or gender non-conforming individuals - all individuals have a gender identity (APA, 2020)[^2].
+Gender identity is a component of gender that describes a person's psychological sense of their gender. Many people describe gender identity as a deeply felt, inherent sense of being a boy, a man, or male; a girl, a woman, or female; or a nonbinary gender (e.g., genderqueer, gender non-conforming, gender-neutral, agender, gender-fluid) that may or may not correspond to the sex assigned to a person at birth, the gender other people presume them to have, or their primary or secondary sexual characteristics. Gender identity applies to all individuals and is not a characteristic only of transgender or gender-nonconforming individuals (APA, 2020)[^2]. The possible dimensions of gender identity are therefore an ongoing finding process.
 
 LGBTQIA+ Teachers: Challenges, Impact, and Policy
 ---
@@ -1608,7 +1608,12 @@ Scholars in educational research have addressed the challenges of exclusion and 
 
 Lundin (2024)[^3] examined narratives of LGBT teachers and related them to the general functions of education (i.e. qualification, socialisation, subjectification). It was found that teachers strive for development and change in order to disrupt heteronormativity.
 
-That is, policy documents serve as a first step that requires additional comprehensive efforts in schools to address negative attitudes among adults and in the student-teacher relationship. The illustration presented below shows the three functions of school education and teachers’ narratives.
+That is, policy documents serve as a first step that requires additional comprehensive efforts in schools to address negative attitudes among adults and in the student-teacher relationship. 
+
+Functions of School Education and Teachers’ Narratives
+---
+
+The illustration presented below shows the three functions of school education and teachers’ narratives.
 
 <center>![Lubdin](graphic-lundin.png)Own illustration based on Lundin (2024)[^3]</center>
 <br>
