@@ -1702,7 +1702,7 @@ You now come to the last sub-chapter of Students´ Diversity in Inclusive Classr
 
 People are diverse in personality. Being a sensitive teacher, it is important to know about general personality structures. According to the characteristics, you could be similar to some students while different to the others.
 
-Two models discribe the universal personality structures, the Big-5 and the HEXACO Model.
+Two models, the Big-5 and the HEXACO model, describe the universal personality structures.
 
 Big-5 Model
 ---
