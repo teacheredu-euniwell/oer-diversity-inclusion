@@ -1,5 +1,5 @@
 <!--
-version:  2024.12.04.01
+version:  2024.12.06.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     04/12/2024
+date:     06/12/2024
 
 attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -1841,7 +1841,7 @@ The three main categories of bias are:
     * __System 2__ thinks consciously and analytically, but requires more time and energy. 
         ![](https://euniwell.de.cool/wp-content/uploads/liascript/images/bias-system2-slow.jpg)
 
-    Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.
+    * __Bias often occurs in System 1, which processes this information intuitively, while System 2 is more cautious.__
 
 Minimizing Bias
 ---
@@ -1877,9 +1877,8 @@ How Our Percepion Can Distort Decision-Making
 ---
 These examples illustrate that our senses distort information and it is easy to see how cognitive biases can distort our decision-making in similar ways.
 
-In the example of motion-induced blindness, our brain deliberately filters out information by ignoring static elements in order to emphasise moving ones.
+In the example of motion-induced blindness, our brain deliberately filters out information by ignoring static elements in order to emphasise moving ones. In contrast, in the case of the rotating snakes, the brain sees movement where none exists.
 
-In contrast, in the case of the rotating snakes, the brain sees movement where none exists.
 These phenomena exemplify how our perception is distorted by neurological mechanisms.
 Our brain is limited in its processing capacity and makes quick, often erroneous decisions to prioritise and process information – an important insight when dealing with bias.
 
@@ -1907,7 +1906,7 @@ In everyday school life, teachers make countless decisions every day – from as
 >
 > Choice-supportive bias (Lind et al., 2017)[^2] is a tendency to retrospectively overestimate the positive aspects of an option after having chosen it. We tend to positively reinforce decisions we have made – when assessing students or choosing teaching methods – in retrospect.
 >
->> __For example__, after introducing a new teaching method, a teacher may be inclined to perceive this method as more successful than it actually was, simply because they have already chosen it.This can lead to inadequate methods or approaches being retained instead of being critically questioned and adapted.
+>> __For example__, after introducing a new teaching method, a teacher may be inclined to perceive this method as more successful than it actually was, simply because they have already chosen it. This can lead to inadequate methods or approaches being retained instead of being critically questioned and adapted.
 
 > __In-Group Bias__
 >
