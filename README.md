@@ -1628,7 +1628,6 @@ The last case-vignette describes a classroom situation involving a transgender s
 
 [^3]:Lundin, M. (2024). Heteronormativity in Swedish schools: making a difference as an LGBT teacher. Teachers and Teaching, 1–18. https://doi.org/10.1080/13540602.2024.2381045
 
-
 ### 5.8 Case Vignette 4: "Transgender"
 
 <center>![case-vignette transgender](case-vignette-transgender.jpg)AI Image Gen generated image based on own prompt[^1]</center>
@@ -1794,17 +1793,15 @@ The author of this chapter is [Dr. Sebastian Tillmann.](https://www.exc.uni-kons
 
 ![bias](chapter-bias.png)
 
-Why fair decisions are so important in everyday school life:
+Why Fair Decisions are so Important in Everyday School Life
 ---
 
 Studies show that triggers of unconscious biases, such as a student’s name or gender, often flow unnoticed into assessment processes and lead to unfair results (Malouff & Thorsteinsson, 2016).[^1] 
-Such biases influence how we perceive and evaluate students – without us realising it.
+Such biases influence how we perceive and evaluate students – without us realising it. But it doesn’t have to stay that way!
 
-But it doesn’t have to stay that way!
----
-This chapter will help you to recognise and reduce these subtle influences so that your decisions remain fair and equitable. You will expand your knowledge of biases and learn how to minimise them in your everyday school life.
+This chapter will help you to recognise and reduce these subtle influences so that your decisions remain fair and equitable. You will expand your knowledge of biases and learn how to minimise them in your everyday school life. Whether you are a (future) teacher, school principal, or otherwise involved in education – you will find practical strategies that you can implement straight away here. 
 
-Whether you are a (future) teacher, school principal, or otherwise involved in education – you will find practical strategies that you can implement straight away here. In the next four sections, you will learn what bias is, where it occurs, and how you can make your decision-making fairer and more conscious. Practical exercises and reflection tasks will help you to integrate what you have learned directly into your everyday teaching.
+In the next four sections, you will learn what bias is, where it occurs, and how you can make your decision-making fairer and more conscious. Practical exercises and reflection tasks will help you to integrate what you have learned directly into your everyday teaching.
 
 
 > __Learning Goals__
