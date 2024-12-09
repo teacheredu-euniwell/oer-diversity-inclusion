@@ -1403,6 +1403,28 @@ Increasing Well-being
 In principle, it can be assumed that more or better intermediate goods increase individual well-being (see the illustration following Brüderl, 2019)[^4].
 
 <center>![Well-being](graphic-well-being.png) Increasing well-being. Own illustration based on Brüderl (2019)[^4]</center>
+
+<br>
+<details>
+
+<summary>__Click here to show the "increasing well-being" graphic text__</summary>
+
+Increasing Well-being:
+
+__Secondary goods__
+
+* Education
+* Profession (Income and wealth)
+
+Secondary goods help increasing and improving __Primary goods__
+
+* Health
+* Material standard of living 
+* Social connections
+
+Primary good help increasinng and improving __Physical and Social Well-being__
+
+</details>
 <br>
 
 This illustration does not claim to be complete. Where would you site migration/ethnicity and sex/gender?
