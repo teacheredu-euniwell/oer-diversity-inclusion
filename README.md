@@ -1058,6 +1058,7 @@ The following illustration highlights the main features and conditions of succes
      * The cooperation is based on the support of the pupils.
 
 </details>
+<br>
 
 General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
 
@@ -1109,6 +1110,7 @@ __Level 3: Teaching Dyad__
   * benefit from co-teaching
 
 </details>
+<br>
 
 The categories describe the conditions for successful co-teaching in inclusive classes at the levels of the __education system, the single school, and the teaching dyad__.
 
