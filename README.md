@@ -1578,6 +1578,43 @@ Accordingly, disability serves as a generic term for impairments of activity and
 The ICF also lists environmental factors that interact with the constructs mentioned above. This enables the user to create useful profiles of a person's functioning, disability, and health for different domains. Furthermore, the ICF systematically groups different domains for a person with a specific health problem (e.g. what can a person affected by a disease actually do?).
 
 <center>![ICF Model](graphic-icf-model.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]</center>
+
+<br>
+<details>
+
+<summary>__Click here to show the "ICF Model" graphic text__</summary>
+
+__ICF Model__
+
+__Top Level:__ 
+
+* Health Condition
+
+__Mid Level__
+
+* Body Structures and Functions (Impairments)
+
+   * Motos, Cognition, Affecive
+
+* Activities (Limitations)
+
+   * Self-care, Mobility, ADL
+
+* Participation (Restrictions)
+
+   * Social Roles, Education, Emplyment
+
+__Base Level__
+
+* Environment (Barriers)
+
+   * Physical, Attitudional, Social
+
+* Personal Factors
+
+   * Sex, Age, Health behaviours
+
+</details>
 <br>
 
 It is clear that it is crucial for teacher to be aware of and sensitive to students' individual (dis)abilities and their well-being. However, general education teachers in mainstream schools are not experts in medicine and special education diagnostics. Therefore, multi-professional cooperation and inter-professional co-teaching are needed as well as open, inclusive attitudes and general knowledge about some diseases and disabilities.
