@@ -1907,17 +1907,13 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 
 Final Quiz Overview
 ---
-__25 Questions__ 
-The quiz consists of 25 fill-in-the-blank, single and multiple choice questions with multiple correct answers.
+* The quiz consists of __25 fill-in-the-blank, single and multiple choice questions__ with multiple correct answers.
 
-__Passing Score__
-A minimum score of 80% (20 fully correct questions) is required to pass.
+* A minimum score of __80% (20 fully correct questions)__ is required to pass.
 
-__Retakes__
-You may retake the quiz as many times as needed to achieve the required score.
+* You may retake the quiz as many times as needed to achieve the required score.
 
-__Certificate__
-Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__. Please copy the link and open it in a new browser tab to access your certificate.
+* Upon successful completion, a message will appear with a link to download your __Certificate of Achievement (PDF)__. Please copy the link and open it in a new browser tab to access your certificate.
 
 Good luck!
 
