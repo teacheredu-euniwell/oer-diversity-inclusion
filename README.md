@@ -1,5 +1,5 @@
 <!--
-version:  2024.12.06.01
+version:  2024.12.09.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     06/12/2024
+date:     09/12/2024
 
 attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -1032,7 +1032,32 @@ International research has clarified beyond doubt that multi-professional teams 
 The following illustration highlights the main features and conditions of successful multi-professional teams:
 
 <center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams. Own illustration based on Widmer-Wolf (2018)[^4]</center>
-<br>
+
+<details>
+
+<summary>__Click here to show the "multiprofessional-teams" graphic text__</summary>
+
+* __Multi-professional teams at schools operate with different professional mandates with regard to the education and upbringing of pupils.__  
+
+     * Although the individuals have different tasks, they are sometimes responsible for many tasks together.
+
+* __The division of labor is based on negotiation processes.__
+
+     * Cooperation requires a discussion about the way in which it is implemented
+
+* __These can be shaped by the convictions and attitudes of those involved, their respective professional socializations...__
+
+     * Professional convictions can be changed through knowledge and new experiences in cooperation.
+
+* __...as well as structures and practices at the school.__
+
+     * Structures and established practice can be a help or a hindrance.
+
+* __In order to support pupils effectively, multi-professional teams are required to develop joint interpretations and goal-oriented practices.__
+
+     * The cooperation is based on the support of the pupils.
+
+</details>
 
 General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
 
@@ -1048,6 +1073,42 @@ The illustration below is a model of teachers' perspectives on the conditions fo
 
 <center>![3 levels of co-teaching](graphic-co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
 <br>
+
+<details>
+
+<summary>__Click here to show the "3 levels of co-teaching" graphic text__</summary>
+
+__Level 1: Educational System__
+
+* inclusive school System
+* teacher Educational
+
+__Level 2: Single School__
+
+* organization of inclusive teaching
+
+  * teaching concepts
+  * time for dyads
+  * equipments
+
+* multiprofessional cooperation
+    
+     * external professional
+     * parents
+     * within schools
+
+__Level 3: Teaching Dyad__
+
+* In between the general teacher and the special education teacher
+
+  * relationship 
+  * self-organization
+  * task-assignment
+  * inclusive learning arrangements
+  * forms of collaboration
+  * benefit from co-teaching
+
+</details>
 
 The categories describe the conditions for successful co-teaching in inclusive classes at the levels of the __education system, the single school, and the teaching dyad__.
 
