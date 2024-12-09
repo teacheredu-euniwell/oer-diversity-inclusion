@@ -1907,9 +1907,9 @@ Try to be aware of your bias and reflect on your attitude, because research has 
 
 Final Quiz Overview
 ---
-* The quiz consists of __25 fill-in-the-blank, single and multiple choice questions__ with multiple correct answers.
+* The quiz consists of 25 fill-in-the-blank, single and multiple choice questions with multiple correct answers.
 
-* A minimum score of __80% (20 fully correct questions)__ is required to pass.
+* To pass the quiz, a minimum score of 80% (20 fully correct questions) is required.
 
 * You may retake the quiz as many times as needed to achieve the required score.
 
