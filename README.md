@@ -1422,7 +1422,7 @@ Secondary goods help increasing and improving __Primary goods__
 * Material standard of living 
 * Social connections
 
-Primary good help increasinng and improving __Physical and Social Well-being__
+Primary good help increasing and improving __Physical and Social Well-being__
 
 </details>
 <br>
