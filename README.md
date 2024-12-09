@@ -1033,6 +1033,7 @@ The following illustration highlights the main features and conditions of succes
 
 <center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams. Own illustration based on Widmer-Wolf (2018)[^4]</center>
 
+<br>
 <details>
 
 <summary>__Click here to show the "multiprofessional-teams" graphic text__</summary>
@@ -1059,7 +1060,6 @@ The following illustration highlights the main features and conditions of succes
 
 </details>
 <br>
-<br>
 
 General schools can establish different kinds of cooperation and adopt changes to their overall structure so that inclusion becomes part of the school culture.
 
@@ -1075,6 +1075,7 @@ The illustration below is a model of teachers' perspectives on the conditions fo
 
 <center>![3 levels of co-teaching](graphic-co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
 
+<br>
 <details>
 
 <summary>__Click here to show the "3 levels of co-teaching" graphic text__</summary>
@@ -1093,10 +1094,10 @@ __Level 2: Single School__
   * equipments
 
 * multiprofessional cooperation
-    
-     * external professional
-     * parents
-     * within schools
+
+  * external professional
+  * parents
+  * within schools
 
 __Level 3: Teaching Dyad__
 
@@ -1110,7 +1111,6 @@ __Level 3: Teaching Dyad__
   * benefit from co-teaching
 
 </details>
-<br>
 <br>
 
 The categories describe the conditions for successful co-teaching in inclusive classes at the levels of the __education system, the single school, and the teaching dyad__.
