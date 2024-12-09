@@ -1701,7 +1701,20 @@ Functions of School Education and Teachers’ Narratives
 
 The illustration presented below shows the three functions of school education and teachers’ narratives.
 
-<center>![Lubdin](graphic-lundin.png)Own illustration based on Lundin (2024)[^3]</center>
+<center>![Lubdin](graphic-lundin.png)Three functions of school education and teachers´ narratives, own illustration based on Lundin (2024)[^3]</center>
+
+<br>
+<details>
+
+<summary>__Click here to show the "three functions of school education and teachers´ narratives" graphic text__</summary>
+
+* __Qualification__ on occasions where knowledge on identity and heteronormativity is acquired 
+
+* __Socialisation__ on occasions when individuals become part of a social setting and re-establish traditions, such as the binary gender system
+
+* __Subjectivation__ on occasions when individuals become autonomous and independent subjects no matter how they identify
+
+</details>
 <br>
 
 What You Will Find in the Next Section
