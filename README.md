@@ -188,8 +188,9 @@ OER Project Team:
 
 Acknowledgements:
 
-* Samantha Jacobs (Student Assistant)
 * The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
+* Samantha Jacobs and Lucy Bell (Student Assistant)
+* André Dietrich (LiaScript Developer)
 
 The Chapter Header Illustrations are by [Manfred Steger](https://pixabay.com/de/users/1848497/) published under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
 
@@ -210,12 +211,15 @@ You are free to share, remix, adapt, and build upon the work, even for commercia
 Use the [CC-Mixer](https://ccmixer.edu-sharing.org/) to check for Creative-Commons license compatibility.
 
 Download
--------------- 
+--------------
 
-This EUniWell OER self-study module "Diversity and Inclusion" will be available for download after approval by the project sponsor in following data formats:
+This EUniWell OER self-study module was developed using the Open Source Software [LiaScript](https://liascript.github.io/).
 
-* ZIP package containing all project files (md,png,jpg,h5p, pptx)
-* SCORM 2004 zip file 
+THe OER files are available for download:
+
+* The LiaScript source files (readme.md and graphics) are available on the [GitHub project page](https://github.com/teacheredu-euniwell/oer-diversity-inclusion)
+* To download an .h5p file click on "reuse" displayed in the footer of each H5P interaction.
+* Download the OER module as [SCORM 2004 zip file](https://euniwell.de.cool/wp-content/uploads/oer-diversity-inclusion-in-education-scorm2004.zip).
 
 ### Chapters, Key Themes and Learning Goals
 
