@@ -117,7 +117,7 @@ fetch('@1')
 
 # EUniWell OER self-study module _Diversity and Inclusion in Education_
 
-![Path](chapter-path.png)
+![Path](chapter-intro.png)
 
 > "People who want inclusion look for ways to make it happen, and people who don't want it look for rationalizations."
 >
