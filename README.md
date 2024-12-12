@@ -1,5 +1,5 @@
 <!--
-version:  2024.12.11.01
+version:  2024.12.12.01
 
 author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
 
@@ -18,7 +18,7 @@ narrator: English Female
 mode:     Textbook
 dark:     false
 
-date:     11/12/2024
+date:     12/12/2024
 
 attribute: The OER self-study module Diversity and Inclusion in Education from the European University for Well-Being is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -117,7 +117,7 @@ fetch('@1')
 
 # EUniWell OER self-study module _Diversity and Inclusion in Education_
 
-![Path](chapter-path4.png)
+![Path](chapter-path.png)
 
 > "People who want inclusion look for ways to make it happen, and people who don't want it look for rationalizations."
 >
