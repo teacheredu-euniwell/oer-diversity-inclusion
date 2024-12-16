@@ -429,11 +429,7 @@ Our objectives in Arena 5 are centred around four key areas:
 
 One of the key focus areas during EUniWell’s pilot phase (2019–2023) was the need for further professionalization of teaching, especially for the future generations of teachers, in order to prepare them for the pressing environmental, technological, and social challenges they are facing on a national and international level. Therefore teacher training should provide and equip them with future skills like "sustainability, well-being, inclusion, and social cohesion." (Del Gobbo et al., 2023)[^2].
 
-<center>
-
-![Teacher Education Logical Framework](graphic-teacher-education-framework.png) Teacher Education Logical Framework, Del Gobbo et al. (2023)[^2]
-
-</center>
+<center>![Teacher Education Logical Framework](graphic-teacher-education-framework.png) Teacher Education Logical Framework, Del Gobbo et al. (2023)[^2]</center>
 
 <br>
 
@@ -544,11 +540,7 @@ Early sociologists assume certain universal functional requirements in societies
 
 It forms the basis of school theory and depicts three major systems of society in abstract terms. The decisive factors here are the interrelationships and the fact that school is located as an institution in the Eeducation system that dependsing on the politicsal and economic systems.
 
-<center>
-
-![Global Organisations and Systems](graphic-global-systems.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]
-
-</center>
+<center>![Global Organisations and Systems](graphic-global-systems.png) Global Organisations and Systems, own illustration based on Fend (2009) p.36 [^2]</center>
 
 <br>
 
@@ -573,11 +565,7 @@ Inclusion as a Special Phenomenon in Current Society
 
 Let us imagine inclusion at the centre of this social systems model.
 
-<center>
-
-![Inclusion in the Center of Social Systems](graphic-global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]
-
-</center>
+<center>![Inclusion in the Center of Social Systems](graphic-global-systems-inclusion.png) Inclusion in the Center of Social Systems, own illustration based on Fend (2009) p.36[^2]</center>
 
 <br>
 
@@ -636,11 +624,7 @@ Now it’s your turn, make five circles, draw yourself in the center and add a t
 The Ecosystemic Development Model
 ---
 
-<center>
-
-![Bronfenbrenners Ecological System Model](graphic-bronfenbrenner-model.png)The Ecosystemic Development Model according to Epp (2017)[^3] translated from German
-
-</center>
+<center>![Bronfenbrenners Ecological System Model](graphic-bronfenbrenner-model.png)The Ecosystemic Development Model according to Epp (2017)[^3] translated from German</center>
 
 <br>
 
@@ -694,11 +678,7 @@ I, Me and Self.
 
 Mead distinguishes three concepts of the individual in his symbolic interactionism theory: I, Me and Self.
 
-<center>
-
-![Individuum: I, Me and Self](graphic-mead-i-me-self.png)Individuum: I, Me & Self. Own illustration.
-
-</center>
+<center>![Individuum: I, Me and Self](graphic-mead-i-me-self.png)Individuum: I, Me & Self. Own illustration.</center>
 
 <br>
 
@@ -713,10 +693,7 @@ Based on the descriptions and theoretical considerations above, we can deduce th
 The following model, based on the idea of symbolic interactionism theory (Mead, 1934[^1]; see also Joas, 1989[^2]; Helle, 2001[^3]) shows how inclusion can arise from social interactions and result in an individual attitude.
 
 <center>
-
-![Individuals´ interactions. Illustration](graphic-inclusive-attitudes.png)Individuals´ interactions. Own illustration.
-
-</center>
+![Individuals´ interactions. Illustration](graphic-inclusive-attitudes.png)Individuals´ interactions. Own illustration.</center>
 
 <br>
 
@@ -977,11 +954,7 @@ The intention is that the social systems involved in school education – be it 
 Core values and competence areas of inclusive teaching
 ---
 
-<center>
-
-![Core Values and Competence Areas of Inclusive Teaching](graphic-inclusive-teaching-competence-arenas.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]
-
-</center>
+<center>![Core Values and Competence Areas of Inclusive Teaching](graphic-inclusive-teaching-competence-arenas.png)Core Values and Competence Areas of Inclusive Teaching, UNESCO (2020)[^1]</center>
 
 ------
 <details>
@@ -1027,11 +1000,7 @@ Three Tiers
 
 The RTI approach is often visualised as a pyramid and a model of three levels or tiers.
 
-<center>
-
-![Response to Intervention Model](graphic-rti-model.png)RTI Model. Pretti-Frontczak et al., 2014, p. 110[^3]
-
-</center>
+<center>![Response to Intervention Model](graphic-rti-model.png)RTI Model. Pretti-Frontczak et al., 2014, p. 110[^3]</center>
 
 <br>
 
@@ -1099,11 +1068,7 @@ International research has clarified beyond doubt that multi-professional teams 
 
 The following illustration highlights the main features and conditions of successful multi-professional teams:
 
-<center>
-
-![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams. Own illustration based on Widmer-Wolf (2018)[^4]
-
-</center>
+<center>![Multiprofessional-Teams](graphic-multiprofessional-teams.png) Multiprofessional Teams. Own illustration based on Widmer-Wolf (2018)[^4]</center>
 
 <br>
 
@@ -1146,11 +1111,7 @@ A Model of Teachers' Perspectives on Co-Teaching
 Let us have a look at what teachers need to be successful in inclusive classrooms.
 The illustration below is a model of teachers' perspectives on the conditions for successful co-teaching by Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5].
 
-<center>
-
-![3 levels of co-teaching](graphic-co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]
-
-</center>
+<center>![3 levels of co-teaching](graphic-co-teaching-levels.png) "3 Levels of Co-Teaching, Jurkowski, S., Ulrich, M., & Müller, B. (2023)[^5]</center>
 
 <br>
 
@@ -1233,11 +1194,7 @@ The next section will shift from the professional level of action to an examinat
 
 The most important aspects of establishing a co-teaching relationship are outlined below. Six distinctive forms of co-teaching can be differentiated to clarify the distribution of roles and responsibilities. This section finishes with a video in which teachers share their experiences.
 
-<center>
-
-![co-teaching-factors](graphic-co-teaching-factors.png)Crucial factors for co-teaching. Own illustration.
-
-</center>
+<center>![co-teaching-factors](graphic-co-teaching-factors.png)Crucial factors for co-teaching. Own illustration.</center>
 
 <br>
 
@@ -1484,11 +1441,7 @@ Increasing Well-being
 
 In principle, it can be assumed that more or better intermediate goods increase individual well-being (see the illustration following Brüderl, 2019)[^4].
 
-<center>
-
-![Well-being](graphic-well-being.png) Increasing well-being. Own illustration based on Brüderl (2019)[^4]
-
-</center>
+<center>![Well-being](graphic-well-being.png) Increasing well-being. Own illustration based on Brüderl (2019)[^4]</center>
 
 <br>
 
@@ -1534,11 +1487,7 @@ In the next section we will look at a fictional case vignette about social origi
 
 ### 5.2 Case Vignette 1: "Social origin"
 
-<center>
-
-![case-vignette language](case-vignette-social-origin.jpg)AI Image Gen generated image based on own prompt[^1]
-
-</center>
+<center>![case-vignette language](case-vignette-social-origin.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 
 <br>
 
@@ -1591,11 +1540,7 @@ In the next section we will look at a case-vignette about language and identity.
 
 ### 5.4 Case Vignette 2: "Language and Identity"
 
-<center>
-
-![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]
-
-</center>
+<center>![case-vignette language](case-vignette-language.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 
 <br>
 
@@ -1670,11 +1615,7 @@ Accordingly, disability serves as a generic term for impairments of activity and
 
 The ICF also lists environmental factors that interact with the constructs mentioned above. This enables the user to create useful profiles of a person's functioning, disability, and health for different domains. Furthermore, the ICF systematically groups different domains for a person with a specific health problem (e.g. what can a person affected by a disease actually do?).
 
-<center>
-
-![ICF Model](graphic-icf-model.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]
-
-</center>
+<center>![ICF Model](graphic-icf-model.jpg)ICF Model, Garro, F., Chiappalone, M., Buccelli, S., De Michieli, L., & Semprini, M. (2021)[^1]</center>
 
 <br>
 
@@ -1736,11 +1677,7 @@ In the following, we present a case-vignette on another clinical picture; “obe
 
 ### 5.6 Case Vignette 3: "Obesity"
 
-<center>
-
-![case-vignette language](case-vignette-obesity.jpg)AI Image Gen generated image based on own prompt[^1]
-
-</center>
+<center>![case-vignette language](case-vignette-obesity.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 
 <br>
 
@@ -1841,11 +1778,7 @@ Functions of School Education and Teachers’ Narratives
 
 The illustration presented below shows the three functions of school education and teachers’ narratives.
 
-<center>
-
-![Lubdin](graphic-lundin.png)Three functions of school education and teachers´ narratives, own illustration based on Lundin (2024)[^3]
-
-</center>
+<center>![Lubdin](graphic-lundin.png)Three functions of school education and teachers´ narratives, own illustration based on Lundin (2024)[^3]</center>
 
 <br>
 
@@ -1874,11 +1807,7 @@ The last case-vignette describes a classroom situation involving a transgender s
 
 ### 5.8 Case Vignette 4: "Transgender"
 
-<center>
-
-![case-vignette transgender](case-vignette-transgender.jpg)AI Image Gen generated image based on own prompt[^1]
-
-</center>
+<center>![case-vignette transgender](case-vignette-transgender.jpg)AI Image Gen generated image based on own prompt[^1]</center>
 
 <br>
 
@@ -1997,11 +1926,7 @@ Model Comparison
 
 The following illustration based on empirical findings shows a comparison (Iller et al., 2021).[^6]
 
-<center>
-
-![hexaco-big5-models](graphic-hexaco-big5-models.png)HEXACO & Big-5 Model comparison llustration by Iller et al. (2021).[^6]
-
-</center>
+<center>![hexaco-big5-models](graphic-hexaco-big5-models.png)HEXACO & Big-5 Model comparison llustration by Iller et al. (2021).[^6]</center>
 
 <br>
 
@@ -2117,11 +2042,7 @@ Motion-Induced Blindness
 ----
 If you focus on the flickering green dot in the animation graphic below for a few seconds, you will see the yellow static dots disappear and reappear.
 
-<center>
-
-![Motion-induced blindness example animation](animation-motion-induced-blindness.gif)Motion-induced blindness example[^2]
-
-</center>
+<center>![Motion-induced blindness example animation](animation-motion-induced-blindness.gif)Motion-induced blindness example[^2]</center>
 
 <br>
 
@@ -2133,11 +2054,7 @@ Although the image is static, it appears as if the “snakes” are moving:
 
 <br>
 
-<center>
-
-![Peripherial-drift illusion graphic](graphic-peripheral-drift-illusion.svg)Rotating snakes - Peripheral drift illusion example[^2]
-
-</center>
+<center>![Peripherial-drift illusion graphic](graphic-peripheral-drift-illusion.svg)Rotating snakes - Peripheral drift illusion example[^2]</center>
 
 <br>
 
