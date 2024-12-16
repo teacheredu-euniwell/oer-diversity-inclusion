@@ -5,7 +5,7 @@ author:   Dr. Manuela Ulrich; Dr. Sebastian Tillmann; Sarah Roos; Michael Kowalc
 
 email:    teacheredu.euniwell@uni-konstanz.de
 
-comment:  Self-study Module about Diversity & Inclusion in Education
+comment:  EUniWell OER Self-study Module Diversity and Inclusion in Education
           
 logo:     logo-euniwell-oer-cc-header.svg 
 
