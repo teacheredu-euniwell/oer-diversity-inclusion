@@ -1,7 +1,7 @@
 <!--
 version:  2024.12.12.01
 
-author:   Dr. Manuela Ulrich, Dr. Sebastian Tillmann, Sarah Roos, Michael Kowalczyk
+author:   Dr. Manuela Ulrich; Dr. Sebastian Tillmann; Sarah Roos; Michael Kowalczyk
 
 email:    teacheredu.euniwell@uni-konstanz.de
 
@@ -10,6 +10,8 @@ comment:  Self-study Module about Diversity & Inclusion in Education
 logo:     https://euniwell.de.cool/wp-content/uploads/liascript/images/euniwell-oer-cc-header.svg 
 
 icon:     https://euniwell.de.cool/wp-content/uploads/liascript/images/euniwell-oer-cc-header.svg
+
+repository: https://github.com/teacheredu-euniwell/oer-diversity-inclusion
 
 language: en
 
@@ -554,7 +556,7 @@ Uri Bronfenbrenner's Ecological Systems Theory posits that human development is 
 Video: Bronfenbrenner's Ecological Systems 
 ---
 
-!?[](https://www.youtube.com/watch?v=g6pUQ4EDHeQ "Source: https://www.youtube.com/watch?v=g6pUQ4EDHeQ")
+!?[Bronfenbrenner´s Ecological Systmes](https://www.youtube.com/watch?v=g6pUQ4EDHeQ "Source: https://www.youtube.com/watch?v=g6pUQ4EDHeQ")
 
 <details>
 
@@ -977,7 +979,7 @@ Video: Response to Intervention: A Tiered Approach to Instructing All Students
 -------
 Let us watch the following video to find out more about the RTI approach.
 
-!?[](https://www.youtube.com/watch?v=nkK1bT8ls0M&t "Source: https://www.youtube.com/watch?v=nkK1bT8ls0M")
+!?[RTI Model](https://www.youtube.com/watch?v=nkK1bT8ls0M&t "Source: https://www.youtube.com/watch?v=nkK1bT8ls0M")
 
 <details>
 
@@ -1302,7 +1304,7 @@ In the next section we will look at practical tips for planning co-teaching in t
 Video: Special Education and Regular Education: Working Together
 ---
 
-!?[](https://www.youtube.com/watch?v=jlc1ZU-P8jc "Source: https://www.youtube.com/watch?v=jlc1ZU-P8jc&")
+!?[Co-Teaching](https://www.youtube.com/watch?v=jlc1ZU-P8jc "Source: https://www.youtube.com/watch?v=jlc1ZU-P8jc&")
 
 <details>
 
