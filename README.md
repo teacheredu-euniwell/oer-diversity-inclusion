@@ -207,7 +207,8 @@ OER Project Team:
 Acknowledgements:
 
 * The case vignettes were created by teacher education master’s students during the 2024 summer semester at the University of Konstanz.
-* Samantha Jacobs and Lucy Bell (Student Assistant)
+* Samantha Jacobs (Student Assistant)
+* Sarah Bermann and Tabea Paul (Student Teachers)
 * André Dietrich (LiaScript Developer)
 
 The Chapter Header Illustrations are by [Manfred Steger](https://pixabay.com/de/users/1848497/) published under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
